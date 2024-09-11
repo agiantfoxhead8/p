@@ -1,0 +1,1185 @@
+Proxy: 114.8.131.178:8080
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15', 'Accept-Language': 'en-GB,en;q=0.8,en-NZ;q=0.7', 'Referer': 'https://www.gov.uk', 'Accept': 'application/x-bzip2', 'X-Forwarded-For': '67.43.236.20', 'Client-IP': '154.84.142.105', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:20
+-------------------------------------------------------------
+Proxy: 103.85.181.82:8080
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="preconnect" href="https://cdn-ukwest.onetrust.com/">
+<link rel="preload" href="https://cdn-ukwest.onetrust.com/scripttemplates/otSDKStub.js">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+<title>Classifieds Used Cars, Buy & Sell,  Dating, Adult | Vivastreet</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Mobile Safari/537.36', 'Accept-Language': 'en-US,en;q=0.8,fr;q=0.7', 'Referer': 'https://www.asda.com', 'Accept': 'application/x-tar', 'X-Forwarded-For': '172.64.150.229', 'Client-IP': '104.236.52.89', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:21
+-------------------------------------------------------------
+Proxy: 119.47.90.25:8080
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; AS; rv:11.0) like Gecko', 'Accept-Language': 'en-GB,en;q=0.9,en-US;q=0.7', 'Referer': 'https://www.whatsapp.com', 'Accept': 'application/json', 'X-Forwarded-For': '172.67.75.93', 'Client-IP': '199.204.248.154', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:21
+-------------------------------------------------------------
+Proxy: 192.145.205.97:8080
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0', 'Accept-Language': 'en-GB,en;q=0.9,en-AU;q=0.6', 'Referer': 'https://www.hsbc.co.uk', 'Accept': 'application/json,application/xhtml+xml;q=0.9', 'X-Forwarded-For': '47.254.158.115', 'Client-IP': '45.114.118.231', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:21
+-------------------------------------------------------------
+Proxy: 101.255.40.98:8080
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<title>Attention Required! | Cloudflare</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15', 'Accept-Language': 'en-GB,en;q=0.9,en-CA;q=0.6', 'Referer': 'https://www.uber.com', 'Accept': 'application/xml;q=0.9', 'X-Forwarded-For': '103.177.235.132', 'Client-IP': '177.12.176.250', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:21
+-------------------------------------------------------------
+Proxy: 154.94.5.241:7001
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Linux; Android 11; SM-G998B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Mobile Safari/537.36', 'Accept-Language': 'en-GB,en;q=0.9,en-AU;q=0.8', 'Referer': 'https://www.asda.com', 'Accept': 'application/x-www-form-urlencoded,image/webp,*/*;q=0.8', 'X-Forwarded-For': '106.14.47.96', 'Client-IP': '45.65.113.71', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:21
+-------------------------------------------------------------
+Proxy: 118.117.188.132:8089
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<title>Attention Required! | Cloudflare</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Linux; Android 11; SM-N986B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Mobile Safari/537.36', 'Accept-Language': 'en-ZA,en-GB;q=0.9', 'Referer': 'https://www.nhs.uk', 'Accept': 'application/xhtml+xml,image/webp,*/*;q=0.8', 'X-Forwarded-For': '72.10.160.93', 'Client-IP': '172.64.171.84', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:23
+-------------------------------------------------------------
+Proxy: 103.127.106.245:1080
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; AS; rv:11.0) like Gecko', 'Accept-Language': 'en-US,en-AU;q=0.9,en;q=0.7', 'Referer': 'https://outlook.live.com', 'Accept': 'application/x-javascript', 'X-Forwarded-For': '103.78.25.101', 'Client-IP': '192.145.205.110', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:24
+-------------------------------------------------------------
+Proxy: 103.48.70.105:83
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="preconnect" href="https://cdn-ukwest.onetrust.com/">
+<link rel="preload" href="https://cdn-ukwest.onetrust.com/scripttemplates/otSDKStub.js">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+<title>Classifieds Used Cars, Buy & Sell,  Dating, Adult | Vivastreet</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36', 'Accept-Language': 'en-GB,en;q=0.9,en-US;q=0.8', 'Referer': 'https://www.msn.com', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8', 'X-Forwarded-For': '103.168.254.162', 'Client-IP': '172.67.75.56', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:24
+-------------------------------------------------------------
+Proxy: 27.147.139.155:58080
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36', 'Accept-Language': 'en-NG,en-GB;q=0.8', 'Referer': 'https://www.google.com', 'Accept': 'image/gif,image/jpeg', 'X-Forwarded-For': '198.16.70.53', 'Client-IP': '45.114.118.231', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:26
+-------------------------------------------------------------
+Proxy: 49.149.63.241:8082
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<title>Attention Required! | Cloudflare</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15', 'Accept-Language': 'en-GB,en;q=0.9,en-US;q=0.7', 'Referer': 'https://www.facebook.com', 'Accept': 'application/rss+xml', 'X-Forwarded-For': '172.67.70.178', 'Client-IP': '72.10.160.171', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:26
+-------------------------------------------------------------
+Proxy: 213.97.158.42:3128
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Linux; Android 11; SM-N960F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Mobile Safari/537.36', 'Accept-Language': 'en-GB;q=0.9,en;q=0.8', 'Referer': 'https://www.theguardian.com', 'Accept': 'application/vnd.android.package-archive', 'X-Forwarded-For': '172.67.23.199', 'Client-IP': '67.43.228.250', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:26
+-------------------------------------------------------------
+Proxy: 27.147.139.154:58080
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (iPad; CPU OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1', 'Accept-Language': 'en-GB;q=0.9,en;q=0.8', 'Referer': 'https://mail.yahoo.com', 'Accept': 'application/x-www-form-urlencoded', 'X-Forwarded-For': '177.12.176.250', 'Client-IP': '117.211.160.35', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:26
+-------------------------------------------------------------
+Proxy: 186.3.97.77:999
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Linux; Android 11; SM-G998B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Mobile Safari/537.36', 'Accept-Language': 'en-GB,en;q=0.8,en-US;q=0.6', 'Referer': 'https://www.amazon.co.uk', 'Accept': 'application/vnd.ms-powerpoint', 'X-Forwarded-For': '27.116.48.42', 'Client-IP': '45.114.118.231', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:27
+-------------------------------------------------------------
+Proxy: 103.88.237.91:84
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="preconnect" href="https://cdn-ukwest.onetrust.com/">
+<link rel="preload" href="https://cdn-ukwest.onetrust.com/scripttemplates/otSDKStub.js">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+<title>Classifieds Used Cars, Buy & Sell,  Dating, Adult | Vivastreet</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Linux; Android 11; SM-N986B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Mobile Safari/537.36', 'Accept-Language': 'en-GB,en;q=0.9,en-US;q=0.7', 'Referer': 'https://www.snapchat.com', 'Accept': 'text/html;q=0.9,*/*;q=0.8', 'X-Forwarded-For': '67.43.227.227', 'Client-IP': '72.10.160.93', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:27
+-------------------------------------------------------------
+Proxy: 36.72.245.209:8080
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<title>Attention Required! | Cloudflare</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0', 'Accept-Language': 'en;q=0.5', 'Referer': 'https://www.whatsapp.com', 'Accept': 'application/xml,application/xhtml+xml', 'X-Forwarded-For': '45.114.118.231', 'Client-IP': '160.251.19.23', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:27
+-------------------------------------------------------------
+Proxy: 67.43.228.251:30265
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="preconnect" href="https://cdn-ukwest.onetrust.com/">
+<link rel="preload" href="https://cdn-ukwest.onetrust.com/scripttemplates/otSDKStub.js">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+<title>Classifieds Used Cars, Buy & Sell,  Dating, Adult | Vivastreet</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; AS; rv:11.0) like Gecko', 'Accept-Language': 'en-GB,en;q=0.8,en-CA;q=0.6', 'Referer': 'https://www.instagram.com', 'Accept': 'application/x-silverlight-app', 'X-Forwarded-For': '192.145.205.110', 'Client-IP': '117.211.160.35', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:28
+-------------------------------------------------------------
+Proxy: 202.180.54.97:8080
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; AS; rv:11.0) like Gecko', 'Accept-Language': 'en-ZW,en-GB;q=0.8', 'Referer': 'https://www.skyscanner.net', 'Accept': 'application/x-json-stream', 'X-Forwarded-For': '122.50.6.186', 'Client-IP': '172.64.171.84', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:29
+-------------------------------------------------------------
+Proxy: 103.125.38.82:8080
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<title>Attention Required! | Cloudflare</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Linux; Android 11; SM-N986B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Mobile Safari/537.36', 'Accept-Language': 'en-GB,en;q=0.9,en-AU;q=0.6', 'Referer': 'https://www.telegraph.co.uk', 'Accept': 'text/css,*/*;q=0.1', 'X-Forwarded-For': '72.10.164.178', 'Client-IP': '67.43.228.252', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:29
+-------------------------------------------------------------
+Proxy: 212.92.204.54:8080
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="preconnect" href="https://cdn-ukwest.onetrust.com/">
+<link rel="preload" href="https://cdn-ukwest.onetrust.com/scripttemplates/otSDKStub.js">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+<title>Classifieds Used Cars, Buy & Sell,  Dating, Adult | Vivastreet</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Linux; Android 10; OnePlus 6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Mobile Safari/537.36', 'Accept-Language': 'en-IE,en-GB;q=0.9', 'Referer': 'https://www.tfl.gov.uk', 'Accept': 'application/x-silverlight-app', 'X-Forwarded-For': '1.32.59.217', 'Client-IP': '160.123.255.6', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:29
+-------------------------------------------------------------
+Proxy: 161.34.36.127:9999
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<title>Attention Required! | Cloudflare</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0', 'Accept-Language': 'en-US,en-GB;q=0.9', 'Referer': 'https://www.bing.com', 'Accept': 'text/javascript,text/html', 'X-Forwarded-For': '67.43.228.252', 'Client-IP': '178.79.129.36', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:30
+-------------------------------------------------------------
+Proxy: 113.116.226.42:9000
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<title>Attention Required! | Cloudflare</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Linux; Android 11; SM-N960F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Mobile Safari/537.36', 'Accept-Language': 'en-IE,en-GB;q=0.9', 'Referer': 'https://www.thetimes.co.uk', 'Accept': 'text/csv,application/json;q=0.9', 'X-Forwarded-For': '67.43.228.253', 'Client-IP': '160.251.19.23', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:30
+-------------------------------------------------------------
+Proxy: 201.187.70.18:999
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Linux; Android 9; SM-G965F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Mobile Safari/537.36', 'Accept-Language': 'en-CA,en-GB;q=0.8,en;q=0.7', 'Referer': 'https://www.deliveroo.co.uk', 'Accept': 'application/zip', 'X-Forwarded-For': '66.235.200.24', 'Client-IP': '23.106.249.36', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:30
+-------------------------------------------------------------
+Proxy: 102.164.249.144:8080
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="preconnect" href="https://cdn-ukwest.onetrust.com/">
+<link rel="preload" href="https://cdn-ukwest.onetrust.com/scripttemplates/otSDKStub.js">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+<title>Classifieds Used Cars, Buy & Sell,  Dating, Adult | Vivastreet</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36', 'Accept-Language': 'en-GB,en;q=0.9,en-IE;q=0.7', 'Referer': 'https://www.nationalrail.co.uk', 'Accept': 'application/rss+xml', 'X-Forwarded-For': '67.43.228.252', 'Client-IP': '188.255.144.1', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:30
+-------------------------------------------------------------
+Proxy: 62.183.96.197:8080
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36', 'Accept-Language': 'en-ZW,en-GB;q=0.8', 'Referer': 'https://mail.google.com', 'Accept': 'application/x-www-form-urlencoded;q=0.9', 'X-Forwarded-For': '66.235.200.77', 'Client-IP': '46.242.109.176', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:31
+-------------------------------------------------------------
+Proxy: 180.149.221.251:8080
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="preconnect" href="https://cdn-ukwest.onetrust.com/">
+<link rel="preload" href="https://cdn-ukwest.onetrust.com/scripttemplates/otSDKStub.js">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+<title>Classifieds Used Cars, Buy & Sell,  Dating, Adult | Vivastreet</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Linux; Android 11; Mi 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Mobile Safari/537.36', 'Accept-Language': 'en-US,en;q=0.9,en-GB;q=0.8', 'Referer': 'https://www.whatsapp.com', 'Accept': 'text/csv,application/json;q=0.9', 'X-Forwarded-For': '109.198.192.144', 'Client-IP': '185.162.230.138', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:31
+-------------------------------------------------------------
+Proxy: 72.10.160.171:25427
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0', 'Accept-Language': 'en-CA,en-GB;q=0.9,en;q=0.8', 'Referer': 'https://www.snapchat.com', 'Accept': 'application/x-www-form-urlencoded;q=0.9', 'X-Forwarded-For': '186.0.144.131', 'Client-IP': '67.43.236.20', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:31
+-------------------------------------------------------------
+Proxy: 103.141.180.254:80
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1', 'Accept-Language': 'en-CA,en-GB;q=0.8,en;q=0.7', 'Referer': 'https://www.asda.com', 'Accept': 'text/csv,application/json;q=0.9', 'X-Forwarded-For': '23.227.38.40', 'Client-IP': '109.198.192.144', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:31
+-------------------------------------------------------------
+Proxy: 160.248.11.204:3128
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<title>Attention Required! | Cloudflare</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:89.0) Gecko/20100101 Firefox/89.0', 'Accept-Language': 'en-US,en-GB;q=0.8,en;q=0.5', 'Referer': 'https://www.facebook.com', 'Accept': 'text/plain;q=0.9', 'X-Forwarded-For': '160.251.19.23', 'Client-IP': '1.32.59.217', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:31
+-------------------------------------------------------------
+Proxy: 170.238.112.71:8080
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Linux; Android 10; SM-G960F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Mobile Safari/537.36', 'Accept-Language': 'en-GB,en;q=0.8', 'Referer': 'https://www.ecosia.org', 'Accept': 'text/css,*/*;q=0.1', 'X-Forwarded-For': '103.177.235.132', 'Client-IP': '67.43.236.20', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:32
+-------------------------------------------------------------
+Proxy: 217.197.121.35:3128
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Linux; Android 8.1; Nexus 6P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Mobile Safari/537.36', 'Accept-Language': 'en-ZW,en-GB;q=0.8', 'Referer': 'https://www.gov.uk', 'Accept': 'application/xml;q=0.9,application/xhtml+xml;q=0.8', 'X-Forwarded-For': '172.67.70.178', 'Client-IP': '45.114.118.231', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:32
+-------------------------------------------------------------
+Proxy: 27.123.221.198:8080
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15', 'Accept-Language': 'en-GB,en-ZA;q=0.9', 'Referer': 'https://www.ebay.co.uk', 'Accept': 'application/x-bzip2', 'X-Forwarded-For': '67.43.227.227', 'Client-IP': '185.162.230.197', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:32
+-------------------------------------------------------------
+Proxy: 51.158.169.52:29976
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<title>Attention Required! | Cloudflare</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0', 'Accept-Language': 'en-GB;q=0.9,en;q=0.8', 'Referer': 'https://duckduckgo.com', 'Accept': 'text/plain;q=0.9,text/html;q=0.8', 'X-Forwarded-For': '23.106.249.36', 'Client-IP': '45.131.208.115', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:32
+-------------------------------------------------------------
+Proxy: 202.169.229.139:53281
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15', 'Accept-Language': 'en-GB,en;q=0.9', 'Referer': 'https://www.just-eat.co.uk', 'Accept': 'application/x-gzip', 'X-Forwarded-For': '72.10.164.178', 'Client-IP': '185.162.230.138', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:32
+-------------------------------------------------------------
+Proxy: 103.145.160.3:8080
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<title>Attention Required! | Cloudflare</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15', 'Accept-Language': 'en-GB,en;q=0.9,en-US;q=0.8', 'Referer': 'https://www.rightmove.co.uk', 'Accept': 'text/html,application/xhtml+xml', 'X-Forwarded-For': '171.243.158.100', 'Client-IP': '23.227.38.40', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:32
+-------------------------------------------------------------
+Proxy: 103.143.169.9:84
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="preconnect" href="https://cdn-ukwest.onetrust.com/">
+<link rel="preload" href="https://cdn-ukwest.onetrust.com/scripttemplates/otSDKStub.js">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+<title>Classifieds Used Cars, Buy & Sell,  Dating, Adult | Vivastreet</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Linux; Android 8.1; Nexus 6P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Mobile Safari/537.36', 'Accept-Language': 'en-GB,en;q=0.9,fr;q=0.8', 'Referer': 'https://www.facebook.com', 'Accept': 'application/vnd.ms-excel,application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'X-Forwarded-For': '66.235.200.24', 'Client-IP': '201.77.107.0', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:32
+-------------------------------------------------------------
+Proxy: 103.204.208.208:8080
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15', 'Accept-Language': 'en-NZ,en-GB;q=0.8', 'Referer': 'https://www.yahoo.com', 'Accept': 'application/json,text/html;q=0.9,*/*;q=0.8', 'X-Forwarded-For': '67.43.227.228', 'Client-IP': '54.39.179.23', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:33
+-------------------------------------------------------------
+Proxy: 62.201.217.194:8080
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="preconnect" href="https://cdn-ukwest.onetrust.com/">
+<link rel="preload" href="https://cdn-ukwest.onetrust.com/scripttemplates/otSDKStub.js">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+<title>Classifieds Used Cars, Buy & Sell,  Dating, Adult | Vivastreet</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (iPad; CPU OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1', 'Accept-Language': 'en-US,en;q=0.8,fr;q=0.6', 'Referer': 'https://www.google.com', 'Accept': 'text/plain;q=0.9', 'X-Forwarded-For': '172.67.23.199', 'Client-IP': '172.67.168.234', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:34
+-------------------------------------------------------------
+Proxy: 115.127.19.163:9090
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0', 'Accept-Language': 'en-GB;q=0.9,en;q=0.8', 'Referer': 'https://www.google.com', 'Accept': 'application/json,application/xhtml+xml;q=0.9', 'X-Forwarded-For': '172.64.171.84', 'Client-IP': '67.43.236.20', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:35
+-------------------------------------------------------------
+Proxy: 213.19.123.178:229
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="preconnect" href="https://cdn-ukwest.onetrust.com/">
+<link rel="preload" href="https://cdn-ukwest.onetrust.com/scripttemplates/otSDKStub.js">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+<title>Classifieds Used Cars, Buy & Sell,  Dating, Adult | Vivastreet</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36', 'Accept-Language': 'en-GB,en;q=0.9,en-AU;q=0.6', 'Referer': 'https://www.snapchat.com', 'Accept': 'application/rss+xml', 'X-Forwarded-For': '103.168.254.162', 'Client-IP': '171.243.158.100', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:35
+-------------------------------------------------------------
+Proxy: 122.54.147.110:8082
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<title>Attention Required! | Cloudflare</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; AS; rv:11.0) like Gecko', 'Accept-Language': 'en-GB,en;q=0.8,en-NZ;q=0.7', 'Referer': 'https://duckduckgo.com', 'Accept': 'text/csv,application/json;q=0.9', 'X-Forwarded-For': '67.43.227.227', 'Client-IP': '185.162.230.197', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:35
+-------------------------------------------------------------
+Proxy: 203.190.46.131:8080
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Linux; Android 11; SM-N960F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Mobile Safari/537.36', 'Accept-Language': 'en-US,en;q=0.5', 'Referer': 'https://duckduckgo.com', 'Accept': 'application/x-gzip', 'X-Forwarded-For': '45.114.118.231', 'Client-IP': '67.43.227.227', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:35
+-------------------------------------------------------------
+Proxy: 103.124.137.150:20
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36', 'Accept-Language': 'en-GB,en;q=0.8,en-IE;q=0.7', 'Referer': 'https://www.sainsburys.co.uk', 'Accept': 'application/x-www-form-urlencoded; charset=UTF-8', 'X-Forwarded-For': '72.10.160.93', 'Client-IP': '172.64.171.84', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:35
+-------------------------------------------------------------
+Proxy: 186.24.9.116:999
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="preconnect" href="https://cdn-ukwest.onetrust.com/">
+<link rel="preload" href="https://cdn-ukwest.onetrust.com/scripttemplates/otSDKStub.js">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+<title>Classifieds Used Cars, Buy & Sell,  Dating, Adult | Vivastreet</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36', 'Accept-Language': 'en-GB,en;q=0.6,en-US;q=0.4', 'Referer': 'https://www.expedia.co.uk', 'Accept': 'application/x-shockwave-flash', 'X-Forwarded-For': '103.177.235.132', 'Client-IP': '67.43.227.228', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:36
+-------------------------------------------------------------
+Proxy: 58.137.174.101:8080
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1 Mobile/15E148 Safari/604.1', 'Accept-Language': 'en-US,en;q=0.8,en-GB;q=0.7', 'Referer': 'https://www.rightmove.co.uk', 'Accept': 'application/ecmascript;q=0.9', 'X-Forwarded-For': '72.10.160.93', 'Client-IP': '171.237.107.221', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:36
+-------------------------------------------------------------
+Proxy: 111.1.61.52:3128
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<title>Attention Required! | Cloudflare</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0', 'Accept-Language': 'en-GB,en;q=0.9,en-CA;q=0.6', 'Referer': 'https://www.rbs.co.uk', 'Accept': 'image/gif,image/jpeg', 'X-Forwarded-For': '67.43.227.227', 'Client-IP': '199.204.248.154', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:37
+-------------------------------------------------------------
+Proxy: 61.129.2.212:8080
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<title>Attention Required! | Cloudflare</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Linux; Android 11; Pixel 4 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Mobile Safari/537.36', 'Accept-Language': 'en-GB,en;q=0.6,en-US;q=0.4', 'Referer': 'https://www.bbc.co.uk', 'Accept': 'application/rss+xml', 'X-Forwarded-For': '178.79.129.36', 'Client-IP': '185.162.228.15', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:37
+-------------------------------------------------------------
+Proxy: 165.16.46.193:8080
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="preconnect" href="https://cdn-ukwest.onetrust.com/">
+<link rel="preload" href="https://cdn-ukwest.onetrust.com/scripttemplates/otSDKStub.js">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+<title>Classifieds Used Cars, Buy & Sell,  Dating, Adult | Vivastreet</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Mobile Safari/537.36', 'Accept-Language': 'en-IE,en-GB;q=0.9', 'Referer': 'https://www.dailymail.co.uk', 'Accept': 'application/xhtml+xml,image/webp,*/*;q=0.8', 'X-Forwarded-For': '72.10.160.171', 'Client-IP': '67.43.236.20', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:37
+-------------------------------------------------------------
+Proxy: 103.191.196.44:8082
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; AS; rv:11.0) like Gecko', 'Accept-Language': 'en-US,en-GB;q=0.9', 'Referer': 'https://www.autotrader.co.uk', 'Accept': 'application/pdf', 'X-Forwarded-For': '170.239.222.139', 'Client-IP': '172.67.176.26', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:37
+-------------------------------------------------------------
+Proxy: 72.10.160.173:25427
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Linux; Android 10; SM-A405FN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Mobile Safari/537.36', 'Accept-Language': 'en-US,en-GB;q=0.8,en;q=0.5', 'Referer': 'https://www.theguardian.com', 'Accept': 'image/gif,image/jpeg', 'X-Forwarded-For': '8.213.128.90', 'Client-IP': '72.10.160.90', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:37
+-------------------------------------------------------------
+Proxy: 121.101.133.81:1111
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Linux; Android 10; SM-G970F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Mobile Safari/537.36', 'Accept-Language': 'en-US,en;q=0.9', 'Referer': 'https://mail.google.com', 'Accept': 'application/xml;q=0.9,application/xhtml+xml;q=0.8', 'X-Forwarded-For': '109.198.192.144', 'Client-IP': '185.162.231.153', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:38
+-------------------------------------------------------------
+Proxy: 36.92.140.113:8080
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<title>Attention Required! | Cloudflare</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15', 'Accept-Language': 'en-GB,en;q=0.9', 'Referer': 'https://www.skype.com', 'Accept': 'application/xml,application/json', 'X-Forwarded-For': '173.245.49.60', 'Client-IP': '188.255.144.1', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:38
+-------------------------------------------------------------
+Proxy: 179.255.219.182:8080
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0', 'Accept-Language': 'en-US,en;q=0.9', 'Referer': 'https://www.rbs.co.uk', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8', 'X-Forwarded-For': '8.213.128.90', 'Client-IP': '92.207.253.226', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:39
+-------------------------------------------------------------
+Proxy: 190.94.212.199:999
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="preconnect" href="https://cdn-ukwest.onetrust.com/">
+<link rel="preload" href="https://cdn-ukwest.onetrust.com/scripttemplates/otSDKStub.js">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+<title>Classifieds Used Cars, Buy & Sell,  Dating, Adult | Vivastreet</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Linux; Android 11; Pixel 4 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Mobile Safari/537.36', 'Accept-Language': 'en-GB,en;q=0.9,en-IE;q=0.7', 'Referer': 'https://mail.yahoo.com', 'Accept': 'application/rss+xml', 'X-Forwarded-For': '172.67.154.224', 'Client-IP': '185.162.231.153', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:40
+-------------------------------------------------------------
+Proxy: 8.242.184.54:8080
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15', 'Accept-Language': 'en-US,en;q=0.8,fr;q=0.7', 'Referer': 'https://outlook.live.com', 'Accept': 'application/json,application/xhtml+xml;q=0.9', 'X-Forwarded-For': '160.251.19.23', 'Client-IP': '72.10.164.178', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:43
+-------------------------------------------------------------
+Proxy: 79.106.229.118:8989
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<title>Attention Required! | Cloudflare</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0', 'Accept-Language': 'en-GB,en;q=0.9,fr;q=0.8', 'Referer': 'https://www.rightmove.co.uk', 'Accept': 'application/xml;q=0.9,application/xhtml+xml;q=0.8', 'X-Forwarded-For': '67.43.236.20', 'Client-IP': '103.168.254.162', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:43
+-------------------------------------------------------------
+Proxy: 103.161.30.1:83
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="preconnect" href="https://cdn-ukwest.onetrust.com/">
+<link rel="preload" href="https://cdn-ukwest.onetrust.com/scripttemplates/otSDKStub.js">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+<title>Classifieds Used Cars, Buy & Sell,  Dating, Adult | Vivastreet</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36', 'Accept-Language': 'en-GB,en;q=0.9,en-AU;q=0.8', 'Referer': 'https://www.natwest.com', 'Accept': 'text/x-c', 'X-Forwarded-For': '172.67.168.234', 'Client-IP': '27.72.29.7', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:43
+-------------------------------------------------------------
+Proxy: 103.154.230.104:8080
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Linux; Android 10; OnePlus 6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Mobile Safari/537.36', 'Accept-Language': 'en-GB,en;q=0.9,en-AU;q=0.8', 'Referer': 'https://outlook.live.com', 'Accept': 'application/atom+xml;q=0.9,application/xml;q=0.8', 'X-Forwarded-For': '72.10.164.178', 'Client-IP': '1.32.59.217', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:43
+-------------------------------------------------------------
+Proxy: 87.229.205.227:8080
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36', 'Accept-Language': 'en-ZA,en-GB;q=0.9', 'Referer': 'https://www.msn.com', 'Accept': 'text/javascript,application/javascript;q=0.9', 'X-Forwarded-For': '172.67.75.56', 'Client-IP': '103.168.254.162', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:43
+-------------------------------------------------------------
+Proxy: 102.222.51.105:8080
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="preconnect" href="https://cdn-ukwest.onetrust.com/">
+<link rel="preload" href="https://cdn-ukwest.onetrust.com/scripttemplates/otSDKStub.js">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+<title>Classifieds Used Cars, Buy & Sell,  Dating, Adult | Vivastreet</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36', 'Accept-Language': 'en-GB,en;q=0.9,en-US;q=0.8', 'Referer': 'https://www.santander.co.uk', 'Accept': 'text/xml,application/xml', 'X-Forwarded-For': '27.72.29.7', 'Client-IP': '172.67.43.238', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:44
+-------------------------------------------------------------
+Proxy: 27.112.70.42:8083
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0', 'Accept-Language': 'en-AU,en-GB;q=0.7,en;q=0.5', 'Referer': 'https://www.hotmail.com', 'Accept': 'text/html,application/json;q=0.9,*/*;q=0.8', 'X-Forwarded-For': '192.145.205.110', 'Client-IP': '23.106.249.36', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:44
+-------------------------------------------------------------
+Proxy: 202.154.12.144:7777
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0', 'Accept-Language': 'en-US,en;q=0.8,fr;q=0.6', 'Referer': 'https://www.yahoo.com', 'Accept': 'application/x-www-form-urlencoded; charset=UTF-8', 'X-Forwarded-For': '186.0.144.131', 'Client-IP': '172.67.201.106', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:44
+-------------------------------------------------------------
+Proxy: 38.10.69.109:9090
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 12_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1 Mobile/15E148 Safari/604.1', 'Accept-Language': 'en-IN,en-GB;q=0.9', 'Referer': 'https://www.whatsapp.com', 'Accept': 'application/vnd.ms-excel,application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'X-Forwarded-For': '141.101.120.67', 'Client-IP': '92.207.253.226', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:45
+-------------------------------------------------------------
+Proxy: 77.41.146.15:8080
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15', 'Accept-Language': 'en-US,en;q=0.8', 'Referer': 'https://www.theguardian.com', 'Accept': 'application/vnd.ms-powerpoint', 'X-Forwarded-For': '159.112.235.189', 'Client-IP': '67.43.227.227', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:45
+-------------------------------------------------------------
+Proxy: 146.190.234.198:3128
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<title>Attention Required! | Cloudflare</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15', 'Accept-Language': 'en-US,en-AU;q=0.9,en;q=0.7', 'Referer': 'https://www.uber.com', 'Accept': 'application/vnd.ms-excel,application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'X-Forwarded-For': '141.101.120.67', 'Client-IP': '103.21.244.204', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:45
+-------------------------------------------------------------
+Proxy: 124.83.51.94:8082
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<title>Attention Required! | Cloudflare</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Mobile Safari/537.36', 'Accept-Language': 'en-US,en;q=0.8,en-GB;q=0.7', 'Referer': 'https://www.halifax.co.uk', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8', 'X-Forwarded-For': '45.114.118.231', 'Client-IP': '68.71.254.6', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:46
+-------------------------------------------------------------
+Proxy: 45.167.90.25:999
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (iPad; CPU OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1', 'Accept-Language': 'en-GB,en;q=0.8,en-IE;q=0.7', 'Referer': 'https://www.snapchat.com', 'Accept': 'application/xhtml+xml;q=0.9,text/html;q=0.8', 'X-Forwarded-For': '172.64.150.229', 'Client-IP': '198.16.70.53', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:46
+-------------------------------------------------------------
+Proxy: 175.100.91.212:8080
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36', 'Accept-Language': 'en-US,en-GB;q=0.7', 'Referer': 'https://www.ecosia.org', 'Accept': 'application/x-json-stream', 'X-Forwarded-For': '103.205.182.141', 'Client-IP': '45.65.113.71', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:46
+-------------------------------------------------------------
+Proxy: 177.190.189.16:44443
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Linux; Android 8.1; Nexus 6P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Mobile Safari/537.36', 'Accept-Language': 'en-GB,en;q=0.7,en-US;q=0.6', 'Referer': 'https://www.ecosia.org', 'Accept': 'application/vnd.ms-excel,application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'X-Forwarded-For': '72.10.160.90', 'Client-IP': '67.43.227.227', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:47
+-------------------------------------------------------------
+Proxy: 72.10.160.173:33171
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<title>Attention Required! | Cloudflare</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Linux; Android 9; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Mobile Safari/537.36', 'Accept-Language': 'en-US,en;q=0.9,en-GB;q=0.8', 'Referer': 'https://www.facebook.com', 'Accept': 'application/rss+xml', 'X-Forwarded-For': '172.67.75.93', 'Client-IP': '201.77.107.0', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:47
+-------------------------------------------------------------
+Proxy: 36.67.223.231:8090
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<title>Attention Required! | Cloudflare</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36', 'Accept-Language': 'en-US;q=0.9,en;q=0.7', 'Referer': 'https://www.amazon.co.uk', 'Accept': 'text/html,application/vnd.mozilla.xul+xml', 'X-Forwarded-For': '185.162.228.89', 'Client-IP': '47.254.158.115', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:47
+-------------------------------------------------------------
+Proxy: 103.156.75.41:8181
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36', 'Accept-Language': 'en-GB,en;q=0.9,en-CA;q=0.6', 'Referer': 'https://www.autotrader.co.uk', 'Accept': 'text/plain;q=0.9', 'X-Forwarded-For': '170.239.222.139', 'Client-IP': '172.64.171.84', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:48
+-------------------------------------------------------------
+Proxy: 95.154.20.113:34248
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="preconnect" href="https://cdn-ukwest.onetrust.com/">
+<link rel="preload" href="https://cdn-ukwest.onetrust.com/scripttemplates/otSDKStub.js">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+<title>Classifieds Used Cars, Buy & Sell,  Dating, Adult | Vivastreet</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Mobile Safari/537.36', 'Accept-Language': 'en-GB,en;q=0.8,en-US;q=0.6', 'Referer': 'https://www.uber.com', 'Accept': 'application/json', 'X-Forwarded-For': '179.57.215.99', 'Client-IP': '72.10.164.178', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:48
+-------------------------------------------------------------
+Proxy: 103.146.170.193:83
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="preconnect" href="https://cdn-ukwest.onetrust.com/">
+<link rel="preload" href="https://cdn-ukwest.onetrust.com/scripttemplates/otSDKStub.js">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+<title>Classifieds Used Cars, Buy & Sell,  Dating, Adult | Vivastreet</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36', 'Accept-Language': 'en-CA,en-GB;q=0.9,en;q=0.8', 'Referer': 'https://duckduckgo.com', 'Accept': 'application/xml,application/xhtml+xml', 'X-Forwarded-For': '198.12.250.231', 'Client-IP': '103.21.244.204', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:48
+-------------------------------------------------------------
+Proxy: 102.213.223.46:82
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="preconnect" href="https://cdn-ukwest.onetrust.com/">
+<link rel="preload" href="https://cdn-ukwest.onetrust.com/scripttemplates/otSDKStub.js">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+<title>Classifieds Used Cars, Buy & Sell,  Dating, Adult | Vivastreet</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; AS; rv:11.0) like Gecko', 'Accept-Language': 'en-GB,en;q=0.9,en-US;q=0.8', 'Referer': 'https://www.facebook.com', 'Accept': 'application/vnd.ms-excel,application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'X-Forwarded-For': '159.112.235.189', 'Client-IP': '72.10.160.170', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:49
+-------------------------------------------------------------
+Proxy: 103.81.212.192:83
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="preconnect" href="https://cdn-ukwest.onetrust.com/">
+<link rel="preload" href="https://cdn-ukwest.onetrust.com/scripttemplates/otSDKStub.js">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+<title>Classifieds Used Cars, Buy & Sell,  Dating, Adult | Vivastreet</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36', 'Accept-Language': 'en;q=0.5', 'Referer': 'https://www.telegraph.co.uk', 'Accept': 'application/x-www-form-urlencoded,image/webp,*/*;q=0.8', 'X-Forwarded-For': '66.235.200.77', 'Client-IP': '72.10.160.170', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:49
+-------------------------------------------------------------
+Proxy: 201.91.82.155:3128
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1', 'Accept-Language': 'en-GB,en;q=0.6,en-US;q=0.4', 'Referer': 'https://www.nhs.uk', 'Accept': 'text/plain;q=0.9', 'X-Forwarded-For': '67.43.236.20', 'Client-IP': '172.67.176.26', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:49
+-------------------------------------------------------------
+Proxy: 45.117.105.185:8082
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="preconnect" href="https://cdn-ukwest.onetrust.com/">
+<link rel="preload" href="https://cdn-ukwest.onetrust.com/scripttemplates/otSDKStub.js">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+<title>Classifieds Used Cars, Buy & Sell,  Dating, Adult | Vivastreet</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Linux; Android 10; SM-G960F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Mobile Safari/537.36', 'Accept-Language': 'en-IE,en-GB;q=0.9', 'Referer': 'https://www.gov.uk', 'Accept': 'application/vnd.ms-access', 'X-Forwarded-For': '72.10.160.90', 'Client-IP': '103.168.254.162', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:50
+-------------------------------------------------------------
+Proxy: 77.77.210.90:21056
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="preconnect" href="https://cdn-ukwest.onetrust.com/">
+<link rel="preload" href="https://cdn-ukwest.onetrust.com/scripttemplates/otSDKStub.js">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+<title>Classifieds Used Cars, Buy & Sell,  Dating, Adult | Vivastreet</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0', 'Accept-Language': 'en-NG,en-GB;q=0.8', 'Referer': 'https://www.tfl.gov.uk', 'Accept': 'application/x-gzip', 'X-Forwarded-For': '141.101.120.67', 'Client-IP': '72.10.160.170', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:50
+-------------------------------------------------------------
+Proxy: 83.171.111.142:8080
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<title>Attention Required! | Cloudflare</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0', 'Accept-Language': 'en-GB,en;q=0.9,en-CA;q=0.6', 'Referer': 'https://www.lloydsbank.com', 'Accept': 'text/html,application/xhtml+xml', 'X-Forwarded-For': '67.43.236.20', 'Client-IP': '72.10.160.93', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:50
+-------------------------------------------------------------
+Proxy: 178.48.68.61:18080
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36', 'Accept-Language': 'en-CA,en-GB;q=0.8,en;q=0.7', 'Referer': 'https://www.barclays.co.uk', 'Accept': 'application/zip', 'X-Forwarded-For': '72.10.164.178', 'Client-IP': '172.64.150.229', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:50
+-------------------------------------------------------------
+Proxy: 89.135.59.65:8090
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Mobile Safari/537.36', 'Accept-Language': 'en;q=0.5', 'Referer': 'https://www.just-eat.co.uk', 'Accept': 'application/x-www-form-urlencoded; charset=UTF-8', 'X-Forwarded-For': '45.131.208.115', 'Client-IP': '177.12.176.250', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:52
+-------------------------------------------------------------
+Proxy: 46.161.194.91:8085
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="preconnect" href="https://cdn-ukwest.onetrust.com/">
+<link rel="preload" href="https://cdn-ukwest.onetrust.com/scripttemplates/otSDKStub.js">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+<title>Classifieds Used Cars, Buy & Sell,  Dating, Adult | Vivastreet</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Mobile Safari/537.36', 'Accept-Language': 'en-GB,en;q=0.9,fr;q=0.8', 'Referer': 'https://www.whatsapp.com', 'Accept': 'application/x-silverlight-app', 'X-Forwarded-For': '104.236.52.89', 'Client-IP': '172.67.154.224', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:52
+-------------------------------------------------------------
+Proxy: 70.186.128.126:8080
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="preconnect" href="https://cdn-ukwest.onetrust.com/">
+<link rel="preload" href="https://cdn-ukwest.onetrust.com/scripttemplates/otSDKStub.js">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+<title>Classifieds Used Cars, Buy & Sell,  Dating, Adult | Vivastreet</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1', 'Accept-Language': 'en-GB,en-AU;q=0.8,en;q=0.5', 'Referer': 'https://www.reddit.com', 'Accept': 'text/csv,application/json;q=0.9', 'X-Forwarded-For': '201.77.107.0', 'Client-IP': '173.245.49.60', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:52
+-------------------------------------------------------------
+Proxy: 47.90.82.199:3128
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<title>Attention Required! | Cloudflare</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15', 'Accept-Language': 'en-GB,en;q=0.8,en-CA;q=0.6', 'Referer': 'https://www.natwest.com', 'Accept': 'application/pdf', 'X-Forwarded-For': '54.39.179.23', 'Client-IP': '160.251.19.23', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:54
+-------------------------------------------------------------
+Proxy: 180.190.200.24:8085
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36', 'Accept-Language': 'en-ZA,en-GB;q=0.9', 'Referer': 'https://www.lloydsbank.com', 'Accept': 'application/x-json-stream', 'X-Forwarded-For': '66.235.200.24', 'Client-IP': '72.10.160.171', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:54
+-------------------------------------------------------------
+Proxy: 101.255.166.114:7777
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<title>Attention Required! | Cloudflare</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Linux; Android 11; Pixel 4 XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Mobile Safari/537.36', 'Accept-Language': 'en-AU,en-GB;q=0.7,en;q=0.5', 'Referer': 'https://www.ecosia.org', 'Accept': 'text/javascript,application/javascript;q=0.9', 'X-Forwarded-For': '67.43.236.20', 'Client-IP': '185.162.230.138', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:55
+-------------------------------------------------------------
+Proxy: 164.90.136.32:999
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<title>Attention Required! | Cloudflare</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Linux; Android 8.1; Nexus 6P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Mobile Safari/537.36', 'Accept-Language': 'en-GB,en;q=0.8', 'Referer': 'https://www.msn.com', 'Accept': 'text/x-c', 'X-Forwarded-For': '110.49.34.126', 'Client-IP': '103.234.26.163', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:55
+-------------------------------------------------------------
+Proxy: 8.219.97.248:80
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<title>Attention Required! | Cloudflare</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1', 'Accept-Language': 'en-GB,en;q=0.9,en-AU;q=0.6', 'Referer': 'https://www.bbc.co.uk', 'Accept': 'application/x-www-form-urlencoded,image/webp,*/*;q=0.8', 'X-Forwarded-For': '172.67.75.93', 'Client-IP': '103.78.25.101', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:56
+-------------------------------------------------------------
+Proxy: 103.188.173.159:1234
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36', 'Accept-Language': 'en-CA,en-GB;q=0.8,en;q=0.7', 'Referer': 'https://www.thetimes.co.uk', 'Accept': 'text/javascript,text/html', 'X-Forwarded-For': '178.79.129.36', 'Client-IP': '159.112.235.189', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:57
+-------------------------------------------------------------
+Proxy: 103.154.77.204:8080
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Linux; Android 10; SM-A405FN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Mobile Safari/537.36', 'Accept-Language': 'en-GB,en;q=0.9,en-US;q=0.8', 'Referer': 'https://www.google.com', 'Accept': 'text/csv,application/json;q=0.9', 'X-Forwarded-For': '67.43.236.20', 'Client-IP': '67.43.227.228', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:57
+-------------------------------------------------------------
+Proxy: 67.43.236.20:18833
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Linux; Android 10; OnePlus 6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Mobile Safari/537.36', 'Accept-Language': 'en-NZ,en-GB;q=0.8', 'Referer': 'https://www.tfl.gov.uk', 'Accept': 'application/x-www-form-urlencoded,image/webp,*/*;q=0.8', 'X-Forwarded-For': '1.32.59.217', 'Client-IP': '154.84.142.105', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:58
+-------------------------------------------------------------
+Proxy: 122.2.48.121:8080
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<title>Attention Required! | Cloudflare</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36', 'Accept-Language': 'en-NG,en-GB;q=0.8', 'Referer': 'https://www.bing.com', 'Accept': 'application/x-www-form-urlencoded,image/webp,*/*;q=0.8', 'X-Forwarded-For': '122.50.6.186', 'Client-IP': '172.67.201.106', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:58
+-------------------------------------------------------------
+Proxy: 102.214.106.114:8080
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="preconnect" href="https://cdn-ukwest.onetrust.com/">
+<link rel="preload" href="https://cdn-ukwest.onetrust.com/scripttemplates/otSDKStub.js">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+<title>Classifieds Used Cars, Buy & Sell,  Dating, Adult | Vivastreet</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Linux; Android 10; SM-G960F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Mobile Safari/537.36', 'Accept-Language': 'en-US,en-AU;q=0.9,en;q=0.7', 'Referer': 'https://mail.yahoo.com', 'Accept': 'application/x-bzip2', 'X-Forwarded-For': '72.10.164.178', 'Client-IP': '67.43.228.250', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:59
+-------------------------------------------------------------
+Proxy: 207.230.8.1:999
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Linux; Android 11; OnePlus 8T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Mobile Safari/537.36', 'Accept-Language': 'en-US,en-GB;q=0.8,en;q=0.5', 'Referer': 'https://www.msn.com', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8', 'X-Forwarded-For': '178.79.129.36', 'Client-IP': '72.10.164.178', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:53:59
+-------------------------------------------------------------
+Proxy: 4.159.29.241:8080
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="preconnect" href="https://cdn-ukwest.onetrust.com/">
+<link rel="preload" href="https://cdn-ukwest.onetrust.com/scripttemplates/otSDKStub.js">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+<title>Classifieds Used Cars, Buy & Sell,  Dating, Adult | Vivastreet</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Linux; Android 11; SM-G998B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Mobile Safari/537.36', 'Accept-Language': 'en;q=0.5', 'Referer': 'https://www.theguardian.com', 'Accept': 'application/x-www-form-urlencoded;q=0.9', 'X-Forwarded-For': '78.134.254.52', 'Client-IP': '138.68.129.50', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:54:00
+-------------------------------------------------------------
+Proxy: 102.164.252.150:8080
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="preconnect" href="https://cdn-ukwest.onetrust.com/">
+<link rel="preload" href="https://cdn-ukwest.onetrust.com/scripttemplates/otSDKStub.js">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+<title>Classifieds Used Cars, Buy & Sell,  Dating, Adult | Vivastreet</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0', 'Accept-Language': 'en-US,en-GB;q=0.9', 'Referer': 'https://www.tesco.com', 'Accept': 'text/html,application/xhtml+xml', 'X-Forwarded-For': '47.254.158.115', 'Client-IP': '72.10.164.178', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:54:00
+-------------------------------------------------------------
+Proxy: 41.174.132.58:8080
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="preconnect" href="https://cdn-ukwest.onetrust.com/">
+<link rel="preload" href="https://cdn-ukwest.onetrust.com/scripttemplates/otSDKStub.js">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+<title>Classifieds Used Cars, Buy & Sell,  Dating, Adult | Vivastreet</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36', 'Accept-Language': 'en-GB,en;q=0.8', 'Referer': 'https://www.lloydsbank.com', 'Accept': 'application/x-json-stream', 'X-Forwarded-For': '72.10.160.170', 'Client-IP': '103.78.25.101', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:54:00
+-------------------------------------------------------------
+Proxy: 44.226.29.99:3128
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<title>Attention Required! | Cloudflare</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15', 'Accept-Language': 'en-GB,en;q=0.8', 'Referer': 'https://www.nationalrail.co.uk', 'Accept': 'text/html,application/xhtml+xml', 'X-Forwarded-For': '201.77.107.0', 'Client-IP': '92.207.253.226', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:54:01
+-------------------------------------------------------------
+Proxy: 24.152.40.49:8080
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Linux; Android 11; SM-N986B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Mobile Safari/537.36', 'Accept-Language': 'en-GB,en;q=0.8,en-CA;q=0.6', 'Referer': 'https://www.halifax.co.uk', 'Accept': 'application/vnd.ms-excel,application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'X-Forwarded-For': '154.84.142.105', 'Client-IP': '67.43.227.226', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:54:01
+-------------------------------------------------------------
+Proxy: 202.47.189.106:8080
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Linux; Android 8.1; Nexus 6P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Mobile Safari/537.36', 'Accept-Language': 'en-GB,en;q=0.9', 'Referer': 'https://duckduckgo.com', 'Accept': 'application/x-www-form-urlencoded,image/webp,*/*;q=0.8', 'X-Forwarded-For': '185.162.229.8', 'Client-IP': '172.67.201.106', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:54:01
+-------------------------------------------------------------
+Proxy: 117.55.202.206:3128
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 14_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1', 'Accept-Language': 'en-AU,en-GB;q=0.7,en;q=0.5', 'Referer': 'https://www.hsbc.co.uk', 'Accept': 'application/x-bzip2', 'X-Forwarded-For': '23.106.249.36', 'Client-IP': '109.198.192.144', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:54:03
+-------------------------------------------------------------
+Proxy: 31.43.52.216:41890
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Mobile Safari/537.36', 'Accept-Language': 'en-GB,en;q=0.9,en-US;q=0.7', 'Referer': 'https://www.skyscanner.net', 'Accept': 'application/xml;q=0.9,application/xhtml+xml;q=0.8', 'X-Forwarded-For': '45.114.118.231', 'Client-IP': '185.162.229.8', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:54:04
+-------------------------------------------------------------
+Proxy: 187.19.200.217:8090
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15', 'Accept-Language': 'en-IE,en-GB;q=0.9', 'Referer': 'https://mail.yahoo.com', 'Accept': 'application/xhtml+xml,image/webp,*/*;q=0.8', 'X-Forwarded-For': '103.234.26.163', 'Client-IP': '172.64.171.84', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:54:04
+-------------------------------------------------------------
+Proxy: 186.125.218.147:999
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Linux; Android 10; SM-G960F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Mobile Safari/537.36', 'Accept-Language': 'en-US,en;q=0.8,fr;q=0.6', 'Referer': 'https://www.santander.co.uk', 'Accept': 'application/zip', 'X-Forwarded-For': '54.39.179.23', 'Client-IP': '122.50.6.186', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:54:04
+-------------------------------------------------------------
+Proxy: 103.157.58.186:8080
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<title>Attention Required! | Cloudflare</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36', 'Accept-Language': 'en-GB,en-IN;q=0.8', 'Referer': 'https://www.barclays.co.uk', 'Accept': 'application/x-shockwave-flash', 'X-Forwarded-For': '201.77.107.0', 'Client-IP': '177.12.176.250', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:54:04
+-------------------------------------------------------------
+Proxy: 114.156.77.107:4343
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Linux; Android 8.1; Nexus 6P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Mobile Safari/537.36', 'Accept-Language': 'en-US,en;q=0.8,fr;q=0.6', 'Referer': 'https://www.lloydsbank.com', 'Accept': 'application/xml,application/json', 'X-Forwarded-For': '67.43.236.20', 'Client-IP': '67.43.228.253', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:54:05
+-------------------------------------------------------------
+Proxy: 201.220.112.98:999
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Linux; Android 8.1; Nexus 6P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Mobile Safari/537.36', 'Accept-Language': 'en-GB,en;q=0.8,en-CA;q=0.6', 'Referer': 'https://www.thetimes.co.uk', 'Accept': 'application/x-www-form-urlencoded; charset=UTF-8', 'X-Forwarded-For': '23.227.38.40', 'Client-IP': '185.162.230.138', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:54:05
+-------------------------------------------------------------
+Proxy: 103.174.238.105:8090
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Mobile Safari/537.36', 'Accept-Language': 'en-GB,en;q=0.8', 'Referer': 'https://www.yahoo.com', 'Accept': 'text/html,application/vnd.mozilla.xul+xml', 'X-Forwarded-For': '172.67.201.106', 'Client-IP': '45.131.208.115', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:54:06
+-------------------------------------------------------------
+Proxy: 177.93.36.151:999
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<title>Attention Required! | Cloudflare</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0', 'Accept-Language': 'en-US,en;q=0.8,fr;q=0.7', 'Referer': 'https://www.gov.uk', 'Accept': 'text/plain;q=0.9,text/html;q=0.8', 'X-Forwarded-For': '179.57.215.99', 'Client-IP': '185.162.228.15', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:54:06
+-------------------------------------------------------------
+Proxy: 206.201.3.83:8095
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Linux; Android 10; SM-G960F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Mobile Safari/537.36', 'Accept-Language': 'en-GB,en;q=0.9', 'Referer': 'https://www.yahoo.com', 'Accept': 'text/html,application/xhtml+xml', 'X-Forwarded-For': '103.234.26.163', 'Client-IP': '172.67.201.106', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:54:06
+-------------------------------------------------------------
+Proxy: 45.188.76.238:999
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Linux; Android 10; SM-G970U1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Mobile Safari/537.36', 'Accept-Language': 'en-GB,en;q=0.9,en-NZ;q=0.8', 'Referer': 'https://www.just-eat.co.uk', 'Accept': 'text/html,application/json;q=0.9,*/*;q=0.8', 'X-Forwarded-For': '45.65.113.71', 'Client-IP': '104.236.52.89', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:54:07
+-------------------------------------------------------------
+Proxy: 161.34.40.38:3128
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<title>Attention Required! | Cloudflare</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0', 'Accept-Language': 'en-GB,en;q=0.8,en-NZ;q=0.7', 'Referer': 'https://www.snapchat.com', 'Accept': 'application/xml,application/json', 'X-Forwarded-For': '72.10.164.178', 'Client-IP': '103.21.244.204', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:54:07
+-------------------------------------------------------------
+Proxy: 58.69.247.70:8083
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<title>Attention Required! | Cloudflare</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15', 'Accept-Language': 'en-US,en;q=0.9,en-GB;q=0.8', 'Referer': 'https://www.barclays.co.uk', 'Accept': 'application/x-www-form-urlencoded', 'X-Forwarded-For': '104.236.52.89', 'Client-IP': '188.255.144.1', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:54:08
+-------------------------------------------------------------
+Proxy: 152.32.67.107:65535
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36', 'Accept-Language': 'en-GB,en;q=0.9,fr;q=0.8', 'Referer': 'https://www.yahoo.com', 'Accept': 'application/xhtml+xml;q=0.9,text/html;q=0.8', 'X-Forwarded-For': '92.207.253.226', 'Client-IP': '67.43.227.227', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:54:08
+-------------------------------------------------------------
+Proxy: 154.70.134.151:6969
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="preconnect" href="https://cdn-ukwest.onetrust.com/">
+<link rel="preload" href="https://cdn-ukwest.onetrust.com/scripttemplates/otSDKStub.js">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+<title>Classifieds Used Cars, Buy & Sell,  Dating, Adult | Vivastreet</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36', 'Accept-Language': 'en-GB,en-AU;q=0.8,en;q=0.5', 'Referer': 'https://www.reddit.com', 'Accept': 'application/pdf', 'X-Forwarded-For': '67.43.228.250', 'Client-IP': '109.198.192.144', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:54:08
+-------------------------------------------------------------
+Proxy: 24.152.58.22:999
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36', 'Accept-Language': 'en-ZW,en-GB;q=0.8', 'Referer': 'https://www.rbs.co.uk', 'Accept': 'application/x-json-stream', 'X-Forwarded-For': '159.112.235.189', 'Client-IP': '67.43.227.227', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:54:09
+-------------------------------------------------------------
+Proxy: 67.43.228.251:12799
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="preconnect" href="https://cdn-ukwest.onetrust.com/">
+<link rel="preload" href="https://cdn-ukwest.onetrust.com/scripttemplates/otSDKStub.js">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+<title>Classifieds Used Cars, Buy & Sell,  Dating, Adult | Vivastreet</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0', 'Accept-Language': 'en-GB,en-IN;q=0.8', 'Referer': 'https://www.linkedin.com', 'Accept': 'application/x-www-form-urlencoded,image/webp,*/*;q=0.8', 'X-Forwarded-For': '173.245.49.60', 'Client-IP': '109.198.192.144', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:54:09
+-------------------------------------------------------------
+Proxy: 41.65.55.27:1981
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="preconnect" href="https://cdn-ukwest.onetrust.com/">
+<link rel="preload" href="https://cdn-ukwest.onetrust.com/scripttemplates/otSDKStub.js">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+<title>Classifieds Used Cars, Buy & Sell,  Dating, Adult | Vivastreet</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:89.0) Gecko/20100101 Firefox/89.0', 'Accept-Language': 'en-IE,en-GB;q=0.9', 'Referer': 'https://www.deliveroo.co.uk', 'Accept': 'application/x-www-form-urlencoded; charset=UTF-8', 'X-Forwarded-For': '172.64.171.84', 'Client-IP': '45.65.113.71', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:54:09
+-------------------------------------------------------------
+Proxy: 190.94.213.13:999
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="preconnect" href="https://cdn-ukwest.onetrust.com/">
+<link rel="preload" href="https://cdn-ukwest.onetrust.com/scripttemplates/otSDKStub.js">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+<title>Classifieds Used Cars, Buy & Sell,  Dating, Adult | Vivastreet</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Linux; Android 8.1; Nexus 6P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Mobile Safari/537.36', 'Accept-Language': 'en-GB,en;q=0.8,en-US;q=0.6', 'Referer': 'https://mail.google.com', 'Accept': 'application/xhtml+xml', 'X-Forwarded-For': '122.50.6.186', 'Client-IP': '72.10.164.178', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:54:10
+-------------------------------------------------------------
+Proxy: 119.91.60.55:8790
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<title>Attention Required! | Cloudflare</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15', 'Accept-Language': 'en-NG,en-GB;q=0.8', 'Referer': 'https://duckduckgo.com', 'Accept': 'application/x-silverlight-app', 'X-Forwarded-For': '172.67.176.26', 'Client-IP': '72.10.160.170', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:54:10
+-------------------------------------------------------------
+Proxy: 142.132.193.244:3128
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<title>Attention Required! | Cloudflare</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0', 'Accept-Language': 'en-GB,en;q=0.8,en-NZ;q=0.7', 'Referer': 'https://www.google.com', 'Accept': 'application/x-www-form-urlencoded', 'X-Forwarded-For': '103.205.182.141', 'Client-IP': '117.211.160.35', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:54:10
+-------------------------------------------------------------
+Proxy: 103.69.20.118:58080
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="preconnect" href="https://cdn-ukwest.onetrust.com/">
+<link rel="preload" href="https://cdn-ukwest.onetrust.com/scripttemplates/otSDKStub.js">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+<title>Classifieds Used Cars, Buy & Sell,  Dating, Adult | Vivastreet</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Linux; Android 10; SM-G960F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Mobile Safari/537.36', 'Accept-Language': 'en-US,en;q=0.8,en-GB;q=0.7', 'Referer': 'https://www.rightmove.co.uk', 'Accept': 'text/x-c', 'X-Forwarded-For': '201.77.107.0', 'Client-IP': '192.145.205.110', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:54:10
+-------------------------------------------------------------
+Proxy: 189.89.188.14:2020
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Linux; Android 11; Pixel 5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Mobile Safari/537.36', 'Accept-Language': 'en-US,en;q=0.8,fr;q=0.6', 'Referer': 'https://www.nationalrail.co.uk', 'Accept': 'text/plain;q=0.9', 'X-Forwarded-For': '179.57.215.99', 'Client-IP': '8.213.128.90', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:54:12
+-------------------------------------------------------------
+Proxy: 102.214.255.37:8082
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="preconnect" href="https://cdn-ukwest.onetrust.com/">
+<link rel="preload" href="https://cdn-ukwest.onetrust.com/scripttemplates/otSDKStub.js">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+<title>Classifieds Used Cars, Buy & Sell,  Dating, Adult | Vivastreet</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (Linux; Android 11; SM-N986B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Mobile Safari/537.36', 'Accept-Language': 'en-NG,en-GB;q=0.8', 'Referer': 'https://www.tfl.gov.uk', 'Accept': 'text/javascript,application/javascript;q=0.9', 'X-Forwarded-For': '72.10.164.178', 'Client-IP': '67.43.236.20', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:54:13
+-------------------------------------------------------------
+Proxy: 54.39.163.156:3128
+Source: https://raw.githubusercontent.com/SevenworksDev/proxy-list/main/proxies/http.txt
+Response Snippet: <!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+<title>Attention Required! | Cloudflare</title>
+Request Headers: {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36', 'Accept-Language': 'en-GB,en;q=0.9', 'Referer': 'https://www.bbc.co.uk', 'Accept': 'text/css,*/*;q=0.1', 'X-Forwarded-For': '67.43.236.20', 'Client-IP': '172.67.75.93', 'Accept-Encoding': 'gzip, deflate, br', 'Connection': 'keep-alive', 'DNT': '1', 'Upgrade-Insecure-Requests': '1', 'Cache-Control': 'max-age=0', 'Sec-Fetch-Dest': 'document', 'Sec-Fetch-Mode': 'navigate', 'Sec-Fetch-Site': 'none', 'Sec-Fetch-User': '?1'}
+Timestamp: 2024-09-11 07:54:13
+-------------------------------------------------------------
