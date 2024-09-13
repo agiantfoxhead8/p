@@ -1,0 +1,1686 @@
+2024-09-13 13:00:48,068 INFO: Fetched 25971 IPs from https://raw.githubusercontent.com/trickest/resolvers/main/resolvers.txt
+2024-09-13 13:00:48,124 INFO: Fetched 14080 IPs from https://raw.githubusercontent.com/proabiral/Fresh-Resolvers/master/resolvers.txt
+2024-09-13 13:00:48,169 INFO: Fetched 13309 IPs from https://raw.githubusercontent.com/BBerastegui/fresh-dns-servers/master/resolvers.txt
+2024-09-13 13:00:48,237 INFO: Cleaned list to 27772 valid IPs
+2024-09-13 13:00:48,370 INFO: Added 99.83.147.72 to spoofed IP pool
+2024-09-13 13:00:48,372 INFO: Added 254 neighboring IPs to test from IP 99.83.147.72
+2024-09-13 13:00:48,372 INFO: IP 99.83.147.72 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,444 INFO: Added 99.99.99.193 to spoofed IP pool
+2024-09-13 13:00:48,447 INFO: Added 254 neighboring IPs to test from IP 99.99.99.193
+2024-09-13 13:00:48,447 INFO: IP 99.99.99.193 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:48,455 INFO: Added 99.79.50.252 to spoofed IP pool
+2024-09-13 13:00:48,457 INFO: Added 254 neighboring IPs to test from IP 99.79.50.252
+2024-09-13 13:00:48,457 INFO: IP 99.79.50.252 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,465 INFO: Added 99.79.182.170 to spoofed IP pool
+2024-09-13 13:00:48,467 INFO: Added 254 neighboring IPs to test from IP 99.79.182.170
+2024-09-13 13:00:48,468 INFO: IP 99.79.182.170 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,470 INFO: Added 99.93.24.105 to spoofed IP pool
+2024-09-13 13:00:48,472 INFO: Added 254 neighboring IPs to test from IP 99.93.24.105
+2024-09-13 13:00:48,472 INFO: IP 99.93.24.105 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:48,483 INFO: Added 99.192.213.74 to spoofed IP pool
+2024-09-13 13:00:48,484 INFO: Added 254 neighboring IPs to test from IP 99.192.213.74
+2024-09-13 13:00:48,485 INFO: IP 99.192.213.74 is vulnerable with amplification factor: 7.25
+2024-09-13 13:00:48,490 INFO: Added 99.23.52.62 to spoofed IP pool
+2024-09-13 13:00:48,493 INFO: Added 254 neighboring IPs to test from IP 99.23.52.62
+2024-09-13 13:00:48,493 INFO: IP 99.23.52.62 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:48,497 INFO: Added 99.50.12.13 to spoofed IP pool
+2024-09-13 13:00:48,499 INFO: Added 254 neighboring IPs to test from IP 99.50.12.13
+2024-09-13 13:00:48,499 INFO: IP 99.50.12.13 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:48,503 INFO: Added 98.28.219.202 to spoofed IP pool
+2024-09-13 13:00:48,505 INFO: Added 254 neighboring IPs to test from IP 98.28.219.202
+2024-09-13 13:00:48,505 INFO: IP 98.28.219.202 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,514 INFO: Added 98.63.180.237 to spoofed IP pool
+2024-09-13 13:00:48,516 INFO: Added 254 neighboring IPs to test from IP 98.63.180.237
+2024-09-13 13:00:48,516 INFO: IP 98.63.180.237 is vulnerable with amplification factor: 6.125
+2024-09-13 13:00:48,519 INFO: Added 98.26.23.128 to spoofed IP pool
+2024-09-13 13:00:48,521 INFO: Added 254 neighboring IPs to test from IP 98.26.23.128
+2024-09-13 13:00:48,521 INFO: IP 98.26.23.128 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:48,522 INFO: Added 99.165.192.234 to spoofed IP pool
+2024-09-13 13:00:48,524 INFO: Added 254 neighboring IPs to test from IP 99.165.192.234
+2024-09-13 13:00:48,524 INFO: IP 99.165.192.234 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,525 INFO: Added 99.227.243.184 to spoofed IP pool
+2024-09-13 13:00:48,526 INFO: Added 254 neighboring IPs to test from IP 99.227.243.184
+2024-09-13 13:00:48,527 INFO: IP 99.227.243.184 is vulnerable with amplification factor: 4.125
+2024-09-13 13:00:48,528 INFO: Added 98.243.171.106 to spoofed IP pool
+2024-09-13 13:00:48,530 INFO: Added 254 neighboring IPs to test from IP 98.243.171.106
+2024-09-13 13:00:48,530 INFO: IP 98.243.171.106 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,531 INFO: Added 99.165.192.233 to spoofed IP pool
+2024-09-13 13:00:48,531 INFO: Added 254 neighboring IPs to test from IP 99.165.192.233
+2024-09-13 13:00:48,531 INFO: IP 99.165.192.233 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,535 INFO: Added 98.240.71.185 to spoofed IP pool
+2024-09-13 13:00:48,537 INFO: Added 254 neighboring IPs to test from IP 98.240.71.185
+2024-09-13 13:00:48,537 INFO: IP 98.240.71.185 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:48,537 INFO: Added 98.240.71.0 to spoofed IP pool
+2024-09-13 13:00:48,538 INFO: Added 254 neighboring IPs to test from IP 98.240.71.0
+2024-09-13 13:00:48,538 INFO: IP 98.240.71.0 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:48,544 INFO: Added 98.213.193.72 to spoofed IP pool
+2024-09-13 13:00:48,545 INFO: Added 98.213.199.40 to spoofed IP pool
+2024-09-13 13:00:48,548 INFO: Added 254 neighboring IPs to test from IP 98.213.193.72
+2024-09-13 13:00:48,548 INFO: Added 98.213.193.3 to spoofed IP pool
+2024-09-13 13:00:48,551 INFO: Added 254 neighboring IPs to test from IP 98.213.199.40
+2024-09-13 13:00:48,552 INFO: Added 98.213.199.84 to spoofed IP pool
+2024-09-13 13:00:48,552 INFO: IP 98.213.193.72 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,552 INFO: Added 98.240.114.161 to spoofed IP pool
+2024-09-13 13:00:48,553 INFO: Added 254 neighboring IPs to test from IP 98.213.193.3
+2024-09-13 13:00:48,553 INFO: Added 98.213.198.102 to spoofed IP pool
+2024-09-13 13:00:48,553 INFO: IP 98.213.199.40 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,554 INFO: Added 254 neighboring IPs to test from IP 98.213.199.84
+2024-09-13 13:00:48,556 INFO: Added 254 neighboring IPs to test from IP 98.240.114.161
+2024-09-13 13:00:48,556 INFO: IP 98.213.193.3 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,559 INFO: Added 254 neighboring IPs to test from IP 98.213.198.102
+2024-09-13 13:00:48,560 INFO: Added 98.213.192.240 to spoofed IP pool
+2024-09-13 13:00:48,560 INFO: IP 98.213.199.84 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,560 INFO: IP 98.240.114.161 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:48,561 INFO: IP 98.213.198.102 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,564 INFO: Added 254 neighboring IPs to test from IP 98.213.192.240
+2024-09-13 13:00:48,565 INFO: IP 98.213.192.240 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,566 INFO: Added 98.213.193.14 to spoofed IP pool
+2024-09-13 13:00:48,567 INFO: Added 254 neighboring IPs to test from IP 98.213.193.14
+2024-09-13 13:00:48,567 INFO: IP 98.213.193.14 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,567 INFO: Added 98.213.192.223 to spoofed IP pool
+2024-09-13 13:00:48,567 INFO: Added 254 neighboring IPs to test from IP 98.213.192.223
+2024-09-13 13:00:48,568 INFO: IP 98.213.192.223 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,568 INFO: Added 98.213.193.157 to spoofed IP pool
+2024-09-13 13:00:48,569 INFO: Added 254 neighboring IPs to test from IP 98.213.193.157
+2024-09-13 13:00:48,569 INFO: IP 98.213.193.157 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,572 INFO: Added 98.223.105.133 to spoofed IP pool
+2024-09-13 13:00:48,575 INFO: Added 254 neighboring IPs to test from IP 98.223.105.133
+2024-09-13 13:00:48,575 INFO: IP 98.223.105.133 is vulnerable with amplification factor: 12.875
+2024-09-13 13:00:48,576 INFO: Added 98.213.192.217 to spoofed IP pool
+2024-09-13 13:00:48,576 INFO: Added 254 neighboring IPs to test from IP 98.213.192.217
+2024-09-13 13:00:48,576 INFO: IP 98.213.192.217 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,577 INFO: Added 98.224.247.4 to spoofed IP pool
+2024-09-13 13:00:48,579 INFO: Added 254 neighboring IPs to test from IP 98.224.247.4
+2024-09-13 13:00:48,579 INFO: IP 98.224.247.4 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,584 INFO: Added 98.128.146.146 to spoofed IP pool
+2024-09-13 13:00:48,586 INFO: Added 254 neighboring IPs to test from IP 98.128.146.146
+2024-09-13 13:00:48,586 INFO: IP 98.128.146.146 is vulnerable with amplification factor: 4.125
+2024-09-13 13:00:48,587 INFO: Added 98.175.202.206 to spoofed IP pool
+2024-09-13 13:00:48,589 INFO: Added 254 neighboring IPs to test from IP 98.175.202.206
+2024-09-13 13:00:48,590 INFO: IP 98.175.202.206 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:48,591 INFO: Added 98.255.63.26 to spoofed IP pool
+2024-09-13 13:00:48,593 INFO: Added 254 neighboring IPs to test from IP 98.255.63.26
+2024-09-13 13:00:48,593 INFO: IP 98.255.63.26 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,594 INFO: Added 98.238.181.142 to spoofed IP pool
+2024-09-13 13:00:48,596 INFO: Added 254 neighboring IPs to test from IP 98.238.181.142
+2024-09-13 13:00:48,596 INFO: IP 98.238.181.142 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,597 INFO: Added 98.213.192.142 to spoofed IP pool
+2024-09-13 13:00:48,598 INFO: Added 254 neighboring IPs to test from IP 98.213.192.142
+2024-09-13 13:00:48,598 INFO: IP 98.213.192.142 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,606 INFO: Added 98.179.140.179 to spoofed IP pool
+2024-09-13 13:00:48,608 INFO: Added 254 neighboring IPs to test from IP 98.179.140.179
+2024-09-13 13:00:48,608 INFO: IP 98.179.140.179 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,610 INFO: Added 98.189.213.222 to spoofed IP pool
+2024-09-13 13:00:48,612 INFO: Added 254 neighboring IPs to test from IP 98.189.213.222
+2024-09-13 13:00:48,612 INFO: IP 98.189.213.222 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,613 INFO: Added 98.175.26.238 to spoofed IP pool
+2024-09-13 13:00:48,615 INFO: Added 254 neighboring IPs to test from IP 98.175.26.238
+2024-09-13 13:00:48,615 INFO: IP 98.175.26.238 is vulnerable with amplification factor: 16.0
+2024-09-13 13:00:48,615 INFO: Added 98.185.37.213 to spoofed IP pool
+2024-09-13 13:00:48,617 INFO: Added 254 neighboring IPs to test from IP 98.185.37.213
+2024-09-13 13:00:48,617 INFO: IP 98.185.37.213 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:48,618 INFO: Added 98.173.248.93 to spoofed IP pool
+2024-09-13 13:00:48,621 INFO: Added 254 neighboring IPs to test from IP 98.173.248.93
+2024-09-13 13:00:48,621 INFO: IP 98.173.248.93 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:48,622 INFO: Added 98.185.36.75 to spoofed IP pool
+2024-09-13 13:00:48,624 INFO: Added 254 neighboring IPs to test from IP 98.185.36.75
+2024-09-13 13:00:48,624 INFO: IP 98.185.36.75 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:48,625 INFO: Added 98.180.39.214 to spoofed IP pool
+2024-09-13 13:00:48,626 INFO: Added 254 neighboring IPs to test from IP 98.180.39.214
+2024-09-13 13:00:48,626 INFO: IP 98.180.39.214 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:48,627 INFO: Added 98.177.140.42 to spoofed IP pool
+2024-09-13 13:00:48,629 INFO: Added 254 neighboring IPs to test from IP 98.177.140.42
+2024-09-13 13:00:48,629 INFO: IP 98.177.140.42 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,630 INFO: Added 98.114.102.244 to spoofed IP pool
+2024-09-13 13:00:48,631 INFO: Added 254 neighboring IPs to test from IP 98.114.102.244
+2024-09-13 13:00:48,632 INFO: IP 98.114.102.244 is vulnerable with amplification factor: 9.625
+2024-09-13 13:00:48,632 INFO: Added 98.175.17.188 to spoofed IP pool
+2024-09-13 13:00:48,634 INFO: Added 254 neighboring IPs to test from IP 98.175.17.188
+2024-09-13 13:00:48,634 INFO: IP 98.175.17.188 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:48,635 INFO: Added 98.114.102.243 to spoofed IP pool
+2024-09-13 13:00:48,635 INFO: Added 254 neighboring IPs to test from IP 98.114.102.243
+2024-09-13 13:00:48,635 INFO: IP 98.114.102.243 is vulnerable with amplification factor: 9.625
+2024-09-13 13:00:48,638 INFO: Added 98.175.116.85 to spoofed IP pool
+2024-09-13 13:00:48,640 INFO: Added 254 neighboring IPs to test from IP 98.175.116.85
+2024-09-13 13:00:48,640 INFO: IP 98.175.116.85 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:48,642 INFO: Added 98.175.83.14 to spoofed IP pool
+2024-09-13 13:00:48,643 INFO: Added 254 neighboring IPs to test from IP 98.175.83.14
+2024-09-13 13:00:48,643 INFO: IP 98.175.83.14 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:48,644 INFO: Added 98.164.41.54 to spoofed IP pool
+2024-09-13 13:00:48,647 INFO: Added 254 neighboring IPs to test from IP 98.164.41.54
+2024-09-13 13:00:48,647 INFO: IP 98.164.41.54 is vulnerable with amplification factor: 17.0
+2024-09-13 13:00:48,649 INFO: Added 98.154.99.2 to spoofed IP pool
+2024-09-13 13:00:48,650 INFO: Added 254 neighboring IPs to test from IP 98.154.99.2
+2024-09-13 13:00:48,650 INFO: IP 98.154.99.2 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,653 INFO: Added 254 neighboring IPs to test from IP 98.124.65.10
+2024-09-13 13:00:48,653 INFO: IP 98.124.65.10 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:48,655 INFO: Added 254 neighboring IPs to test from IP 98.179.253.140
+2024-09-13 13:00:48,655 INFO: IP 98.179.253.140 is vulnerable with amplification factor: 2.3125
+2024-09-13 13:00:48,660 INFO: Added 254 neighboring IPs to test from IP 98.153.113.3
+2024-09-13 13:00:48,661 INFO: IP 98.153.113.3 is vulnerable with amplification factor: 10.96875
+2024-09-13 13:00:48,663 INFO: Added 254 neighboring IPs to test from IP 98.153.167.29
+2024-09-13 13:00:48,664 INFO: Added 254 neighboring IPs to test from IP 98.153.106.210
+2024-09-13 13:00:48,668 INFO: IP 98.153.106.210 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,666 INFO: Added 254 neighboring IPs to test from IP 98.172.87.182
+2024-09-13 13:00:48,668 INFO: Added 254 neighboring IPs to test from IP 98.121.86.8
+2024-09-13 13:00:48,670 INFO: IP 98.121.86.8 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:48,669 INFO: IP 98.172.87.182 is vulnerable with amplification factor: 6.125
+2024-09-13 13:00:48,664 INFO: IP 98.153.167.29 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,675 INFO: Added 254 neighboring IPs to test from IP 98.154.40.78
+2024-09-13 13:00:48,675 INFO: IP 98.154.40.78 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,678 INFO: Added 254 neighboring IPs to test from IP 98.154.21.253
+2024-09-13 13:00:48,678 INFO: IP 98.154.21.253 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,680 INFO: Added 254 neighboring IPs to test from IP 98.103.153.234
+2024-09-13 13:00:48,680 INFO: IP 98.103.153.234 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,682 INFO: Added 254 neighboring IPs to test from IP 98.152.244.34
+2024-09-13 13:00:48,682 INFO: IP 98.152.244.34 is vulnerable with amplification factor: 8.875
+2024-09-13 13:00:48,685 INFO: Added 254 neighboring IPs to test from IP 98.102.248.54
+2024-09-13 13:00:48,685 INFO: IP 98.102.248.54 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,690 INFO: Added 254 neighboring IPs to test from IP 98.102.248.165
+2024-09-13 13:00:48,691 INFO: IP 98.102.248.165 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,694 INFO: Added 254 neighboring IPs to test from IP 98.103.91.242
+2024-09-13 13:00:48,695 INFO: IP 98.103.91.242 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,698 INFO: Added 254 neighboring IPs to test from IP 97.87.21.84
+2024-09-13 13:00:48,698 INFO: IP 97.87.21.84 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,701 INFO: Added 254 neighboring IPs to test from IP 98.152.244.50
+2024-09-13 13:00:48,701 INFO: IP 98.152.244.50 is vulnerable with amplification factor: 13.875
+2024-09-13 13:00:48,707 INFO: Added 254 neighboring IPs to test from IP 98.100.232.5
+2024-09-13 13:00:48,707 INFO: IP 98.100.232.5 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,716 INFO: Added 254 neighboring IPs to test from IP 98.102.32.246
+2024-09-13 13:00:48,716 INFO: IP 98.102.32.246 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,727 INFO: Added 254 neighboring IPs to test from IP 97.75.162.89
+2024-09-13 13:00:48,729 INFO: Added 254 neighboring IPs to test from IP 96.7.137.92
+2024-09-13 13:00:48,729 INFO: IP 97.75.162.89 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,730 INFO: IP 96.7.137.92 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,730 INFO: Added 254 neighboring IPs to test from IP 96.7.137.90
+2024-09-13 13:00:48,731 INFO: IP 96.7.137.90 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,732 INFO: Added 254 neighboring IPs to test from IP 98.185.37.215
+2024-09-13 13:00:48,732 INFO: IP 98.185.37.215 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:48,735 INFO: Added 254 neighboring IPs to test from IP 97.78.76.116
+2024-09-13 13:00:48,735 INFO: IP 97.78.76.116 is vulnerable with amplification factor: 6.125
+2024-09-13 13:00:48,736 INFO: Added 254 neighboring IPs to test from IP 96.7.137.83
+2024-09-13 13:00:48,736 INFO: IP 96.7.137.83 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,737 INFO: Added 254 neighboring IPs to test from IP 98.147.126.98
+2024-09-13 13:00:48,738 INFO: IP 98.147.126.98 is vulnerable with amplification factor: 4.125
+2024-09-13 13:00:48,739 INFO: Added 254 neighboring IPs to test from IP 96.7.137.78
+2024-09-13 13:00:48,739 INFO: IP 96.7.137.78 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,740 INFO: Added 254 neighboring IPs to test from IP 96.7.137.64
+2024-09-13 13:00:48,740 INFO: IP 96.7.137.64 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,743 INFO: Added 254 neighboring IPs to test from IP 97.77.246.129
+2024-09-13 13:00:48,743 INFO: IP 97.77.246.129 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:48,745 INFO: Added 254 neighboring IPs to test from IP 97.76.254.9
+2024-09-13 13:00:48,746 INFO: IP 97.76.254.9 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,746 INFO: Added 254 neighboring IPs to test from IP 96.7.137.63
+2024-09-13 13:00:48,747 INFO: Added 254 neighboring IPs to test from IP 96.7.137.47
+2024-09-13 13:00:48,748 INFO: Added 254 neighboring IPs to test from IP 96.7.137.32
+2024-09-13 13:00:48,751 INFO: Added 254 neighboring IPs to test from IP 97.78.189.245
+2024-09-13 13:00:48,751 INFO: IP 96.7.137.63 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,753 INFO: Added 254 neighboring IPs to test from IP 98.102.153.162
+2024-09-13 13:00:48,756 INFO: Added 254 neighboring IPs to test from IP 97.79.42.154
+2024-09-13 13:00:48,756 INFO: IP 96.7.137.47 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,757 INFO: Added 254 neighboring IPs to test from IP 96.7.137.250
+2024-09-13 13:00:48,760 INFO: Added 254 neighboring IPs to test from IP 98.102.175.62
+2024-09-13 13:00:48,762 INFO: Added 254 neighboring IPs to test from IP 98.154.6.138
+2024-09-13 13:00:48,764 INFO: Added 254 neighboring IPs to test from IP 97.76.220.130
+2024-09-13 13:00:48,765 INFO: Added 254 neighboring IPs to test from IP 96.7.137.249
+2024-09-13 13:00:48,767 INFO: Added 254 neighboring IPs to test from IP 97.68.172.189
+2024-09-13 13:00:48,768 INFO: Added 254 neighboring IPs to test from IP 97.68.172.186
+2024-09-13 13:00:48,768 INFO: Added 254 neighboring IPs to test from IP 96.7.137.59
+2024-09-13 13:00:48,769 INFO: Added 254 neighboring IPs to test from IP 98.102.248.162
+2024-09-13 13:00:48,772 INFO: Added 254 neighboring IPs to test from IP 97.94.219.213
+2024-09-13 13:00:48,774 INFO: Added 254 neighboring IPs to test from IP 97.81.116.109
+2024-09-13 13:00:48,776 INFO: Added 254 neighboring IPs to test from IP 98.101.240.164
+2024-09-13 13:00:48,777 INFO: Added 254 neighboring IPs to test from IP 97.68.236.229
+2024-09-13 13:00:48,780 INFO: Added 254 neighboring IPs to test from IP 97.64.128.163
+2024-09-13 13:00:48,783 INFO: Added 254 neighboring IPs to test from IP 96.88.179.101
+2024-09-13 13:00:48,785 INFO: Added 254 neighboring IPs to test from IP 97.84.39.242
+2024-09-13 13:00:48,787 INFO: Added 254 neighboring IPs to test from IP 96.95.173.129
+2024-09-13 13:00:48,798 INFO: Added 254 neighboring IPs to test from IP 96.7.137.227
+2024-09-13 13:00:48,802 INFO: Added 254 neighboring IPs to test from IP 96.7.137.21
+2024-09-13 13:00:48,806 INFO: Added 254 neighboring IPs to test from IP 96.7.137.230
+2024-09-13 13:00:48,810 INFO: IP 97.78.189.245 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,813 INFO: IP 98.102.175.62 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,814 INFO: IP 97.76.220.130 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,815 INFO: IP 96.7.137.249 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,816 INFO: IP 97.68.172.189 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:48,817 INFO: IP 97.68.172.186 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:48,819 INFO: IP 96.7.137.59 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,820 INFO: IP 98.102.248.162 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,824 INFO: Added 254 neighboring IPs to test from IP 96.7.137.31
+2024-09-13 13:00:48,825 INFO: IP 97.68.236.229 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,826 INFO: Added 254 neighboring IPs to test from IP 96.7.137.188
+2024-09-13 13:00:48,827 INFO: IP 97.64.128.163 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,829 INFO: IP 96.88.179.101 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,833 INFO: IP 97.84.39.242 is vulnerable with amplification factor: 6.625
+2024-09-13 13:00:48,834 INFO: IP 96.95.173.129 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,834 INFO: IP 96.7.137.230 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,835 INFO: Added 254 neighboring IPs to test from IP 96.7.137.169
+2024-09-13 13:00:48,837 INFO: Added 254 neighboring IPs to test from IP 96.7.137.171
+2024-09-13 13:00:48,840 INFO: Added 254 neighboring IPs to test from IP 96.7.137.231
+2024-09-13 13:00:48,840 INFO: IP 96.7.137.250 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,841 INFO: IP 97.79.42.154 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:48,842 INFO: IP 98.102.153.162 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:48,847 INFO: Added 254 neighboring IPs to test from IP 96.7.137.162
+2024-09-13 13:00:48,848 INFO: Added 254 neighboring IPs to test from IP 96.7.137.150
+2024-09-13 13:00:48,850 INFO: IP 96.7.137.31 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,850 INFO: Added 254 neighboring IPs to test from IP 96.7.137.140
+2024-09-13 13:00:48,852 INFO: Added 254 neighboring IPs to test from IP 96.7.137.137
+2024-09-13 13:00:48,853 INFO: IP 96.7.137.32 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,854 INFO: IP 97.94.219.213 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,854 INFO: IP 97.81.116.109 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:48,855 INFO: IP 98.101.240.164 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:48,858 INFO: IP 96.7.137.188 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,860 INFO: Added 254 neighboring IPs to test from IP 96.7.137.15
+2024-09-13 13:00:48,862 INFO: IP 96.7.137.21 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,862 INFO: IP 96.7.137.169 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,864 INFO: IP 96.7.137.171 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,868 INFO: IP 96.7.137.231 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,870 INFO: IP 96.7.137.150 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,872 INFO: IP 96.7.137.140 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,875 INFO: Added 254 neighboring IPs to test from IP 96.7.137.208
+2024-09-13 13:00:48,876 INFO: IP 96.7.137.15 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,880 INFO: IP 98.154.6.138 is vulnerable with amplification factor: 9.625
+2024-09-13 13:00:48,883 INFO: Added 254 neighboring IPs to test from IP 96.7.137.142
+2024-09-13 13:00:48,885 INFO: IP 96.7.137.208 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,891 INFO: IP 96.7.137.142 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,893 INFO: Added 254 neighboring IPs to test from IP 96.7.137.184
+2024-09-13 13:00:48,898 INFO: IP 96.7.137.162 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,900 INFO: IP 96.7.137.137 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,911 INFO: IP 96.7.137.184 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:48,913 INFO: IP 96.7.137.227 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:49,069 INFO: Added 254 neighboring IPs to test from IP 96.7.136.216
+2024-09-13 13:00:49,071 INFO: Added 254 neighboring IPs to test from IP 96.7.136.99
+2024-09-13 13:00:49,072 INFO: Added 254 neighboring IPs to test from IP 96.7.136.63
+2024-09-13 13:00:49,073 INFO: Added 254 neighboring IPs to test from IP 96.7.136.86
+2024-09-13 13:00:49,073 INFO: Added 254 neighboring IPs to test from IP 96.7.136.123
+2024-09-13 13:00:49,075 INFO: Added 254 neighboring IPs to test from IP 96.7.136.59
+2024-09-13 13:00:49,076 INFO: Added 254 neighboring IPs to test from IP 96.7.136.146
+2024-09-13 13:00:49,077 INFO: Added 254 neighboring IPs to test from IP 96.7.136.77
+2024-09-13 13:00:49,078 INFO: Added 254 neighboring IPs to test from IP 96.7.136.231
+2024-09-13 13:00:49,080 INFO: Added 254 neighboring IPs to test from IP 96.7.136.249
+2024-09-13 13:00:49,080 INFO: Added 254 neighboring IPs to test from IP 96.7.136.4
+2024-09-13 13:00:49,082 INFO: Added 254 neighboring IPs to test from IP 96.7.136.159
+2024-09-13 13:00:49,082 INFO: Added 254 neighboring IPs to test from IP 96.7.136.242
+2024-09-13 13:00:49,085 INFO: Added 254 neighboring IPs to test from IP 96.7.136.90
+2024-09-13 13:00:49,087 INFO: Added 254 neighboring IPs to test from IP 96.7.136.144
+2024-09-13 13:00:49,087 INFO: Added 254 neighboring IPs to test from IP 96.7.136.140
+2024-09-13 13:00:49,087 INFO: IP 96.7.136.86 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:49,091 INFO: IP 96.7.136.59 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:49,094 INFO: Added 254 neighboring IPs to test from IP 96.7.136.254
+2024-09-13 13:00:49,094 INFO: Added 254 neighboring IPs to test from IP 96.7.136.115
+2024-09-13 13:00:49,095 INFO: Added 254 neighboring IPs to test from IP 96.7.136.114
+2024-09-13 13:00:49,098 INFO: IP 96.7.136.159 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:49,098 INFO: IP 96.7.136.242 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:49,102 INFO: IP 96.7.136.216 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:49,104 INFO: IP 96.7.136.63 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:49,106 INFO: Added 254 neighboring IPs to test from IP 96.7.136.188
+2024-09-13 13:00:49,107 INFO: IP 96.7.136.123 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:49,107 INFO: Added 254 neighboring IPs to test from IP 96.7.136.66
+2024-09-13 13:00:49,109 INFO: Added 254 neighboring IPs to test from IP 96.7.136.41
+2024-09-13 13:00:49,110 INFO: Added 254 neighboring IPs to test from IP 96.7.136.111
+2024-09-13 13:00:49,110 INFO: IP 96.7.136.77 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:49,112 INFO: IP 96.7.136.254 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:49,114 INFO: Added 254 neighboring IPs to test from IP 96.7.136.244
+2024-09-13 13:00:49,115 INFO: Added 254 neighboring IPs to test from IP 96.7.136.2
+2024-09-13 13:00:49,116 INFO: IP 96.7.136.4 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:49,120 INFO: IP 96.7.136.90 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:49,121 INFO: Added 254 neighboring IPs to test from IP 96.7.136.199
+2024-09-13 13:00:49,123 INFO: IP 96.7.136.140 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:49,124 INFO: IP 96.7.136.188 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:49,125 INFO: IP 96.7.136.66 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:49,127 INFO: IP 96.7.136.41 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:49,128 INFO: IP 96.7.136.111 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:49,131 INFO: IP 96.7.136.231 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:49,137 INFO: IP 96.7.136.199 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:49,141 INFO: IP 96.7.136.146 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:49,144 INFO: IP 96.7.136.244 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:49,146 INFO: IP 96.7.136.2 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:49,147 INFO: Added 254 neighboring IPs to test from IP 96.7.136.169
+2024-09-13 13:00:49,150 INFO: IP 96.7.136.144 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:49,153 INFO: IP 96.7.136.115 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:49,155 INFO: Added 254 neighboring IPs to test from IP 96.7.136.227
+2024-09-13 13:00:49,159 INFO: IP 96.7.136.99 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:49,165 INFO: IP 96.7.136.114 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:49,167 INFO: IP 96.7.136.227 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:49,168 INFO: IP 96.7.136.169 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:49,177 INFO: IP 96.7.136.249 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:49,616 INFO: Added 254 neighboring IPs to test from IP 96.8.17.2
+2024-09-13 13:00:49,618 INFO: Added 254 neighboring IPs to test from IP 96.8.17.30
+2024-09-13 13:00:49,618 INFO: Added 254 neighboring IPs to test from IP 96.8.17.139
+2024-09-13 13:00:49,630 INFO: Added 254 neighboring IPs to test from IP 96.8.17.142
+2024-09-13 13:00:49,633 INFO: Added 254 neighboring IPs to test from IP 96.8.17.130
+2024-09-13 13:00:49,641 INFO: Added 254 neighboring IPs to test from IP 96.8.17.26
+2024-09-13 13:00:49,645 INFO: IP 96.8.17.30 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:49,646 INFO: IP 96.8.17.139 is vulnerable with amplification factor: 9.96875
+2024-09-13 13:00:49,657 INFO: Added 254 neighboring IPs to test from IP 96.8.17.131
+2024-09-13 13:00:49,666 INFO: IP 96.8.17.26 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:49,667 INFO: IP 96.8.17.2 is vulnerable with amplification factor: 8.46875
+2024-09-13 13:00:49,679 INFO: IP 96.8.17.142 is vulnerable with amplification factor: 9.96875
+2024-09-13 13:00:49,679 INFO: IP 96.8.17.131 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:49,722 INFO: IP 96.8.17.130 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:49,728 INFO: Added 254 neighboring IPs to test from IP 96.92.154.9
+2024-09-13 13:00:49,748 INFO: Added 254 neighboring IPs to test from IP 96.8.17.29
+2024-09-13 13:00:49,772 INFO: IP 96.8.17.29 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:49,799 INFO: IP 96.92.154.9 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:51,856 INFO: Added 254 neighboring IPs to test from IP 96.127.147.34
+2024-09-13 13:00:51,913 INFO: IP 96.127.147.34 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:51,915 INFO: Added 254 neighboring IPs to test from IP 96.127.147.37
+2024-09-13 13:00:51,919 INFO: Added 254 neighboring IPs to test from IP 96.127.147.35
+2024-09-13 13:00:51,945 INFO: IP 96.127.147.37 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:51,976 INFO: IP 96.127.147.35 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:52,134 INFO: Added 254 neighboring IPs to test from IP 95.160.116.42
+2024-09-13 13:00:52,139 INFO: Added 254 neighboring IPs to test from IP 95.160.116.234
+2024-09-13 13:00:52,155 INFO: Added 254 neighboring IPs to test from IP 95.160.116.6
+2024-09-13 13:00:52,157 INFO: Added 254 neighboring IPs to test from IP 95.160.116.34
+2024-09-13 13:00:52,161 INFO: Added 254 neighboring IPs to test from IP 95.160.116.38
+2024-09-13 13:00:52,162 INFO: IP 95.160.116.42 is vulnerable with amplification factor: 9.375
+2024-09-13 13:00:52,167 INFO: IP 95.160.116.234 is vulnerable with amplification factor: 13.875
+2024-09-13 13:00:52,182 INFO: IP 95.160.116.6 is vulnerable with amplification factor: 14.375
+2024-09-13 13:00:52,184 INFO: IP 95.160.116.34 is vulnerable with amplification factor: 4.125
+2024-09-13 13:00:52,189 INFO: Added 254 neighboring IPs to test from IP 95.160.116.110
+2024-09-13 13:00:52,214 INFO: IP 95.160.116.38 is vulnerable with amplification factor: 8.96875
+2024-09-13 13:00:52,216 INFO: IP 95.160.116.110 is vulnerable with amplification factor: 14.375
+2024-09-13 13:00:52,269 INFO: Added 254 neighboring IPs to test from IP 95.77.96.79
+2024-09-13 13:00:52,287 INFO: Added 254 neighboring IPs to test from IP 95.77.96.104
+2024-09-13 13:00:52,293 INFO: IP 95.77.96.79 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:52,297 INFO: Added 254 neighboring IPs to test from IP 96.73.116.29
+2024-09-13 13:00:52,299 INFO: Added 254 neighboring IPs to test from IP 95.173.162.124
+2024-09-13 13:00:52,307 INFO: Added 254 neighboring IPs to test from IP 95.173.162.111
+2024-09-13 13:00:52,314 INFO: Added 254 neighboring IPs to test from IP 95.173.162.85
+2024-09-13 13:00:52,320 INFO: IP 96.73.116.29 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:52,331 INFO: IP 95.173.162.111 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:52,340 INFO: IP 95.173.162.85 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:52,344 INFO: Added 254 neighboring IPs to test from IP 95.77.96.73
+2024-09-13 13:00:52,356 INFO: Added 254 neighboring IPs to test from IP 95.173.162.118
+2024-09-13 13:00:52,365 INFO: IP 95.77.96.104 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:52,372 INFO: Added 254 neighboring IPs to test from IP 95.173.162.75
+2024-09-13 13:00:52,379 INFO: Added 254 neighboring IPs to test from IP 96.73.116.75
+2024-09-13 13:00:52,398 INFO: IP 95.77.96.73 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:52,403 INFO: IP 95.173.162.124 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:52,410 INFO: IP 95.173.162.118 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:52,430 INFO: IP 96.73.116.75 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:52,447 INFO: Added 254 neighboring IPs to test from IP 95.47.164.204
+2024-09-13 13:00:52,464 INFO: Added 254 neighboring IPs to test from IP 96.95.146.25
+2024-09-13 13:00:52,466 INFO: Added 254 neighboring IPs to test from IP 96.95.146.57
+2024-09-13 13:00:52,473 INFO: IP 95.173.162.75 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:52,489 INFO: Added 254 neighboring IPs to test from IP 95.47.164.179
+2024-09-13 13:00:52,492 INFO: IP 96.95.146.25 is vulnerable with amplification factor: 8.875
+2024-09-13 13:00:52,494 INFO: IP 96.95.146.57 is vulnerable with amplification factor: 8.875
+2024-09-13 13:00:52,519 INFO: IP 95.47.164.179 is vulnerable with amplification factor: 8.875
+2024-09-13 13:00:52,523 INFO: Added 254 neighboring IPs to test from IP 95.47.164.83
+2024-09-13 13:00:52,529 INFO: IP 95.47.164.204 is vulnerable with amplification factor: 8.875
+2024-09-13 13:00:52,551 INFO: IP 95.47.164.83 is vulnerable with amplification factor: 13.875
+2024-09-13 13:00:52,695 INFO: Added 254 neighboring IPs to test from IP 96.7.139.2
+2024-09-13 13:00:52,759 INFO: IP 96.7.139.2 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:52,764 INFO: Added 254 neighboring IPs to test from IP 96.7.139.1
+2024-09-13 13:00:52,797 INFO: IP 96.7.139.1 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:52,840 INFO: Added 254 neighboring IPs to test from IP 95.124.243.142
+2024-09-13 13:00:52,869 INFO: Added 254 neighboring IPs to test from IP 95.124.243.173
+2024-09-13 13:00:52,895 INFO: Added 254 neighboring IPs to test from IP 95.30.250.9
+2024-09-13 13:00:52,899 INFO: Added 254 neighboring IPs to test from IP 95.30.250.76
+2024-09-13 13:00:52,900 INFO: Added 254 neighboring IPs to test from IP 95.124.243.178
+2024-09-13 13:00:52,903 INFO: Added 254 neighboring IPs to test from IP 95.124.243.180
+2024-09-13 13:00:52,903 INFO: Added 254 neighboring IPs to test from IP 95.30.250.69
+2024-09-13 13:00:52,926 INFO: IP 95.30.250.9 is vulnerable with amplification factor: 6.75
+2024-09-13 13:00:52,931 INFO: Added 254 neighboring IPs to test from IP 95.79.30.171
+2024-09-13 13:00:52,931 INFO: IP 95.124.243.178 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:52,934 INFO: Added 254 neighboring IPs to test from IP 95.124.243.169
+2024-09-13 13:00:52,934 INFO: Added 254 neighboring IPs to test from IP 95.79.30.44
+2024-09-13 13:00:52,936 INFO: IP 95.124.243.173 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:52,936 INFO: IP 95.124.243.180 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:52,937 INFO: IP 95.30.250.69 is vulnerable with amplification factor: 4.125
+2024-09-13 13:00:52,938 INFO: IP 95.124.243.142 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:52,966 INFO: IP 95.79.30.171 is vulnerable with amplification factor: 8.75
+2024-09-13 13:00:52,969 INFO: IP 95.79.30.44 is vulnerable with amplification factor: 4.125
+2024-09-13 13:00:53,032 INFO: IP 95.124.243.169 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:53,036 INFO: Added 254 neighboring IPs to test from IP 95.165.166.64
+2024-09-13 13:00:53,059 INFO: Added 254 neighboring IPs to test from IP 95.165.166.254
+2024-09-13 13:00:53,060 INFO: IP 95.165.166.64 is vulnerable with amplification factor: 14.875
+2024-09-13 13:00:53,062 INFO: Added 254 neighboring IPs to test from IP 95.165.166.215
+2024-09-13 13:00:53,078 INFO: IP 95.30.250.76 is vulnerable with amplification factor: 6.75
+2024-09-13 13:00:53,084 INFO: IP 95.165.166.254 is vulnerable with amplification factor: 4.625
+2024-09-13 13:00:53,110 INFO: IP 95.165.166.215 is vulnerable with amplification factor: 4.125
+2024-09-13 13:00:53,134 INFO: Added 254 neighboring IPs to test from IP 95.165.166.162
+2024-09-13 13:00:53,161 INFO: IP 95.165.166.162 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:53,226 INFO: Added 254 neighboring IPs to test from IP 95.174.99.86
+2024-09-13 13:00:53,245 INFO: Added 254 neighboring IPs to test from IP 95.174.99.34
+2024-09-13 13:00:53,251 INFO: Added 254 neighboring IPs to test from IP 95.65.9.66
+2024-09-13 13:00:53,258 INFO: IP 95.174.99.86 is vulnerable with amplification factor: 11.5
+2024-09-13 13:00:53,275 INFO: Added 254 neighboring IPs to test from IP 95.124.247.99
+2024-09-13 13:00:53,280 INFO: IP 95.174.99.34 is vulnerable with amplification factor: 11.5
+2024-09-13 13:00:53,285 INFO: Added 254 neighboring IPs to test from IP 96.45.46.46
+2024-09-13 13:00:53,286 INFO: IP 95.65.9.66 is vulnerable with amplification factor: 4.125
+2024-09-13 13:00:53,297 INFO: Added 254 neighboring IPs to test from IP 95.124.247.206
+2024-09-13 13:00:53,298 INFO: Added 254 neighboring IPs to test from IP 95.124.247.123
+2024-09-13 13:00:53,301 INFO: Added 254 neighboring IPs to test from IP 95.124.247.117
+2024-09-13 13:00:53,307 INFO: IP 95.124.247.99 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:53,315 INFO: IP 96.45.46.46 is vulnerable with amplification factor: 6.625
+2024-09-13 13:00:53,327 INFO: Added 254 neighboring IPs to test from IP 95.174.99.75
+2024-09-13 13:00:53,329 INFO: Added 254 neighboring IPs to test from IP 95.65.9.171
+2024-09-13 13:00:53,358 INFO: IP 95.124.247.123 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:53,359 ERROR: Error testing IP 99.87.255.60: timed out
+2024-09-13 13:00:53,360 INFO: IP 95.65.9.171 is vulnerable with amplification factor: 5.625
+2024-09-13 13:00:53,372 ERROR: Error testing IP 99.42.199.193: timed out
+2024-09-13 13:00:53,388 INFO: IP 95.124.247.206 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:53,388 INFO: IP 95.174.99.75 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:53,394 INFO: IP 95.124.247.117 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:53,438 ERROR: Error testing IP 98.213.193.141: timed out
+2024-09-13 13:00:53,453 INFO: Added 254 neighboring IPs to test from IP 95.213.208.251
+2024-09-13 13:00:53,454 ERROR: Error testing IP 98.191.57.131: timed out
+2024-09-13 13:00:53,459 ERROR: Error testing IP 98.186.137.171: timed out
+2024-09-13 13:00:53,479 INFO: IP 95.213.208.251 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:53,480 INFO: Added 254 neighboring IPs to test from IP 95.213.208.250
+2024-09-13 13:00:53,515 INFO: Added 254 neighboring IPs to test from IP 95.43.241.218
+2024-09-13 13:00:53,524 ERROR: Error testing IP 98.13.82.63: timed out
+2024-09-13 13:00:53,553 INFO: Added 254 neighboring IPs to test from IP 95.43.241.46
+2024-09-13 13:00:53,561 INFO: IP 95.43.241.218 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:53,592 INFO: IP 95.43.241.46 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:53,604 INFO: IP 95.213.208.250 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:53,715 INFO: Added 254 neighboring IPs to test from IP 96.85.160.25
+2024-09-13 13:00:53,740 INFO: IP 96.85.160.25 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:53,742 INFO: Added 254 neighboring IPs to test from IP 95.211.211.16
+2024-09-13 13:00:53,771 INFO: IP 95.211.211.16 is vulnerable with amplification factor: 9.625
+2024-09-13 13:00:53,787 INFO: Added 254 neighboring IPs to test from IP 95.47.103.3
+2024-09-13 13:00:53,788 INFO: Added 254 neighboring IPs to test from IP 96.72.81.89
+2024-09-13 13:00:53,790 INFO: Added 254 neighboring IPs to test from IP 95.47.103.2
+2024-09-13 13:00:53,817 INFO: IP 95.47.103.3 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:53,818 INFO: IP 96.72.81.89 is vulnerable with amplification factor: 15.375
+2024-09-13 13:00:53,821 INFO: IP 95.47.103.2 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:53,835 INFO: Added 254 neighboring IPs to test from IP 95.31.15.249
+2024-09-13 13:00:53,851 INFO: Added 254 neighboring IPs to test from IP 95.66.141.250
+2024-09-13 13:00:53,863 INFO: Added 254 neighboring IPs to test from IP 95.163.155.141
+2024-09-13 13:00:53,879 INFO: IP 95.66.141.250 is vulnerable with amplification factor: 8.75
+2024-09-13 13:00:53,881 INFO: Added 254 neighboring IPs to test from IP 95.163.155.83
+2024-09-13 13:00:53,884 INFO: Added 254 neighboring IPs to test from IP 96.80.157.89
+2024-09-13 13:00:53,891 ERROR: Error testing IP 96.42.243.194: timed out
+2024-09-13 13:00:53,892 INFO: IP 95.163.155.141 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:53,903 INFO: Added 254 neighboring IPs to test from IP 99.92.207.51
+2024-09-13 13:00:53,915 INFO: IP 95.163.155.83 is vulnerable with amplification factor: 4.125
+2024-09-13 13:00:53,917 INFO: Added 254 neighboring IPs to test from IP 95.66.141.20
+2024-09-13 13:00:53,919 INFO: IP 96.80.157.89 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:53,930 INFO: Added 254 neighboring IPs to test from IP 95.31.15.112
+2024-09-13 13:00:53,937 INFO: Added 254 neighboring IPs to test from IP 95.211.209.150
+2024-09-13 13:00:53,962 INFO: IP 95.31.15.249 is vulnerable with amplification factor: 4.125
+2024-09-13 13:00:53,965 INFO: Added 254 neighboring IPs to test from IP 97.74.87.35
+2024-09-13 13:00:53,982 INFO: Added 254 neighboring IPs to test from IP 96.70.163.93
+2024-09-13 13:00:53,984 INFO: Added 254 neighboring IPs to test from IP 95.211.211.17
+2024-09-13 13:00:53,986 INFO: IP 95.66.141.20 is vulnerable with amplification factor: 8.75
+2024-09-13 13:00:53,998 INFO: IP 95.31.15.112 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:54,005 INFO: IP 95.211.209.150 is vulnerable with amplification factor: 9.625
+2024-09-13 13:00:54,008 INFO: IP 99.92.207.51 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:54,008 ERROR: Error testing IP 95.85.255.60: timed out
+2024-09-13 13:00:54,044 INFO: IP 96.70.163.93 is vulnerable with amplification factor: 6.625
+2024-09-13 13:00:54,057 INFO: Added 254 neighboring IPs to test from IP 95.211.209.41
+2024-09-13 13:00:54,059 INFO: IP 97.74.87.35 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:54,066 ERROR: Error testing IP 95.79.128.174: timed out
+2024-09-13 13:00:54,071 INFO: Added 254 neighboring IPs to test from IP 96.71.165.73
+2024-09-13 13:00:54,084 INFO: IP 95.211.209.41 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:54,099 INFO: IP 96.71.165.73 is vulnerable with amplification factor: 8.875
+2024-09-13 13:00:54,103 INFO: Added 254 neighboring IPs to test from IP 96.74.213.233
+2024-09-13 13:00:54,104 INFO: IP 95.211.211.17 is vulnerable with amplification factor: 9.625
+2024-09-13 13:00:54,107 INFO: Added 254 neighboring IPs to test from IP 95.30.216.187
+2024-09-13 13:00:54,111 INFO: Added 254 neighboring IPs to test from IP 95.30.216.186
+2024-09-13 13:00:54,128 ERROR: Error testing IP 95.64.209.66: timed out
+2024-09-13 13:00:54,129 INFO: Added 254 neighboring IPs to test from IP 95.111.252.225
+2024-09-13 13:00:54,131 INFO: Added 254 neighboring IPs to test from IP 95.111.252.104
+2024-09-13 13:00:54,135 INFO: Added 254 neighboring IPs to test from IP 95.31.8.45
+2024-09-13 13:00:54,137 INFO: Added 254 neighboring IPs to test from IP 95.31.8.238
+2024-09-13 13:00:54,142 ERROR: Error testing IP 95.64.146.206: timed out
+2024-09-13 13:00:54,152 INFO: Added 254 neighboring IPs to test from IP 95.111.252.8
+2024-09-13 13:00:54,156 INFO: IP 96.74.213.233 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:54,164 INFO: IP 95.31.8.238 is vulnerable with amplification factor: 11.5
+2024-09-13 13:00:54,171 ERROR: Error testing IP 95.52.240.151: timed out
+2024-09-13 13:00:54,180 INFO: IP 95.111.252.8 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:54,183 INFO: IP 95.111.252.225 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:54,185 ERROR: Error testing IP 95.47.180.191: timed out
+2024-09-13 13:00:54,187 INFO: IP 95.111.252.104 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:54,188 INFO: IP 95.30.216.187 is vulnerable with amplification factor: 4.125
+2024-09-13 13:00:54,215 INFO: IP 95.31.8.45 is vulnerable with amplification factor: 11.5
+2024-09-13 13:00:54,216 INFO: Added 254 neighboring IPs to test from IP 96.76.85.122
+2024-09-13 13:00:54,216 ERROR: Error testing IP 95.46.6.43: timed out
+2024-09-13 13:00:54,267 INFO: IP 96.76.85.122 is vulnerable with amplification factor: 8.875
+2024-09-13 13:00:54,270 INFO: IP 95.30.216.186 is vulnerable with amplification factor: 4.125
+2024-09-13 13:00:54,287 ERROR: Error testing IP 95.31.50.78: timed out
+2024-09-13 13:00:54,296 ERROR: Error testing IP 95.31.38.212: timed out
+2024-09-13 13:00:54,299 ERROR: Error testing IP 95.31.32.102: timed out
+2024-09-13 13:00:54,320 INFO: Added 254 neighboring IPs to test from IP 96.85.69.170
+2024-09-13 13:00:54,322 INFO: Added 254 neighboring IPs to test from IP 96.80.250.221
+2024-09-13 13:00:54,327 INFO: Added 254 neighboring IPs to test from IP 95.165.167.48
+2024-09-13 13:00:54,341 INFO: Added 254 neighboring IPs to test from IP 96.71.85.74
+2024-09-13 13:00:54,346 INFO: Added 254 neighboring IPs to test from IP 95.154.88.78
+2024-09-13 13:00:54,349 INFO: IP 96.85.69.170 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:54,360 INFO: Added 254 neighboring IPs to test from IP 96.85.5.153
+2024-09-13 13:00:54,370 INFO: Added 254 neighboring IPs to test from IP 96.27.162.22
+2024-09-13 13:00:54,382 INFO: IP 95.165.167.48 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:54,387 INFO: IP 96.85.5.153 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:54,397 INFO: IP 96.71.85.74 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:54,399 INFO: IP 96.27.162.22 is vulnerable with amplification factor: 6.75
+2024-09-13 13:00:54,406 INFO: Added 254 neighboring IPs to test from IP 96.70.4.50
+2024-09-13 13:00:54,413 INFO: Added 254 neighboring IPs to test from IP 95.164.65.243
+2024-09-13 13:00:54,422 INFO: Added 254 neighboring IPs to test from IP 95.165.192.206
+2024-09-13 13:00:54,437 INFO: Added 254 neighboring IPs to test from IP 95.164.65.17
+2024-09-13 13:00:54,438 ERROR: Error testing IP 95.188.64.22: timed out
+2024-09-13 13:00:54,451 ERROR: Error testing IP 95.182.107.243: timed out
+2024-09-13 13:00:54,457 INFO: Added 254 neighboring IPs to test from IP 95.165.192.190
+2024-09-13 13:00:54,462 INFO: IP 96.80.250.221 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:54,464 ERROR: Error testing IP 95.181.143.56: timed out
+2024-09-13 13:00:54,464 INFO: Added 254 neighboring IPs to test from IP 95.154.88.72
+2024-09-13 13:00:54,467 INFO: Added 254 neighboring IPs to test from IP 96.93.190.113
+2024-09-13 13:00:54,470 INFO: IP 95.164.65.243 is vulnerable with amplification factor: 9.625
+2024-09-13 13:00:54,528 ERROR: Error testing IP 95.174.97.182: timed out
+2024-09-13 13:00:54,529 ERROR: Error testing IP 95.174.97.128: timed out
+2024-09-13 13:00:54,541 INFO: Added 254 neighboring IPs to test from IP 97.105.100.20
+2024-09-13 13:00:54,542 INFO: IP 95.154.88.78 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:54,546 INFO: IP 96.70.4.50 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:54,547 INFO: Added 254 neighboring IPs to test from IP 97.105.89.2
+2024-09-13 13:00:54,547 INFO: IP 97.105.89.2 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:54,551 INFO: IP 96.93.190.113 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:54,556 INFO: Added 254 neighboring IPs to test from IP 98.248.218.172
+2024-09-13 13:00:54,573 INFO: IP 95.165.192.190 is vulnerable with amplification factor: 4.125
+2024-09-13 13:00:54,579 INFO: Added 254 neighboring IPs to test from IP 96.72.43.162
+2024-09-13 13:00:54,588 INFO: Added 254 neighboring IPs to test from IP 96.85.8.185
+2024-09-13 13:00:54,596 INFO: IP 95.165.192.206 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:54,603 ERROR: Error testing IP 95.167.216.17: timed out
+2024-09-13 13:00:54,604 INFO: IP 97.105.100.20 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:54,606 INFO: Added 254 neighboring IPs to test from IP 96.45.45.45
+2024-09-13 13:00:54,609 INFO: IP 96.72.43.162 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:54,612 INFO: IP 95.154.88.72 is vulnerable with amplification factor: 8.75
+2024-09-13 13:00:54,621 INFO: Added 254 neighboring IPs to test from IP 95.171.117.98
+2024-09-13 13:00:54,634 INFO: Added 254 neighboring IPs to test from IP 96.36.9.12
+2024-09-13 13:00:54,638 INFO: Added 254 neighboring IPs to test from IP 95.165.167.176
+2024-09-13 13:00:54,639 INFO: IP 96.45.45.45 is vulnerable with amplification factor: 6.625
+2024-09-13 13:00:54,651 INFO: IP 98.248.218.172 is vulnerable with amplification factor: 13.875
+2024-09-13 13:00:54,665 INFO: IP 96.36.9.12 is vulnerable with amplification factor: 14.875
+2024-09-13 13:00:54,669 INFO: IP 95.165.167.176 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:54,675 INFO: Added 254 neighboring IPs to test from IP 96.31.91.72
+2024-09-13 13:00:54,679 INFO: IP 95.164.65.17 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:54,686 INFO: IP 96.85.8.185 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:54,688 INFO: IP 95.171.117.98 is vulnerable with amplification factor: 6.125
+2024-09-13 13:00:54,690 INFO: Added 254 neighboring IPs to test from IP 96.90.182.185
+2024-09-13 13:00:54,697 INFO: Added 254 neighboring IPs to test from IP 95.160.117.90
+2024-09-13 13:00:54,700 INFO: Added 254 neighboring IPs to test from IP 95.9.130.102
+2024-09-13 13:00:54,705 INFO: Added 254 neighboring IPs to test from IP 95.171.117.141
+2024-09-13 13:00:54,709 INFO: Added 254 neighboring IPs to test from IP 95.9.190.34
+2024-09-13 13:00:54,711 INFO: IP 96.31.91.72 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:54,715 INFO: Added 254 neighboring IPs to test from IP 96.81.123.146
+2024-09-13 13:00:54,716 INFO: Added 254 neighboring IPs to test from IP 95.161.198.246
+2024-09-13 13:00:54,719 INFO: Added 254 neighboring IPs to test from IP 95.161.198.130
+2024-09-13 13:00:54,721 INFO: IP 96.90.182.185 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:54,727 ERROR: Error testing IP 95.161.181.66: timed out
+2024-09-13 13:00:54,731 INFO: IP 95.9.130.102 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:54,734 ERROR: Error testing IP 95.160.59.153: timed out
+2024-09-13 13:00:54,738 INFO: IP 95.171.117.141 is vulnerable with amplification factor: 11.875
+2024-09-13 13:00:54,744 INFO: Added 254 neighboring IPs to test from IP 96.93.138.5
+2024-09-13 13:00:54,747 INFO: IP 96.81.123.146 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:54,748 INFO: IP 95.161.198.246 is vulnerable with amplification factor: 11.5
+2024-09-13 13:00:54,750 ERROR: Error testing IP 95.160.19.158: timed out
+2024-09-13 13:00:54,754 INFO: IP 95.161.198.130 is vulnerable with amplification factor: 13.875
+2024-09-13 13:00:54,757 INFO: Added 254 neighboring IPs to test from IP 95.160.117.153
+2024-09-13 13:00:54,759 INFO: Added 254 neighboring IPs to test from IP 96.35.169.218
+2024-09-13 13:00:54,760 ERROR: Error testing IP 95.160.118.11: timed out
+2024-09-13 13:00:54,762 ERROR: Error testing IP 95.160.117.47: timed out
+2024-09-13 13:00:54,767 INFO: Added 254 neighboring IPs to test from IP 96.47.34.245
+2024-09-13 13:00:54,774 INFO: IP 95.9.190.34 is vulnerable with amplification factor: 6.625
+2024-09-13 13:00:54,780 INFO: Added 254 neighboring IPs to test from IP 97.90.103.53
+2024-09-13 13:00:54,802 INFO: IP 96.93.138.5 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:54,805 INFO: IP 97.90.103.53 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:54,813 INFO: IP 95.160.117.153 is vulnerable with amplification factor: 8.875
+2024-09-13 13:00:54,822 INFO: IP 96.47.34.245 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:54,824 INFO: Added 254 neighboring IPs to test from IP 95.124.244.157
+2024-09-13 13:00:54,832 INFO: Added 254 neighboring IPs to test from IP 95.124.244.159
+2024-09-13 13:00:54,843 INFO: IP 95.160.117.90 is vulnerable with amplification factor: 14.375
+2024-09-13 13:00:54,845 INFO: Added 254 neighboring IPs to test from IP 95.158.170.246
+2024-09-13 13:00:54,852 INFO: Added 254 neighboring IPs to test from IP 95.158.170.43
+2024-09-13 13:00:54,866 INFO: Added 254 neighboring IPs to test from IP 97.105.207.90
+2024-09-13 13:00:54,870 INFO: IP 95.158.170.246 is vulnerable with amplification factor: 4.125
+2024-09-13 13:00:54,876 INFO: IP 95.124.244.157 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:54,879 INFO: IP 95.158.170.43 is vulnerable with amplification factor: 14.375
+2024-09-13 13:00:54,896 INFO: IP 96.35.169.218 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:54,896 INFO: IP 97.105.207.90 is vulnerable with amplification factor: 6.75
+2024-09-13 13:00:54,902 ERROR: Error testing IP 95.154.110.86: timed out
+2024-09-13 13:00:54,914 ERROR: Error testing IP 95.154.106.156: timed out
+2024-09-13 13:00:54,918 INFO: IP 95.124.244.159 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:54,924 INFO: Added 254 neighboring IPs to test from IP 96.71.163.49
+2024-09-13 13:00:54,946 ERROR: Error testing IP 95.142.49.38: timed out
+2024-09-13 13:00:54,952 INFO: Added 254 neighboring IPs to test from IP 96.82.112.155
+2024-09-13 13:00:54,960 INFO: Added 254 neighboring IPs to test from IP 96.69.146.137
+2024-09-13 13:00:54,964 INFO: Added 254 neighboring IPs to test from IP 95.167.214.59
+2024-09-13 13:00:54,976 ERROR: Error testing IP 95.140.203.92: timed out
+2024-09-13 13:00:54,986 INFO: IP 96.71.163.49 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:54,991 INFO: IP 96.69.146.137 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:54,995 INFO: IP 95.167.214.59 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:55,011 INFO: Added 254 neighboring IPs to test from IP 97.65.124.6
+2024-09-13 13:00:55,012 ERROR: Error testing IP 95.129.147.156: timed out
+2024-09-13 13:00:55,016 INFO: IP 96.82.112.155 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:55,017 INFO: Added 254 neighboring IPs to test from IP 96.7.138.2
+2024-09-13 13:00:55,025 INFO: Added 254 neighboring IPs to test from IP 95.47.183.189
+2024-09-13 13:00:55,041 INFO: Added 254 neighboring IPs to test from IP 95.167.214.38
+2024-09-13 13:00:55,048 INFO: Added 254 neighboring IPs to test from IP 96.70.61.241
+2024-09-13 13:00:55,056 INFO: IP 95.47.183.189 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:55,070 INFO: IP 95.167.214.38 is vulnerable with amplification factor: 14.375
+2024-09-13 13:00:55,075 INFO: IP 97.65.124.6 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:55,076 INFO: Added 254 neighboring IPs to test from IP 96.90.140.166
+2024-09-13 13:00:55,078 INFO: Added 254 neighboring IPs to test from IP 95.97.79.58
+2024-09-13 13:00:55,079 INFO: IP 96.70.61.241 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:55,083 INFO: Added 254 neighboring IPs to test from IP 95.66.132.131
+2024-09-13 13:00:55,086 INFO: Added 254 neighboring IPs to test from IP 96.68.207.177
+2024-09-13 13:00:55,089 INFO: Added 254 neighboring IPs to test from IP 95.111.255.109
+2024-09-13 13:00:55,108 INFO: IP 95.97.79.58 is vulnerable with amplification factor: 8.875
+2024-09-13 13:00:55,110 INFO: Added 254 neighboring IPs to test from IP 95.87.27.227
+2024-09-13 13:00:55,111 INFO: IP 96.7.138.2 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:55,114 INFO: Added 254 neighboring IPs to test from IP 95.124.251.84
+2024-09-13 13:00:55,115 INFO: IP 95.66.132.131 is vulnerable with amplification factor: 8.75
+2024-09-13 13:00:55,121 INFO: Added 254 neighboring IPs to test from IP 96.250.208.198
+2024-09-13 13:00:55,127 INFO: Added 254 neighboring IPs to test from IP 95.124.251.86
+2024-09-13 13:00:55,131 INFO: Added 254 neighboring IPs to test from IP 96.57.76.250
+2024-09-13 13:00:55,136 INFO: Added 254 neighboring IPs to test from IP 96.56.235.235
+2024-09-13 13:00:55,139 INFO: Added 254 neighboring IPs to test from IP 96.231.106.122
+2024-09-13 13:00:55,144 INFO: IP 95.87.27.227 is vulnerable with amplification factor: 6.125
+2024-09-13 13:00:55,148 INFO: Added 254 neighboring IPs to test from IP 96.77.10.41
+2024-09-13 13:00:55,153 INFO: Added 254 neighboring IPs to test from IP 95.111.255.50
+2024-09-13 13:00:55,154 INFO: IP 96.250.208.198 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:55,161 INFO: IP 95.124.251.86 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:55,174 INFO: IP 96.90.140.166 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:55,181 INFO: IP 95.124.251.84 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:55,182 INFO: Added 254 neighboring IPs to test from IP 96.68.153.61
+2024-09-13 13:00:55,185 INFO: IP 96.68.207.177 is vulnerable with amplification factor: 14.375
+2024-09-13 13:00:55,197 INFO: IP 96.57.76.250 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:55,202 INFO: IP 96.56.235.235 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:55,210 INFO: Added 254 neighboring IPs to test from IP 96.76.14.149
+2024-09-13 13:00:55,213 INFO: IP 96.68.153.61 is vulnerable with amplification factor: 14.875
+2024-09-13 13:00:55,217 INFO: Added 254 neighboring IPs to test from IP 96.10.55.75
+2024-09-13 13:00:55,218 INFO: IP 95.111.255.50 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:55,220 INFO: IP 95.111.255.109 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:55,237 INFO: IP 96.231.106.122 is vulnerable with amplification factor: 13.09375
+2024-09-13 13:00:55,243 INFO: IP 96.76.14.149 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:55,246 INFO: IP 96.77.10.41 is vulnerable with amplification factor: 12.25
+2024-09-13 13:00:55,252 INFO: IP 96.10.55.75 is vulnerable with amplification factor: 16.0
+2024-09-13 13:00:55,255 INFO: Added 254 neighboring IPs to test from IP 95.67.59.140
+2024-09-13 13:00:55,256 INFO: Added 254 neighboring IPs to test from IP 95.66.165.93
+2024-09-13 13:00:55,266 INFO: Added 254 neighboring IPs to test from IP 96.36.248.12
+2024-09-13 13:00:55,272 INFO: Added 254 neighboring IPs to test from IP 96.39.26.82
+2024-09-13 13:00:55,283 INFO: IP 95.66.165.93 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:55,284 INFO: Added 254 neighboring IPs to test from IP 95.57.155.125
+2024-09-13 13:00:55,294 INFO: Added 254 neighboring IPs to test from IP 95.154.72.219
+2024-09-13 13:00:55,298 INFO: Added 254 neighboring IPs to test from IP 96.10.126.38
+2024-09-13 13:00:55,304 INFO: Added 254 neighboring IPs to test from IP 96.78.147.162
+2024-09-13 13:00:55,308 INFO: Added 254 neighboring IPs to test from IP 95.64.151.222
+2024-09-13 13:00:55,310 INFO: Added 254 neighboring IPs to test from IP 96.11.186.42
+2024-09-13 13:00:55,313 INFO: IP 95.67.59.140 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:55,318 INFO: Added 254 neighboring IPs to test from IP 95.124.255.221
+2024-09-13 13:00:55,320 INFO: Added 254 neighboring IPs to test from IP 95.124.255.217
+2024-09-13 13:00:55,324 INFO: IP 96.36.248.12 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:55,325 INFO: IP 95.154.72.219 is vulnerable with amplification factor: 8.75
+2024-09-13 13:00:55,330 INFO: Added 254 neighboring IPs to test from IP 95.154.72.135
+2024-09-13 13:00:55,338 INFO: Added 254 neighboring IPs to test from IP 96.57.81.211
+2024-09-13 13:00:55,341 INFO: IP 96.11.186.42 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:55,345 INFO: Added 254 neighboring IPs to test from IP 95.42.219.237
+2024-09-13 13:00:55,348 INFO: IP 95.124.255.221 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:55,350 INFO: IP 95.124.255.217 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:55,362 INFO: IP 96.78.147.162 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:55,365 INFO: IP 96.57.81.211 is vulnerable with amplification factor: 4.625
+2024-09-13 13:00:55,371 INFO: IP 95.57.155.125 is vulnerable with amplification factor: 15.75
+2024-09-13 13:00:55,373 INFO: IP 95.42.219.237 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:55,382 INFO: Added 254 neighboring IPs to test from IP 96.234.178.73
+2024-09-13 13:00:55,387 INFO: IP 95.154.72.135 is vulnerable with amplification factor: 6.75
+2024-09-13 13:00:55,399 INFO: Added 254 neighboring IPs to test from IP 96.3.13.27
+2024-09-13 13:00:55,402 INFO: Added 254 neighboring IPs to test from IP 96.30.126.36
+2024-09-13 13:00:55,407 INFO: Added 254 neighboring IPs to test from IP 96.68.152.180
+2024-09-13 13:00:55,411 INFO: Added 254 neighboring IPs to test from IP 96.76.237.249
+2024-09-13 13:00:55,427 INFO: IP 96.3.13.27 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:55,436 INFO: IP 96.68.152.180 is vulnerable with amplification factor: 9.625
+2024-09-13 13:00:55,441 INFO: IP 96.234.178.73 is vulnerable with amplification factor: 8.875
+2024-09-13 13:00:55,455 INFO: IP 95.64.151.222 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:55,459 INFO: IP 96.30.126.36 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:55,468 INFO: IP 96.76.237.249 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:55,472 INFO: IP 96.10.126.38 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:55,492 INFO: Added 254 neighboring IPs to test from IP 96.90.233.5
+2024-09-13 13:00:55,502 INFO: IP 96.39.26.82 is vulnerable with amplification factor: 16.0
+2024-09-13 13:00:55,523 INFO: Added 254 neighboring IPs to test from IP 96.11.55.179
+2024-09-13 13:00:55,525 INFO: Added 254 neighboring IPs to test from IP 95.124.250.121
+2024-09-13 13:00:55,540 INFO: Added 254 neighboring IPs to test from IP 96.127.154.165
+2024-09-13 13:00:55,545 INFO: Added 254 neighboring IPs to test from IP 97.74.86.124
+2024-09-13 13:00:55,549 INFO: IP 96.90.233.5 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:55,553 INFO: IP 95.124.250.121 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:55,558 INFO: Added 254 neighboring IPs to test from IP 95.47.140.179
+2024-09-13 13:00:55,576 INFO: Added 254 neighboring IPs to test from IP 95.47.59.113
+2024-09-13 13:00:55,577 INFO: Added 254 neighboring IPs to test from IP 96.71.186.229
+2024-09-13 13:00:55,585 INFO: IP 95.47.140.179 is vulnerable with amplification factor: 16.0
+2024-09-13 13:00:55,590 INFO: Added 254 neighboring IPs to test from IP 95.78.160.243
+2024-09-13 13:00:55,598 INFO: IP 96.127.154.165 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:55,604 INFO: IP 97.74.86.124 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:55,610 INFO: Added 254 neighboring IPs to test from IP 95.64.136.142
+2024-09-13 13:00:55,612 INFO: Added 254 neighboring IPs to test from IP 95.64.190.122
+2024-09-13 13:00:55,618 INFO: IP 95.78.160.243 is vulnerable with amplification factor: 6.75
+2024-09-13 13:00:55,632 INFO: Added 254 neighboring IPs to test from IP 95.47.148.218
+2024-09-13 13:00:55,634 INFO: Added 254 neighboring IPs to test from IP 95.124.250.120
+2024-09-13 13:00:55,635 INFO: IP 96.71.186.229 is vulnerable with amplification factor: 8.46875
+2024-09-13 13:00:55,637 INFO: Added 254 neighboring IPs to test from IP 96.70.191.213
+2024-09-13 13:00:55,638 INFO: IP 96.11.55.179 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:55,639 INFO: IP 95.64.136.142 is vulnerable with amplification factor: 4.125
+2024-09-13 13:00:55,642 INFO: Added 254 neighboring IPs to test from IP 95.211.160.51
+2024-09-13 13:00:55,646 INFO: Added 254 neighboring IPs to test from IP 96.5.131.84
+2024-09-13 13:00:55,654 INFO: Added 254 neighboring IPs to test from IP 96.81.30.194
+2024-09-13 13:00:55,656 INFO: Added 254 neighboring IPs to test from IP 98.101.59.106
+2024-09-13 13:00:55,664 INFO: IP 95.124.250.120 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:55,680 INFO: Added 254 neighboring IPs to test from IP 98.102.26.54
+2024-09-13 13:00:55,682 INFO: IP 96.81.30.194 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:55,693 INFO: IP 95.47.59.113 is vulnerable with amplification factor: 6.125
+2024-09-13 13:00:55,696 INFO: IP 96.70.191.213 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:55,698 INFO: Added 254 neighboring IPs to test from IP 95.9.181.102
+2024-09-13 13:00:55,701 INFO: IP 95.211.160.51 is vulnerable with amplification factor: 16.0
+2024-09-13 13:00:55,701 INFO: IP 95.64.190.122 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:55,706 INFO: IP 96.5.131.84 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:55,706 INFO: Added 254 neighboring IPs to test from IP 95.78.166.197
+2024-09-13 13:00:55,720 INFO: Added 254 neighboring IPs to test from IP 95.64.212.6
+2024-09-13 13:00:55,728 INFO: IP 95.9.181.102 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:55,730 INFO: Added 254 neighboring IPs to test from IP 95.61.191.71
+2024-09-13 13:00:55,735 INFO: IP 95.78.166.197 is vulnerable with amplification factor: 11.5
+2024-09-13 13:00:55,741 INFO: IP 98.102.26.54 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:55,750 INFO: IP 95.64.212.6 is vulnerable with amplification factor: 6.125
+2024-09-13 13:00:55,756 INFO: Added 254 neighboring IPs to test from IP 95.216.72.9
+2024-09-13 13:00:55,758 INFO: Added 254 neighboring IPs to test from IP 96.53.102.66
+2024-09-13 13:00:55,762 INFO: IP 95.61.191.71 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:55,768 INFO: Added 254 neighboring IPs to test from IP 95.28.77.76
+2024-09-13 13:00:55,776 INFO: IP 98.101.59.106 is vulnerable with amplification factor: 8.75
+2024-09-13 13:00:55,777 INFO: Added 254 neighboring IPs to test from IP 95.43.228.188
+2024-09-13 13:00:55,783 INFO: IP 95.47.148.218 is vulnerable with amplification factor: 6.125
+2024-09-13 13:00:55,785 INFO: Added 254 neighboring IPs to test from IP 95.154.177.12
+2024-09-13 13:00:55,788 INFO: IP 96.53.102.66 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:55,794 INFO: Added 254 neighboring IPs to test from IP 96.73.229.181
+2024-09-13 13:00:55,796 INFO: IP 95.28.77.76 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:55,806 INFO: IP 95.43.228.188 is vulnerable with amplification factor: 6.125
+2024-09-13 13:00:55,811 INFO: IP 95.154.177.12 is vulnerable with amplification factor: 16.5
+2024-09-13 13:00:55,832 INFO: Added 254 neighboring IPs to test from IP 95.86.164.205
+2024-09-13 13:00:55,835 INFO: Added 254 neighboring IPs to test from IP 95.66.136.114
+2024-09-13 13:00:55,836 INFO: Added 254 neighboring IPs to test from IP 95.9.250.227
+2024-09-13 13:00:55,844 INFO: Added 254 neighboring IPs to test from IP 95.154.177.60
+2024-09-13 13:00:55,849 INFO: IP 96.73.229.181 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:55,852 INFO: Added 254 neighboring IPs to test from IP 95.77.99.62
+2024-09-13 13:00:55,856 INFO: Added 254 neighboring IPs to test from IP 95.181.244.236
+2024-09-13 13:00:55,860 INFO: IP 95.86.164.205 is vulnerable with amplification factor: 6.125
+2024-09-13 13:00:55,864 INFO: IP 95.9.250.227 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:55,868 INFO: IP 95.216.72.9 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:55,874 INFO: Added 254 neighboring IPs to test from IP 95.47.146.28
+2024-09-13 13:00:55,880 INFO: IP 95.77.99.62 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:55,883 INFO: Added 254 neighboring IPs to test from IP 95.255.67.120
+2024-09-13 13:00:55,885 INFO: IP 95.181.244.236 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:55,886 INFO: Added 254 neighboring IPs to test from IP 95.42.221.245
+2024-09-13 13:00:55,892 INFO: Added 254 neighboring IPs to test from IP 95.43.254.53
+2024-09-13 13:00:55,895 INFO: Added 254 neighboring IPs to test from IP 95.85.95.85
+2024-09-13 13:00:55,901 INFO: Added 254 neighboring IPs to test from IP 96.10.247.60
+2024-09-13 13:00:55,902 INFO: IP 95.47.146.28 is vulnerable with amplification factor: 6.75
+2024-09-13 13:00:55,912 INFO: IP 95.42.221.245 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:55,914 INFO: Added 254 neighboring IPs to test from IP 95.46.201.206
+2024-09-13 13:00:55,915 INFO: Added 254 neighboring IPs to test from IP 95.43.242.238
+2024-09-13 13:00:55,920 INFO: IP 95.66.136.114 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:55,922 INFO: Added 254 neighboring IPs to test from IP 96.65.169.149
+2024-09-13 13:00:55,930 INFO: IP 96.10.247.60 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:55,933 INFO: Added 254 neighboring IPs to test from IP 95.43.101.183
+2024-09-13 13:00:55,935 INFO: Added 254 neighboring IPs to test from IP 95.46.6.17
+2024-09-13 13:00:55,939 INFO: IP 95.255.67.120 is vulnerable with amplification factor: 9.625
+2024-09-13 13:00:55,942 INFO: Added 254 neighboring IPs to test from IP 96.30.79.13
+2024-09-13 13:00:55,943 INFO: Added 254 neighboring IPs to test from IP 95.161.199.82
+2024-09-13 13:00:55,944 INFO: IP 95.46.201.206 is vulnerable with amplification factor: 14.375
+2024-09-13 13:00:55,949 INFO: Added 254 neighboring IPs to test from IP 95.215.230.195
+2024-09-13 13:00:55,949 INFO: IP 95.43.254.53 is vulnerable with amplification factor: 14.875
+2024-09-13 13:00:55,952 INFO: IP 96.65.169.149 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:55,960 INFO: IP 95.154.177.60 is vulnerable with amplification factor: 6.75
+2024-09-13 13:00:55,964 INFO: IP 95.43.101.183 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:55,968 INFO: Added 254 neighboring IPs to test from IP 95.9.37.245
+2024-09-13 13:00:55,972 INFO: Added 254 neighboring IPs to test from IP 95.64.141.190
+2024-09-13 13:00:55,973 INFO: IP 96.30.79.13 is vulnerable with amplification factor: 13.375
+2024-09-13 13:00:55,973 INFO: IP 95.161.199.82 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:55,976 INFO: Added 254 neighboring IPs to test from IP 95.50.82.150
+2024-09-13 13:00:55,976 INFO: IP 95.43.242.238 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:55,980 INFO: IP 95.215.230.195 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:55,984 INFO: IP 95.85.95.85 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:55,988 INFO: Added 254 neighboring IPs to test from IP 95.64.202.178
+2024-09-13 13:00:55,994 INFO: Added 254 neighboring IPs to test from IP 95.47.180.171
+2024-09-13 13:00:55,996 INFO: Added 254 neighboring IPs to test from IP 95.64.158.110
+2024-09-13 13:00:55,997 INFO: IP 95.46.6.17 is vulnerable with amplification factor: 10.375
+2024-09-13 13:00:56,005 INFO: IP 95.64.141.190 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:56,009 INFO: IP 95.50.82.150 is vulnerable with amplification factor: 6.125
+2024-09-13 13:00:56,020 INFO: IP 95.64.202.178 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:56,023 INFO: Added 254 neighboring IPs to test from IP 95.64.134.98
+2024-09-13 13:00:56,028 INFO: IP 95.47.180.171 is vulnerable with amplification factor: 6.75
+2024-09-13 13:00:56,032 INFO: IP 95.64.158.110 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:56,044 INFO: Added 254 neighboring IPs to test from IP 96.65.91.65
+2024-09-13 13:00:56,054 INFO: Added 254 neighboring IPs to test from IP 96.126.127.69
+2024-09-13 13:00:56,059 INFO: IP 95.64.134.98 is vulnerable with amplification factor: 6.75
+2024-09-13 13:00:56,063 INFO: Added 254 neighboring IPs to test from IP 95.172.55.54
+2024-09-13 13:00:56,073 INFO: Added 254 neighboring IPs to test from IP 95.71.2.54
+2024-09-13 13:00:56,076 INFO: IP 96.65.91.65 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:56,084 INFO: Added 254 neighboring IPs to test from IP 95.79.114.246
+2024-09-13 13:00:56,085 INFO: IP 96.126.127.69 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:56,090 INFO: Added 254 neighboring IPs to test from IP 95.188.67.171
+2024-09-13 13:00:56,097 INFO: Added 254 neighboring IPs to test from IP 96.82.121.113
+2024-09-13 13:00:56,101 INFO: Added 254 neighboring IPs to test from IP 95.168.176.207
+2024-09-13 13:00:56,107 INFO: Added 254 neighboring IPs to test from IP 95.50.248.138
+2024-09-13 13:00:56,112 INFO: Added 254 neighboring IPs to test from IP 95.46.73.236
+2024-09-13 13:00:56,116 INFO: IP 95.188.67.171 is vulnerable with amplification factor: 4.125
+2024-09-13 13:00:56,126 INFO: IP 96.82.121.113 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:56,128 INFO: IP 95.9.37.245 is vulnerable with amplification factor: 6.625
+2024-09-13 13:00:56,130 INFO: Added 254 neighboring IPs to test from IP 95.128.184.40
+2024-09-13 13:00:56,135 INFO: Added 254 neighboring IPs to test from IP 95.188.83.19
+2024-09-13 13:00:56,138 INFO: Added 254 neighboring IPs to test from IP 96.66.225.148
+2024-09-13 13:00:56,140 INFO: Added 254 neighboring IPs to test from IP 96.246.89.243
+2024-09-13 13:00:56,141 INFO: IP 95.50.248.138 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:56,142 INFO: Added 254 neighboring IPs to test from IP 95.158.68.162
+2024-09-13 13:00:56,144 INFO: Added 254 neighboring IPs to test from IP 96.44.132.18
+2024-09-13 13:00:56,146 INFO: IP 95.79.114.246 is vulnerable with amplification factor: 11.5
+2024-09-13 13:00:56,153 INFO: IP 95.172.55.54 is vulnerable with amplification factor: 4.125
+2024-09-13 13:00:56,165 INFO: IP 95.71.2.54 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:56,168 INFO: Added 254 neighboring IPs to test from IP 95.160.31.126
+2024-09-13 13:00:56,168 INFO: IP 95.188.83.19 is vulnerable with amplification factor: 8.46875
+2024-09-13 13:00:56,171 INFO: Added 254 neighboring IPs to test from IP 95.45.222.78
+2024-09-13 13:00:56,172 INFO: Added 254 neighboring IPs to test from IP 95.85.86.194
+2024-09-13 13:00:56,173 INFO: IP 96.246.89.243 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:56,178 INFO: Added 254 neighboring IPs to test from IP 95.179.250.137
+2024-09-13 13:00:56,179 INFO: IP 95.46.73.236 is vulnerable with amplification factor: 4.125
+2024-09-13 13:00:56,182 INFO: Added 254 neighboring IPs to test from IP 95.43.223.164
+2024-09-13 13:00:56,187 INFO: Added 254 neighboring IPs to test from IP 95.214.62.26
+2024-09-13 13:00:56,189 INFO: Added 254 neighboring IPs to test from IP 95.64.180.2
+2024-09-13 13:00:56,196 INFO: IP 95.128.184.40 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:56,198 INFO: IP 95.168.176.207 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:56,198 INFO: Added 254 neighboring IPs to test from IP 95.60.135.1
+2024-09-13 13:00:56,201 INFO: IP 95.160.31.126 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:56,204 INFO: IP 95.45.222.78 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:56,205 INFO: IP 96.66.225.148 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:56,206 INFO: IP 95.85.86.194 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:56,208 INFO: Added 254 neighboring IPs to test from IP 95.80.217.164
+2024-09-13 13:00:56,211 INFO: IP 95.179.250.137 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:56,213 INFO: Added 254 neighboring IPs to test from IP 95.167.16.237
+2024-09-13 13:00:56,214 INFO: Added 254 neighboring IPs to test from IP 95.79.105.161
+2024-09-13 13:00:56,222 INFO: Added 254 neighboring IPs to test from IP 95.143.13.183
+2024-09-13 13:00:56,222 INFO: Added 254 neighboring IPs to test from IP 95.42.22.30
+2024-09-13 13:00:56,223 INFO: IP 95.214.62.26 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:56,225 INFO: IP 95.64.180.2 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:56,233 INFO: Added 254 neighboring IPs to test from IP 95.165.26.186
+2024-09-13 13:00:56,236 INFO: IP 95.60.135.1 is vulnerable with amplification factor: 14.875
+2024-09-13 13:00:56,245 INFO: Added 254 neighboring IPs to test from IP 95.160.31.73
+2024-09-13 13:00:56,246 INFO: IP 95.158.68.162 is vulnerable with amplification factor: 13.375
+2024-09-13 13:00:56,248 INFO: IP 96.44.132.18 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:56,249 INFO: Added 254 neighboring IPs to test from IP 95.87.197.230
+2024-09-13 13:00:56,263 INFO: IP 95.42.22.30 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:56,269 INFO: Added 254 neighboring IPs to test from IP 97.68.128.90
+2024-09-13 13:00:56,270 INFO: Added 254 neighboring IPs to test from IP 96.235.35.5
+2024-09-13 13:00:56,273 INFO: IP 95.165.26.186 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:56,278 INFO: Added 254 neighboring IPs to test from IP 95.215.19.53
+2024-09-13 13:00:56,286 INFO: Added 254 neighboring IPs to test from IP 95.50.138.20
+2024-09-13 13:00:56,287 INFO: IP 95.167.16.237 is vulnerable with amplification factor: 12.25
+2024-09-13 13:00:56,296 INFO: IP 95.143.13.183 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:56,309 INFO: Added 254 neighboring IPs to test from IP 95.156.4.114
+2024-09-13 13:00:56,310 INFO: Added 254 neighboring IPs to test from IP 95.64.167.46
+2024-09-13 13:00:56,311 INFO: IP 95.160.31.73 is vulnerable with amplification factor: 13.375
+2024-09-13 13:00:56,312 INFO: IP 95.80.217.164 is vulnerable with amplification factor: 6.125
+2024-09-13 13:00:56,315 INFO: Added 254 neighboring IPs to test from IP 95.27.222.199
+2024-09-13 13:00:56,317 INFO: IP 95.79.105.161 is vulnerable with amplification factor: 7.25
+2024-09-13 13:00:56,321 INFO: Added 254 neighboring IPs to test from IP 95.111.231.0
+2024-09-13 13:00:56,322 INFO: Added 254 neighboring IPs to test from IP 95.43.125.251
+2024-09-13 13:00:56,328 INFO: Added 254 neighboring IPs to test from IP 96.10.242.116
+2024-09-13 13:00:56,328 INFO: Added 254 neighboring IPs to test from IP 95.177.176.8
+2024-09-13 13:00:56,329 INFO: IP 96.235.35.5 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:56,332 INFO: Added 254 neighboring IPs to test from IP 95.171.11.125
+2024-09-13 13:00:56,335 INFO: IP 95.215.19.53 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:56,339 INFO: IP 95.64.167.46 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:56,343 INFO: IP 95.27.222.199 is vulnerable with amplification factor: 4.125
+2024-09-13 13:00:56,345 INFO: IP 95.50.138.20 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:56,348 INFO: IP 95.43.223.164 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:56,356 INFO: Added 254 neighboring IPs to test from IP 95.216.12.41
+2024-09-13 13:00:56,357 INFO: Added 254 neighboring IPs to test from IP 95.160.8.158
+2024-09-13 13:00:56,359 INFO: IP 96.10.242.116 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:56,367 INFO: Added 254 neighboring IPs to test from IP 96.10.218.162
+2024-09-13 13:00:56,368 INFO: IP 95.156.4.114 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:56,370 INFO: Added 254 neighboring IPs to test from IP 95.84.186.148
+2024-09-13 13:00:56,371 INFO: IP 95.87.197.230 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:56,379 INFO: Added 254 neighboring IPs to test from IP 95.158.6.154
+2024-09-13 13:00:56,380 INFO: IP 95.111.231.0 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:56,382 INFO: IP 95.43.125.251 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:56,387 INFO: IP 95.160.8.158 is vulnerable with amplification factor: 13.375
+2024-09-13 13:00:56,388 INFO: Added 254 neighboring IPs to test from IP 95.31.251.149
+2024-09-13 13:00:56,391 INFO: Added 254 neighboring IPs to test from IP 95.31.52.10
+2024-09-13 13:00:56,394 INFO: Added 254 neighboring IPs to test from IP 95.79.41.169
+2024-09-13 13:00:56,396 INFO: Added 254 neighboring IPs to test from IP 95.213.146.181
+2024-09-13 13:00:56,399 INFO: Added 254 neighboring IPs to test from IP 95.66.153.30
+2024-09-13 13:00:56,399 INFO: Added 254 neighboring IPs to test from IP 95.85.217.67
+2024-09-13 13:00:56,400 INFO: IP 96.10.218.162 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:56,404 INFO: IP 95.84.186.148 is vulnerable with amplification factor: 4.125
+2024-09-13 13:00:56,408 INFO: Added 254 neighboring IPs to test from IP 95.154.78.70
+2024-09-13 13:00:56,411 INFO: Added 254 neighboring IPs to test from IP 95.168.224.139
+2024-09-13 13:00:56,418 INFO: Added 254 neighboring IPs to test from IP 95.172.87.14
+2024-09-13 13:00:56,420 INFO: IP 95.31.251.149 is vulnerable with amplification factor: 6.75
+2024-09-13 13:00:56,420 INFO: IP 97.68.128.90 is vulnerable with amplification factor: 15.5
+2024-09-13 13:00:56,423 INFO: IP 95.177.176.8 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:56,426 INFO: Added 254 neighboring IPs to test from IP 95.79.50.159
+2024-09-13 13:00:56,428 INFO: IP 95.79.41.169 is vulnerable with amplification factor: 11.5
+2024-09-13 13:00:56,432 INFO: IP 95.85.217.67 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:56,440 INFO: IP 95.154.78.70 is vulnerable with amplification factor: 8.75
+2024-09-13 13:00:56,443 INFO: IP 95.168.224.139 is vulnerable with amplification factor: 14.875
+2024-09-13 13:00:56,444 INFO: IP 95.158.6.154 is vulnerable with amplification factor: 5.25
+2024-09-13 13:00:56,450 INFO: IP 95.216.12.41 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:56,455 INFO: Added 254 neighboring IPs to test from IP 95.154.145.151
+2024-09-13 13:00:56,455 INFO: IP 95.31.52.10 is vulnerable with amplification factor: 6.75
+2024-09-13 13:00:56,457 INFO: IP 95.79.50.159 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:56,459 INFO: IP 95.171.11.125 is vulnerable with amplification factor: 6.75
+2024-09-13 13:00:56,460 INFO: Added 254 neighboring IPs to test from IP 95.181.138.93
+2024-09-13 13:00:56,462 INFO: IP 95.213.146.181 is vulnerable with amplification factor: 12.25
+2024-09-13 13:00:56,465 INFO: IP 95.66.153.30 is vulnerable with amplification factor: 8.75
+2024-09-13 13:00:56,466 INFO: Added 254 neighboring IPs to test from IP 95.213.157.165
+2024-09-13 13:00:56,471 INFO: Added 254 neighboring IPs to test from IP 95.31.244.107
+2024-09-13 13:00:56,478 INFO: Added 254 neighboring IPs to test from IP 95.66.148.208
+2024-09-13 13:00:56,481 INFO: IP 95.172.87.14 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:56,484 INFO: Added 254 neighboring IPs to test from IP 95.31.104.44
+2024-09-13 13:00:56,486 INFO: Added 254 neighboring IPs to test from IP 95.64.186.94
+2024-09-13 13:00:56,487 INFO: Added 254 neighboring IPs to test from IP 95.129.56.168
+2024-09-13 13:00:56,490 INFO: Added 254 neighboring IPs to test from IP 95.154.83.233
+2024-09-13 13:00:56,491 INFO: IP 95.181.138.93 is vulnerable with amplification factor: 6.75
+2024-09-13 13:00:56,501 INFO: Added 254 neighboring IPs to test from IP 95.68.224.84
+2024-09-13 13:00:56,502 INFO: IP 95.31.244.107 is vulnerable with amplification factor: 6.75
+2024-09-13 13:00:56,506 INFO: Added 254 neighboring IPs to test from IP 95.80.93.89
+2024-09-13 13:00:56,509 INFO: Added 254 neighboring IPs to test from IP 95.216.141.159
+2024-09-13 13:00:56,515 INFO: IP 95.31.104.44 is vulnerable with amplification factor: 18.0
+2024-09-13 13:00:56,516 INFO: IP 95.154.145.151 is vulnerable with amplification factor: 4.625
+2024-09-13 13:00:56,516 INFO: Added 254 neighboring IPs to test from IP 95.157.69.2
+2024-09-13 13:00:56,517 INFO: IP 95.64.186.94 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:56,517 INFO: IP 95.129.56.168 is vulnerable with amplification factor: 7.25
+2024-09-13 13:00:56,520 INFO: Added 254 neighboring IPs to test from IP 95.97.113.102
+2024-09-13 13:00:56,522 INFO: IP 95.154.83.233 is vulnerable with amplification factor: 8.75
+2024-09-13 13:00:56,522 INFO: Added 254 neighboring IPs to test from IP 95.143.242.138
+2024-09-13 13:00:56,528 INFO: IP 95.213.157.165 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:56,533 INFO: IP 95.68.224.84 is vulnerable with amplification factor: 8.75
+2024-09-13 13:00:56,538 INFO: IP 95.80.93.89 is vulnerable with amplification factor: 6.75
+2024-09-13 13:00:56,539 INFO: Added 254 neighboring IPs to test from IP 96.35.157.186
+2024-09-13 13:00:56,542 INFO: Added 254 neighboring IPs to test from IP 95.154.178.63
+2024-09-13 13:00:56,544 INFO: Added 254 neighboring IPs to test from IP 96.36.19.25
+2024-09-13 13:00:56,544 INFO: Added 254 neighboring IPs to test from IP 95.42.215.82
+2024-09-13 13:00:56,548 INFO: IP 95.97.113.102 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:56,550 INFO: IP 95.143.242.138 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:56,563 INFO: Added 254 neighboring IPs to test from IP 95.140.112.5
+2024-09-13 13:00:56,565 INFO: IP 96.35.157.186 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:56,569 INFO: IP 95.154.178.63 is vulnerable with amplification factor: 16.5
+2024-09-13 13:00:56,572 INFO: IP 96.36.19.25 is vulnerable with amplification factor: 8.875
+2024-09-13 13:00:56,573 INFO: IP 95.42.215.82 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:56,592 INFO: IP 95.140.112.5 is vulnerable with amplification factor: 8.875
+2024-09-13 13:00:56,593 INFO: Added 254 neighboring IPs to test from IP 95.66.142.11
+2024-09-13 13:00:56,595 INFO: Added 254 neighboring IPs to test from IP 95.165.158.193
+2024-09-13 13:00:56,598 INFO: Added 254 neighboring IPs to test from IP 95.31.40.207
+2024-09-13 13:00:56,602 INFO: Added 254 neighboring IPs to test from IP 95.171.122.83
+2024-09-13 13:00:56,607 INFO: Added 254 neighboring IPs to test from IP 95.85.216.162
+2024-09-13 13:00:56,608 INFO: Added 254 neighboring IPs to test from IP 95.31.43.164
+2024-09-13 13:00:56,610 INFO: Added 254 neighboring IPs to test from IP 95.179.143.35
+2024-09-13 13:00:56,624 INFO: IP 95.216.141.159 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:56,627 INFO: IP 95.31.40.207 is vulnerable with amplification factor: 7.25
+2024-09-13 13:00:56,631 INFO: IP 95.171.122.83 is vulnerable with amplification factor: 6.125
+2024-09-13 13:00:56,639 INFO: Added 254 neighboring IPs to test from IP 95.64.204.142
+2024-09-13 13:00:56,651 INFO: IP 95.165.158.193 is vulnerable with amplification factor: 5.125
+2024-09-13 13:00:56,654 INFO: Added 254 neighboring IPs to test from IP 95.158.37.247
+2024-09-13 13:00:56,658 INFO: IP 95.157.69.2 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:56,673 INFO: Added 254 neighboring IPs to test from IP 95.43.211.168
+2024-09-13 13:00:56,676 INFO: IP 95.66.142.11 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:56,679 INFO: IP 95.66.148.208 is vulnerable with amplification factor: 8.75
+2024-09-13 13:00:56,680 INFO: Added 254 neighboring IPs to test from IP 95.141.40.109
+2024-09-13 13:00:56,682 INFO: IP 95.158.37.247 is vulnerable with amplification factor: 5.25
+2024-09-13 13:00:56,691 INFO: IP 95.85.216.162 is vulnerable with amplification factor: 13.375
+2024-09-13 13:00:56,694 INFO: Added 254 neighboring IPs to test from IP 95.64.138.174
+2024-09-13 13:00:56,696 INFO: IP 95.64.204.142 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:56,708 INFO: IP 95.141.40.109 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:56,711 INFO: Added 254 neighboring IPs to test from IP 95.143.12.246
+2024-09-13 13:00:56,718 INFO: Added 254 neighboring IPs to test from IP 95.71.127.75
+2024-09-13 13:00:56,720 INFO: IP 95.31.43.164 is vulnerable with amplification factor: 4.125
+2024-09-13 13:00:56,725 INFO: Added 254 neighboring IPs to test from IP 95.167.147.135
+2024-09-13 13:00:56,751 INFO: IP 95.64.138.174 is vulnerable with amplification factor: 14.375
+2024-09-13 13:00:56,751 INFO: IP 95.179.143.35 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:56,757 INFO: Added 254 neighboring IPs to test from IP 95.61.156.70
+2024-09-13 13:00:56,767 INFO: Added 254 neighboring IPs to test from IP 95.209.148.227
+2024-09-13 13:00:56,769 INFO: Added 254 neighboring IPs to test from IP 95.111.230.53
+2024-09-13 13:00:56,773 INFO: Added 254 neighboring IPs to test from IP 95.165.31.212
+2024-09-13 13:00:56,775 INFO: IP 95.143.12.246 is vulnerable with amplification factor: 5.25
+2024-09-13 13:00:56,777 INFO: Added 254 neighboring IPs to test from IP 95.161.228.110
+2024-09-13 13:00:56,783 INFO: Added 254 neighboring IPs to test from IP 95.179.222.54
+2024-09-13 13:00:56,783 INFO: IP 95.71.127.75 is vulnerable with amplification factor: 6.75
+2024-09-13 13:00:56,792 INFO: IP 95.61.156.70 is vulnerable with amplification factor: 10.875
+2024-09-13 13:00:56,799 INFO: Added 254 neighboring IPs to test from IP 95.31.130.43
+2024-09-13 13:00:56,801 INFO: Added 254 neighboring IPs to test from IP 95.73.60.213
+2024-09-13 13:00:56,803 INFO: IP 95.209.148.227 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:56,808 INFO: IP 95.165.31.212 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:56,817 INFO: IP 95.179.222.54 is vulnerable with amplification factor: 3.5625
+2024-09-13 13:00:56,830 INFO: IP 95.31.130.43 is vulnerable with amplification factor: 4.125
+2024-09-13 13:00:56,832 INFO: Added 254 neighboring IPs to test from IP 95.165.146.162
+2024-09-13 13:00:56,833 INFO: IP 95.43.211.168 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:56,849 INFO: Added 254 neighboring IPs to test from IP 95.43.124.241
+2024-09-13 13:00:56,850 INFO: Added 254 neighboring IPs to test from IP 95.213.153.2
+2024-09-13 13:00:56,851 INFO: Added 254 neighboring IPs to test from IP 95.140.36.69
+2024-09-13 13:00:56,855 INFO: Added 254 neighboring IPs to test from IP 95.31.208.124
+2024-09-13 13:00:56,858 INFO: Added 254 neighboring IPs to test from IP 95.165.29.219
+2024-09-13 13:00:56,860 INFO: Added 254 neighboring IPs to test from IP 95.171.21.182
+2024-09-13 13:00:56,862 INFO: Added 254 neighboring IPs to test from IP 95.216.22.157
+2024-09-13 13:00:56,863 INFO: IP 95.165.146.162 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:56,864 INFO: Added 254 neighboring IPs to test from IP 95.174.100.99
+2024-09-13 13:00:56,866 INFO: Added 254 neighboring IPs to test from IP 95.161.166.46
+2024-09-13 13:00:56,868 INFO: IP 95.111.230.53 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:56,881 INFO: Added 254 neighboring IPs to test from IP 95.154.91.146
+2024-09-13 13:00:56,883 INFO: IP 95.213.153.2 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:56,884 INFO: IP 95.140.36.69 is vulnerable with amplification factor: 14.375
+2024-09-13 13:00:56,888 INFO: Added 254 neighboring IPs to test from IP 95.96.71.101
+2024-09-13 13:00:56,889 INFO: IP 95.31.208.124 is vulnerable with amplification factor: 6.75
+2024-09-13 13:00:56,894 INFO: IP 95.165.29.219 is vulnerable with amplification factor: 6.75
+2024-09-13 13:00:56,896 INFO: IP 95.216.22.157 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:56,898 INFO: Added 254 neighboring IPs to test from IP 95.140.3.32
+2024-09-13 13:00:56,899 INFO: IP 95.73.60.213 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:56,907 INFO: Added 254 neighboring IPs to test from IP 95.165.90.159
+2024-09-13 13:00:56,911 INFO: Added 254 neighboring IPs to test from IP 95.174.101.212
+2024-09-13 13:00:56,916 INFO: IP 95.96.71.101 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:56,924 INFO: IP 95.174.100.99 is vulnerable with amplification factor: 15.375
+2024-09-13 13:00:56,926 INFO: IP 95.161.166.46 is vulnerable with amplification factor: 13.875
+2024-09-13 13:00:56,932 INFO: Added 254 neighboring IPs to test from IP 95.129.57.187
+2024-09-13 13:00:56,933 INFO: IP 95.161.228.110 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:56,934 INFO: IP 95.165.90.159 is vulnerable with amplification factor: 4.625
+2024-09-13 13:00:56,938 INFO: IP 95.154.91.146 is vulnerable with amplification factor: 13.3125
+2024-09-13 13:00:56,938 INFO: IP 95.43.124.241 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:56,942 INFO: Added 254 neighboring IPs to test from IP 95.47.167.149
+2024-09-13 13:00:56,948 INFO: IP 95.171.21.182 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:56,950 INFO: IP 95.140.3.32 is vulnerable with amplification factor: 9.625
+2024-09-13 13:00:56,958 INFO: IP 95.129.57.187 is vulnerable with amplification factor: 7.25
+2024-09-13 13:00:56,963 INFO: IP 95.174.101.212 is vulnerable with amplification factor: 6.75
+2024-09-13 13:00:56,965 INFO: Added 254 neighboring IPs to test from IP 95.64.191.202
+2024-09-13 13:00:56,968 INFO: Added 254 neighboring IPs to test from IP 95.64.168.82
+2024-09-13 13:00:56,969 INFO: Added 254 neighboring IPs to test from IP 95.60.251.140
+2024-09-13 13:00:56,971 INFO: IP 95.167.147.135 is vulnerable with amplification factor: 11.5
+2024-09-13 13:00:56,976 INFO: Added 254 neighboring IPs to test from IP 95.161.183.234
+2024-09-13 13:00:56,993 INFO: IP 95.47.167.149 is vulnerable with amplification factor: 8.875
+2024-09-13 13:00:56,993 INFO: IP 95.64.168.82 is vulnerable with amplification factor: 6.75
+2024-09-13 13:00:56,995 INFO: IP 95.60.251.140 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:57,001 INFO: Added 254 neighboring IPs to test from IP 95.181.143.185
+2024-09-13 13:00:57,009 INFO: Added 254 neighboring IPs to test from IP 95.165.171.143
+2024-09-13 13:00:57,013 INFO: Added 254 neighboring IPs to test from IP 95.165.154.182
+2024-09-13 13:00:57,019 INFO: IP 95.64.191.202 is vulnerable with amplification factor: 6.75
+2024-09-13 13:00:57,027 INFO: Added 254 neighboring IPs to test from IP 95.31.107.229
+2024-09-13 13:00:57,029 INFO: IP 95.181.143.185 is vulnerable with amplification factor: 6.75
+2024-09-13 13:00:57,037 INFO: IP 95.165.171.143 is vulnerable with amplification factor: 4.125
+2024-09-13 13:00:57,042 INFO: Added 254 neighboring IPs to test from IP 95.154.103.131
+2024-09-13 13:00:57,056 INFO: IP 95.161.183.234 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:57,062 INFO: Added 254 neighboring IPs to test from IP 95.22.2.114
+2024-09-13 13:00:57,066 INFO: Added 254 neighboring IPs to test from IP 95.130.177.82
+2024-09-13 13:00:57,069 INFO: IP 95.165.154.182 is vulnerable with amplification factor: 8.875
+2024-09-13 13:00:57,075 INFO: Added 254 neighboring IPs to test from IP 95.168.195.130
+2024-09-13 13:00:57,077 INFO: Added 254 neighboring IPs to test from IP 95.105.89.98
+2024-09-13 13:00:57,077 INFO: Added 254 neighboring IPs to test from IP 97.68.173.14
+2024-09-13 13:00:57,079 INFO: Added 254 neighboring IPs to test from IP 95.105.89.28
+2024-09-13 13:00:57,080 INFO: Added 254 neighboring IPs to test from IP 95.165.230.26
+2024-09-13 13:00:57,084 INFO: IP 95.31.107.229 is vulnerable with amplification factor: 8.75
+2024-09-13 13:00:57,092 INFO: IP 95.22.2.114 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:57,097 INFO: IP 95.130.177.82 is vulnerable with amplification factor: 8.75
+2024-09-13 13:00:57,097 INFO: Added 254 neighboring IPs to test from IP 95.165.28.24
+2024-09-13 13:00:57,100 INFO: Added 254 neighboring IPs to test from IP 95.105.89.33
+2024-09-13 13:00:57,103 INFO: IP 95.154.103.131 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:57,109 INFO: Added 254 neighboring IPs to test from IP 95.179.254.178
+2024-09-13 13:00:57,111 INFO: IP 97.68.173.14 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:57,113 INFO: IP 95.105.89.28 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:57,130 INFO: IP 95.165.28.24 is vulnerable with amplification factor: 6.75
+2024-09-13 13:00:57,132 INFO: IP 95.105.89.33 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:57,140 INFO: IP 95.179.254.178 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:57,142 INFO: Added 254 neighboring IPs to test from IP 95.142.250.118
+2024-09-13 13:00:57,144 INFO: Added 254 neighboring IPs to test from IP 95.84.192.62
+2024-09-13 13:00:57,144 INFO: IP 95.165.230.26 is vulnerable with amplification factor: 14.375
+2024-09-13 13:00:57,166 INFO: IP 95.168.195.130 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:57,170 INFO: Added 254 neighboring IPs to test from IP 95.128.246.108
+2024-09-13 13:00:57,171 INFO: IP 95.142.250.118 is vulnerable with amplification factor: 6.125
+2024-09-13 13:00:57,177 INFO: Added 254 neighboring IPs to test from IP 95.46.141.236
+2024-09-13 13:00:57,186 INFO: Added 254 neighboring IPs to test from IP 95.157.23.121
+2024-09-13 13:00:57,186 INFO: Added 254 neighboring IPs to test from IP 95.31.219.189
+2024-09-13 13:00:57,196 INFO: IP 95.105.89.98 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:57,198 INFO: IP 95.84.192.62 is vulnerable with amplification factor: 4.125
+2024-09-13 13:00:57,210 INFO: IP 95.157.23.121 is vulnerable with amplification factor: 4.125
+2024-09-13 13:00:57,216 INFO: Added 254 neighboring IPs to test from IP 95.111.239.88
+2024-09-13 13:00:57,217 INFO: Added 254 neighboring IPs to test from IP 95.181.49.102
+2024-09-13 13:00:57,222 INFO: Added 254 neighboring IPs to test from IP 95.124.242.189
+2024-09-13 13:00:57,224 INFO: Added 254 neighboring IPs to test from IP 95.78.156.108
+2024-09-13 13:00:57,237 INFO: Added 254 neighboring IPs to test from IP 95.111.248.242
+2024-09-13 13:00:57,239 INFO: Added 254 neighboring IPs to test from IP 95.68.245.145
+2024-09-13 13:00:57,241 INFO: IP 95.111.239.88 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:57,242 INFO: Added 254 neighboring IPs to test from IP 95.54.192.158
+2024-09-13 13:00:57,245 INFO: Added 254 neighboring IPs to test from IP 95.143.181.67
+2024-09-13 13:00:57,246 INFO: Added 254 neighboring IPs to test from IP 95.165.107.232
+2024-09-13 13:00:57,247 INFO: IP 95.128.246.108 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:57,248 INFO: Added 254 neighboring IPs to test from IP 95.165.160.110
+2024-09-13 13:00:57,253 INFO: Added 254 neighboring IPs to test from IP 95.64.137.238
+2024-09-13 13:00:57,255 INFO: IP 95.46.141.236 is vulnerable with amplification factor: 4.125
+2024-09-13 13:00:57,259 INFO: Added 254 neighboring IPs to test from IP 95.165.45.118
+2024-09-13 13:00:57,264 INFO: IP 95.31.219.189 is vulnerable with amplification factor: 6.75
+2024-09-13 13:00:57,266 INFO: IP 95.111.248.242 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:57,271 INFO: IP 95.181.49.102 is vulnerable with amplification factor: 11.5
+2024-09-13 13:00:57,274 INFO: Added 254 neighboring IPs to test from IP 95.154.80.145
+2024-09-13 13:00:57,276 INFO: IP 95.165.107.232 is vulnerable with amplification factor: 4.125
+2024-09-13 13:00:57,277 INFO: IP 95.165.160.110 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:57,282 INFO: Added 254 neighboring IPs to test from IP 95.129.137.3
+2024-09-13 13:00:57,282 INFO: Added 254 neighboring IPs to test from IP 95.163.11.192
+2024-09-13 13:00:57,293 INFO: Added 254 neighboring IPs to test from IP 95.167.29.50
+2024-09-13 13:00:57,300 INFO: Added 254 neighboring IPs to test from IP 95.42.48.76
+2024-09-13 13:00:57,301 INFO: IP 95.54.192.158 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:57,303 INFO: IP 95.143.181.67 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:57,306 INFO: Added 254 neighboring IPs to test from IP 95.128.139.155
+2024-09-13 13:00:57,310 INFO: IP 95.78.156.108 is vulnerable with amplification factor: 6.75
+2024-09-13 13:00:57,313 INFO: Added 254 neighboring IPs to test from IP 95.47.251.29
+2024-09-13 13:00:57,322 INFO: IP 95.167.29.50 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:57,334 INFO: IP 95.128.139.155 is vulnerable with amplification factor: 6.125
+2024-09-13 13:00:57,340 INFO: IP 95.129.137.3 is vulnerable with amplification factor: 12.25
+2024-09-13 13:00:57,341 INFO: IP 95.163.11.192 is vulnerable with amplification factor: 6.75
+2024-09-13 13:00:57,346 INFO: Added 254 neighboring IPs to test from IP 95.167.150.28
+2024-09-13 13:00:57,349 INFO: IP 95.165.45.118 is vulnerable with amplification factor: 4.125
+2024-09-13 13:00:57,356 INFO: Added 254 neighboring IPs to test from IP 95.179.193.65
+2024-09-13 13:00:57,356 INFO: Added 254 neighboring IPs to test from IP 95.130.131.14
+2024-09-13 13:00:57,357 INFO: Added 254 neighboring IPs to test from IP 95.189.105.37
+2024-09-13 13:00:57,359 INFO: IP 95.68.245.145 is vulnerable with amplification factor: 8.75
+2024-09-13 13:00:57,367 INFO: Added 254 neighboring IPs to test from IP 95.172.58.109
+2024-09-13 13:00:57,372 INFO: Added 254 neighboring IPs to test from IP 95.59.235.170
+2024-09-13 13:00:57,375 INFO: Added 254 neighboring IPs to test from IP 95.31.137.247
+2024-09-13 13:00:57,376 INFO: Added 254 neighboring IPs to test from IP 95.215.77.15
+2024-09-13 13:00:57,377 INFO: IP 95.167.150.28 is vulnerable with amplification factor: 3.5
+2024-09-13 13:00:57,380 INFO: Added 254 neighboring IPs to test from IP 95.168.210.20
+2024-09-13 13:00:57,387 INFO: Added 254 neighboring IPs to test from IP 95.183.46.13
+2024-09-13 13:00:57,388 INFO: IP 95.130.131.14 is vulnerable with amplification factor: 6.75
+2024-09-13 13:00:57,398 INFO: Added 254 neighboring IPs to test from IP 95.31.233.13
+2024-09-13 13:00:57,400 INFO: IP 95.64.137.238 is vulnerable with amplification factor: 6.75
+2024-09-13 13:00:57,402 INFO: IP 95.47.251.29 is vulnerable with amplification factor: 4.125
+2024-09-13 13:00:57,404 INFO: IP 95.31.137.247 is vulnerable with amplification factor: 6.75
+2024-09-13 13:00:57,407 INFO: IP 95.168.210.20 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:57,412 INFO: Added 254 neighboring IPs to test from IP 95.158.55.136
+2024-09-13 13:00:57,413 INFO: Added 254 neighboring IPs to test from IP 95.181.52.62
+2024-09-13 13:00:57,415 INFO: IP 95.179.193.65 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:57,416 INFO: IP 95.189.105.37 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:57,421 INFO: IP 95.154.80.145 is vulnerable with amplification factor: 16.5
+2024-09-13 13:00:57,424 INFO: IP 95.172.58.109 is vulnerable with amplification factor: 2.4375
+2024-09-13 13:00:57,431 INFO: IP 95.215.77.15 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:57,438 INFO: IP 95.158.55.136 is vulnerable with amplification factor: 5.25
+2024-09-13 13:00:57,445 INFO: IP 95.42.48.76 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:57,446 INFO: Added 254 neighboring IPs to test from IP 95.166.165.146
+2024-09-13 13:00:57,454 INFO: Added 254 neighboring IPs to test from IP 95.167.8.122
+2024-09-13 13:00:57,464 INFO: Added 254 neighboring IPs to test from IP 95.141.23.145
+2024-09-13 13:00:57,464 INFO: Added 254 neighboring IPs to test from IP 95.53.90.74
+2024-09-13 13:00:57,465 INFO: IP 95.181.52.62 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:57,466 INFO: IP 95.183.46.13 is vulnerable with amplification factor: 3.25
+2024-09-13 13:00:57,473 INFO: Added 254 neighboring IPs to test from IP 95.142.89.109
+2024-09-13 13:00:57,475 INFO: Added 254 neighboring IPs to test from IP 95.172.150.10
+2024-09-13 13:00:57,479 INFO: Added 254 neighboring IPs to test from IP 95.154.65.3
+2024-09-13 13:00:57,482 INFO: Added 254 neighboring IPs to test from IP 95.66.159.36
+2024-09-13 13:00:57,482 INFO: IP 95.167.8.122 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:57,483 INFO: Added 254 neighboring IPs to test from IP 95.111.234.149
+2024-09-13 13:00:57,495 INFO: Added 254 neighboring IPs to test from IP 95.141.82.202
+2024-09-13 13:00:57,500 INFO: Added 254 neighboring IPs to test from IP 95.58.28.23
+2024-09-13 13:00:57,502 INFO: Added 254 neighboring IPs to test from IP 95.165.12.86
+2024-09-13 13:00:57,506 INFO: Added 254 neighboring IPs to test from IP 95.174.111.27
+2024-09-13 13:00:57,507 INFO: IP 95.166.165.146 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:57,509 INFO: IP 95.172.150.10 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:57,513 INFO: IP 95.154.65.3 is vulnerable with amplification factor: 8.75
+2024-09-13 13:00:57,516 INFO: IP 95.124.242.189 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:57,518 INFO: IP 95.111.234.149 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:57,521 INFO: IP 95.59.235.170 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:57,536 ERROR: Error testing IP 95.105.89.135: timed out
+2024-09-13 13:00:57,537 INFO: Added 254 neighboring IPs to test from IP 95.142.87.24
+2024-09-13 13:00:57,539 INFO: IP 95.165.12.86 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:57,550 INFO: IP 95.31.233.13 is vulnerable with amplification factor: 6.75
+2024-09-13 13:00:57,559 INFO: Added 254 neighboring IPs to test from IP 95.158.188.226
+2024-09-13 13:00:57,567 INFO: IP 95.53.90.74 is vulnerable with amplification factor: 17.0
+2024-09-13 13:00:57,570 INFO: IP 95.58.28.23 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:57,571 INFO: Added 254 neighboring IPs to test from IP 95.160.230.148
+2024-09-13 13:00:57,578 INFO: IP 95.174.111.27 is vulnerable with amplification factor: 7.25
+2024-09-13 13:00:57,583 INFO: Added 254 neighboring IPs to test from IP 95.154.79.17
+2024-09-13 13:00:57,591 INFO: IP 95.158.188.226 is vulnerable with amplification factor: 8.875
+2024-09-13 13:00:57,602 INFO: IP 95.160.230.148 is vulnerable with amplification factor: 14.875
+2024-09-13 13:00:57,608 INFO: IP 95.142.89.109 is vulnerable with amplification factor: 8.75
+2024-09-13 13:00:57,612 INFO: Added 254 neighboring IPs to test from IP 95.165.134.141
+2024-09-13 13:00:57,619 INFO: Added 254 neighboring IPs to test from IP 95.138.211.251
+2024-09-13 13:00:57,628 INFO: IP 95.141.23.145 is vulnerable with amplification factor: 8.875
+2024-09-13 13:00:57,632 INFO: IP 95.142.87.24 is vulnerable with amplification factor: 8.75
+2024-09-13 13:00:57,646 INFO: IP 95.66.159.36 is vulnerable with amplification factor: 8.75
+2024-09-13 13:00:57,648 INFO: Added 254 neighboring IPs to test from IP 95.174.108.33
+2024-09-13 13:00:57,650 INFO: IP 95.138.211.251 is vulnerable with amplification factor: 6.125
+2024-09-13 13:00:57,657 INFO: Added 254 neighboring IPs to test from IP 95.142.165.105
+2024-09-13 13:00:57,658 INFO: IP 95.141.82.202 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:57,671 INFO: IP 95.154.79.17 is vulnerable with amplification factor: 8.75
+2024-09-13 13:00:57,678 INFO: Added 254 neighboring IPs to test from IP 95.166.140.250
+2024-09-13 13:00:57,684 INFO: IP 95.142.165.105 is vulnerable with amplification factor: 9.625
+2024-09-13 13:00:57,686 INFO: Added 254 neighboring IPs to test from IP 95.130.226.234
+2024-09-13 13:00:57,693 INFO: Added 254 neighboring IPs to test from IP 95.154.89.159
+2024-09-13 13:00:57,695 INFO: IP 95.165.134.141 is vulnerable with amplification factor: 4.125
+2024-09-13 13:00:57,701 INFO: IP 95.174.108.33 is vulnerable with amplification factor: 6.75
+2024-09-13 13:00:57,702 INFO: Added 254 neighboring IPs to test from IP 95.131.75.219
+2024-09-13 13:00:57,705 INFO: IP 95.166.140.250 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:57,707 INFO: Added 254 neighboring IPs to test from IP 95.140.30.33
+2024-09-13 13:00:57,719 INFO: Added 254 neighboring IPs to test from IP 95.87.18.19
+2024-09-13 13:00:57,736 INFO: IP 95.130.226.234 is vulnerable with amplification factor: 8.75
+2024-09-13 13:00:57,745 INFO: Added 254 neighboring IPs to test from IP 95.154.100.76
+2024-09-13 13:00:57,746 INFO: IP 95.154.89.159 is vulnerable with amplification factor: 8.75
+2024-09-13 13:00:57,754 INFO: IP 95.131.75.219 is vulnerable with amplification factor: 5.25
+2024-09-13 13:00:57,759 INFO: IP 95.140.30.33 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:57,767 INFO: Added 254 neighboring IPs to test from IP 95.172.52.114
+2024-09-13 13:00:57,772 INFO: IP 95.87.18.19 is vulnerable with amplification factor: 6.125
+2024-09-13 13:00:57,789 INFO: Added 254 neighboring IPs to test from IP 95.160.16.250
+2024-09-13 13:00:57,791 INFO: Added 254 neighboring IPs to test from IP 95.165.200.74
+2024-09-13 13:00:57,796 INFO: IP 95.154.100.76 is vulnerable with amplification factor: 8.75
+2024-09-13 13:00:57,813 INFO: Added 254 neighboring IPs to test from IP 95.128.47.129
+2024-09-13 13:00:57,815 INFO: IP 95.160.16.250 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:57,826 INFO: Added 254 neighboring IPs to test from IP 95.128.137.166
+2024-09-13 13:00:57,832 INFO: Added 254 neighboring IPs to test from IP 95.171.126.99
+2024-09-13 13:00:57,839 INFO: IP 95.128.47.129 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:57,852 INFO: IP 95.128.137.166 is vulnerable with amplification factor: 6.125
+2024-09-13 13:00:57,856 INFO: Added 254 neighboring IPs to test from IP 95.110.131.72
+2024-09-13 13:00:57,859 INFO: Added 254 neighboring IPs to test from IP 95.170.153.38
+2024-09-13 13:00:57,867 INFO: IP 95.172.52.114 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:57,878 INFO: Added 254 neighboring IPs to test from IP 95.154.172.66
+2024-09-13 13:00:57,879 INFO: Added 254 neighboring IPs to test from IP 94.73.156.77
+2024-09-13 13:00:57,882 INFO: IP 95.171.126.99 is vulnerable with amplification factor: 6.125
+2024-09-13 13:00:57,888 INFO: Added 254 neighboring IPs to test from IP 94.73.156.78
+2024-09-13 13:00:57,892 INFO: IP 95.165.200.74 is vulnerable with amplification factor: 6.75
+2024-09-13 13:00:57,900 INFO: Added 254 neighboring IPs to test from IP 95.110.131.139
+2024-09-13 13:00:57,901 INFO: Added 254 neighboring IPs to test from IP 95.154.76.152
+2024-09-13 13:00:57,911 INFO: IP 95.170.153.38 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:57,915 INFO: IP 94.73.156.78 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:57,928 INFO: IP 95.110.131.139 is vulnerable with amplification factor: 4.125
+2024-09-13 13:00:57,929 INFO: IP 95.154.76.152 is vulnerable with amplification factor: 8.75
+2024-09-13 13:00:57,930 ERROR: Error testing IP 95.104.194.108: timed out
+2024-09-13 13:00:57,934 INFO: IP 95.154.172.66 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:57,938 ERROR: Error testing IP 95.104.126.235: timed out
+2024-09-13 13:00:57,948 INFO: Added 254 neighboring IPs to test from IP 95.178.112.47
+2024-09-13 13:00:57,962 INFO: Added 254 neighboring IPs to test from IP 94.73.156.76
+2024-09-13 13:00:57,963 INFO: IP 94.73.156.77 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:57,966 INFO: IP 95.110.131.72 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:57,976 INFO: Added 254 neighboring IPs to test from IP 95.170.207.4
+2024-09-13 13:00:57,977 INFO: IP 95.178.112.47 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:57,990 INFO: IP 94.73.156.76 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:57,995 INFO: Added 254 neighboring IPs to test from IP 95.154.110.85
+2024-09-13 13:00:58,003 INFO: Added 254 neighboring IPs to test from IP 95.158.129.2
+2024-09-13 13:00:58,023 INFO: IP 95.154.110.85 is vulnerable with amplification factor: 15.5
+2024-09-13 13:00:58,032 INFO: IP 95.158.129.2 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:58,032 INFO: Added 254 neighboring IPs to test from IP 95.158.128.2
+2024-09-13 13:00:58,053 INFO: Added 254 neighboring IPs to test from IP 95.179.217.24
+2024-09-13 13:00:58,086 INFO: Added 254 neighboring IPs to test from IP 95.154.107.77
+2024-09-13 13:00:58,090 INFO: IP 95.158.128.2 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:58,098 INFO: Added 254 neighboring IPs to test from IP 95.154.85.199
+2024-09-13 13:00:58,114 INFO: Added 254 neighboring IPs to test from IP 95.128.142.215
+2024-09-13 13:00:58,116 INFO: IP 95.154.107.77 is vulnerable with amplification factor: 15.0
+2024-09-13 13:00:58,127 INFO: IP 95.154.85.199 is vulnerable with amplification factor: 15.0
+2024-09-13 13:00:58,147 INFO: IP 95.170.207.4 is vulnerable with amplification factor: 6.125
+2024-09-13 13:00:58,179 INFO: Added 254 neighboring IPs to test from IP 95.183.55.91
+2024-09-13 13:00:58,187 INFO: Added 254 neighboring IPs to test from IP 95.154.180.65
+2024-09-13 13:00:58,193 INFO: IP 95.179.217.24 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:58,196 INFO: IP 95.128.142.215 is vulnerable with amplification factor: 14.375
+2024-09-13 13:00:58,207 INFO: IP 95.183.55.91 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:58,214 INFO: IP 95.154.180.65 is vulnerable with amplification factor: 6.75
+2024-09-13 13:00:58,234 INFO: Added 254 neighboring IPs to test from IP 95.163.96.66
+2024-09-13 13:00:58,243 INFO: Added 254 neighboring IPs to test from IP 95.110.134.114
+2024-09-13 13:00:58,259 INFO: IP 95.163.96.66 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:58,260 INFO: Added 254 neighboring IPs to test from IP 95.110.134.132
+2024-09-13 13:00:58,269 INFO: IP 95.110.134.114 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:58,287 ERROR: Error testing IP 94.75.110.66: timed out
+2024-09-13 13:00:58,301 INFO: Added 254 neighboring IPs to test from IP 95.160.121.26
+2024-09-13 13:00:58,307 INFO: IP 95.110.134.132 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:58,313 ERROR: Error testing IP 94.73.244.135: timed out
+2024-09-13 13:00:58,319 INFO: Added 254 neighboring IPs to test from IP 95.110.185.167
+2024-09-13 13:00:58,344 INFO: IP 95.110.185.167 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:58,461 INFO: Added 254 neighboring IPs to test from IP 95.131.149.27
+2024-09-13 13:00:58,515 INFO: IP 95.131.149.27 is vulnerable with amplification factor: 6.75
+2024-09-13 13:00:58,530 INFO: IP 95.160.121.26 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:58,547 INFO: Added 254 neighboring IPs to test from IP 95.110.185.241
+2024-09-13 13:00:58,592 INFO: IP 95.110.185.241 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:58,633 INFO: Added 254 neighboring IPs to test from IP 95.128.72.180
+2024-09-13 13:00:58,658 INFO: Added 254 neighboring IPs to test from IP 95.138.213.145
+2024-09-13 13:00:58,664 INFO: Added 254 neighboring IPs to test from IP 95.66.164.102
+2024-09-13 13:00:58,681 INFO: IP 95.128.72.180 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:58,683 INFO: IP 95.138.213.145 is vulnerable with amplification factor: 6.125
+2024-09-13 13:00:58,689 INFO: IP 95.66.164.102 is vulnerable with amplification factor: 8.75
+2024-09-13 13:00:58,708 INFO: Added 254 neighboring IPs to test from IP 95.160.237.97
+2024-09-13 13:00:58,730 INFO: Added 254 neighboring IPs to test from IP 95.158.146.166
+2024-09-13 13:00:58,731 INFO: Added 254 neighboring IPs to test from IP 95.142.88.177
+2024-09-13 13:00:58,731 INFO: IP 95.160.237.97 is vulnerable with amplification factor: 14.875
+2024-09-13 13:00:58,748 ERROR: Error testing IP 94.70.200.90: timed out
+2024-09-13 13:00:58,781 INFO: Added 254 neighboring IPs to test from IP 95.110.208.189
+2024-09-13 13:00:58,785 INFO: Added 254 neighboring IPs to test from IP 95.31.245.213
+2024-09-13 13:00:58,799 INFO: IP 95.142.88.177 is vulnerable with amplification factor: 8.75
+2024-09-13 13:00:58,824 INFO: IP 95.158.146.166 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:58,853 INFO: IP 95.110.208.189 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:58,858 INFO: IP 95.31.245.213 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:58,860 INFO: Added 254 neighboring IPs to test from IP 94.127.59.10
+2024-09-13 13:00:58,868 INFO: Added 254 neighboring IPs to test from IP 94.127.59.6
+2024-09-13 13:00:58,881 INFO: Added 254 neighboring IPs to test from IP 95.164.66.78
+2024-09-13 13:00:58,889 INFO: Added 254 neighboring IPs to test from IP 94.127.59.11
+2024-09-13 13:00:58,893 INFO: IP 94.127.59.6 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:58,903 INFO: Added 254 neighboring IPs to test from IP 95.111.247.213
+2024-09-13 13:00:58,908 INFO: IP 94.127.59.10 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:58,924 INFO: Added 254 neighboring IPs to test from IP 94.127.59.14
+2024-09-13 13:00:58,926 ERROR: Error testing IP 94.51.107.254: timed out
+2024-09-13 13:00:58,926 INFO: IP 95.111.247.213 is vulnerable with amplification factor: 4.125
+2024-09-13 13:00:58,927 INFO: Added 254 neighboring IPs to test from IP 95.183.125.18
+2024-09-13 13:00:58,933 INFO: Added 254 neighboring IPs to test from IP 95.154.66.69
+2024-09-13 13:00:58,934 ERROR: Error testing IP 94.50.162.220: timed out
+2024-09-13 13:00:58,941 INFO: IP 94.127.59.11 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:58,943 INFO: Added 254 neighboring IPs to test from IP 95.87.216.107
+2024-09-13 13:00:58,948 INFO: IP 94.127.59.14 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:58,950 INFO: IP 95.183.125.18 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:58,953 INFO: Added 254 neighboring IPs to test from IP 94.127.59.12
+2024-09-13 13:00:58,967 INFO: IP 95.87.216.107 is vulnerable with amplification factor: 6.125
+2024-09-13 13:00:58,976 INFO: Added 254 neighboring IPs to test from IP 94.127.59.8
+2024-09-13 13:00:58,981 INFO: IP 95.154.66.69 is vulnerable with amplification factor: 8.75
+2024-09-13 13:00:58,991 INFO: Added 254 neighboring IPs to test from IP 95.157.76.5
+2024-09-13 13:00:58,998 INFO: IP 94.127.59.8 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:59,014 INFO: IP 95.157.76.5 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:59,015 ERROR: Error testing IP 94.45.222.195: timed out
+2024-09-13 13:00:59,023 INFO: IP 94.127.59.12 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:59,025 INFO: IP 95.164.66.78 is vulnerable with amplification factor: 6.125
+2024-09-13 13:00:59,032 INFO: Added 254 neighboring IPs to test from IP 95.110.166.62
+2024-09-13 13:00:59,045 INFO: Added 254 neighboring IPs to test from IP 94.253.9.221
+2024-09-13 13:00:59,055 INFO: IP 95.110.166.62 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:59,070 INFO: IP 94.253.9.221 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:59,078 INFO: Added 254 neighboring IPs to test from IP 94.253.9.230
+2024-09-13 13:00:59,080 INFO: Added 254 neighboring IPs to test from IP 95.110.154.72
+2024-09-13 13:00:59,086 INFO: Added 254 neighboring IPs to test from IP 95.174.102.131
+2024-09-13 13:00:59,101 INFO: IP 94.253.9.230 is vulnerable with amplification factor: 6.75
+2024-09-13 13:00:59,103 INFO: IP 95.110.154.72 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:59,121 INFO: Added 254 neighboring IPs to test from IP 95.111.226.67
+2024-09-13 13:00:59,162 INFO: Added 254 neighboring IPs to test from IP 95.105.88.58
+2024-09-13 13:00:59,166 INFO: IP 95.111.226.67 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:59,175 ERROR: Error testing IP 94.40.112.196: timed out
+2024-09-13 13:00:59,181 INFO: IP 95.174.102.131 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:59,188 INFO: IP 95.105.88.58 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:59,226 INFO: Added 254 neighboring IPs to test from IP 94.140.14.140
+2024-09-13 13:00:59,230 INFO: Added 254 neighboring IPs to test from IP 94.140.14.59
+2024-09-13 13:00:59,238 INFO: Added 254 neighboring IPs to test from IP 94.140.14.141
+2024-09-13 13:00:59,247 INFO: Added 254 neighboring IPs to test from IP 94.230.190.34
+2024-09-13 13:00:59,250 INFO: Added 254 neighboring IPs to test from IP 94.230.190.226
+2024-09-13 13:00:59,257 INFO: IP 94.140.14.59 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:59,264 INFO: Added 254 neighboring IPs to test from IP 95.67.21.231
+2024-09-13 13:00:59,276 INFO: IP 94.140.14.140 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:59,276 INFO: IP 94.230.190.226 is vulnerable with amplification factor: 8.875
+2024-09-13 13:00:59,282 INFO: Added 254 neighboring IPs to test from IP 94.140.14.49
+2024-09-13 13:00:59,287 INFO: Added 254 neighboring IPs to test from IP 94.140.14.14
+2024-09-13 13:00:59,289 INFO: IP 94.140.14.141 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:59,297 INFO: IP 94.230.190.34 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:59,303 INFO: IP 94.140.14.49 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:59,315 INFO: Added 254 neighboring IPs to test from IP 95.110.191.26
+2024-09-13 13:00:59,327 INFO: IP 94.140.14.14 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:59,353 INFO: Added 254 neighboring IPs to test from IP 95.104.194.3
+2024-09-13 13:00:59,360 INFO: Added 254 neighboring IPs to test from IP 95.84.162.246
+2024-09-13 13:00:59,362 ERROR: Error testing IP 94.255.72.159: timed out
+2024-09-13 13:00:59,369 INFO: Added 254 neighboring IPs to test from IP 94.75.116.234
+2024-09-13 13:00:59,373 INFO: IP 95.104.194.3 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:59,393 INFO: IP 94.75.116.234 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:59,411 INFO: Added 254 neighboring IPs to test from IP 94.76.213.217
+2024-09-13 13:00:59,418 INFO: IP 95.67.21.231 is vulnerable with amplification factor: 8.875
+2024-09-13 13:00:59,434 INFO: IP 94.76.213.217 is vulnerable with amplification factor: 9.625
+2024-09-13 13:00:59,438 INFO: Added 254 neighboring IPs to test from IP 94.76.206.195
+2024-09-13 13:00:59,443 INFO: Added 254 neighboring IPs to test from IP 95.110.135.8
+2024-09-13 13:00:59,453 INFO: IP 95.110.191.26 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:59,470 INFO: IP 95.110.135.8 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:59,482 INFO: Added 254 neighboring IPs to test from IP 94.76.203.216
+2024-09-13 13:00:59,484 INFO: IP 95.84.162.246 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:59,509 INFO: IP 94.76.203.216 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:59,512 INFO: Added 254 neighboring IPs to test from IP 95.110.180.181
+2024-09-13 13:00:59,520 INFO: IP 94.76.206.195 is vulnerable with amplification factor: 9.625
+2024-09-13 13:00:59,536 INFO: Added 254 neighboring IPs to test from IP 95.110.222.190
+2024-09-13 13:00:59,539 INFO: IP 95.110.180.181 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:59,550 ERROR: Error testing IP 94.253.13.38: timed out
+2024-09-13 13:00:59,588 INFO: Added 254 neighboring IPs to test from IP 95.110.235.12
+2024-09-13 13:00:59,598 INFO: Added 254 neighboring IPs to test from IP 95.111.228.153
+2024-09-13 13:00:59,613 INFO: Added 254 neighboring IPs to test from IP 95.110.255.35
+2024-09-13 13:00:59,615 INFO: IP 95.110.235.12 is vulnerable with amplification factor: 9.625
+2024-09-13 13:00:59,626 INFO: IP 95.111.228.153 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:59,640 INFO: Added 254 neighboring IPs to test from IP 94.41.108.33
+2024-09-13 13:00:59,642 INFO: IP 95.110.222.190 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:59,660 INFO: Added 254 neighboring IPs to test from IP 94.41.108.130
+2024-09-13 13:00:59,682 INFO: Added 254 neighboring IPs to test from IP 94.232.216.113
+2024-09-13 13:00:59,685 INFO: IP 94.41.108.130 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:59,685 ERROR: Error testing IP 94.240.43.117: timed out
+2024-09-13 13:00:59,690 INFO: IP 94.41.108.33 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:59,692 INFO: Added 254 neighboring IPs to test from IP 94.232.216.217
+2024-09-13 13:00:59,708 INFO: IP 94.232.216.113 is vulnerable with amplification factor: 6.125
+2024-09-13 13:00:59,714 INFO: IP 95.110.255.35 is vulnerable with amplification factor: 4.125
+2024-09-13 13:00:59,741 INFO: IP 94.232.216.217 is vulnerable with amplification factor: 6.125
+2024-09-13 13:00:59,769 INFO: Added 254 neighboring IPs to test from IP 95.110.133.36
+2024-09-13 13:00:59,778 INFO: Added 254 neighboring IPs to test from IP 94.253.12.85
+2024-09-13 13:00:59,780 INFO: Added 254 neighboring IPs to test from IP 94.253.12.232
+2024-09-13 13:00:59,785 INFO: Added 254 neighboring IPs to test from IP 94.77.249.119
+2024-09-13 13:00:59,809 INFO: Added 254 neighboring IPs to test from IP 94.97.248.221
+2024-09-13 13:00:59,810 ERROR: Error testing IP 94.233.51.52: timed out
+2024-09-13 13:00:59,820 ERROR: Error testing IP 94.232.62.66: timed out
+2024-09-13 13:00:59,833 INFO: Added 254 neighboring IPs to test from IP 94.73.245.203
+2024-09-13 13:00:59,839 INFO: IP 95.110.133.36 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:59,854 INFO: Added 254 neighboring IPs to test from IP 94.79.33.27
+2024-09-13 13:00:59,856 INFO: Added 254 neighboring IPs to test from IP 94.70.234.1
+2024-09-13 13:00:59,858 INFO: IP 94.73.245.203 is vulnerable with amplification factor: 15.5
+2024-09-13 13:00:59,872 ERROR: Error testing IP 94.232.62.169: timed out
+2024-09-13 13:00:59,872 INFO: Added 254 neighboring IPs to test from IP 94.127.63.9
+2024-09-13 13:00:59,878 INFO: IP 94.70.234.1 is vulnerable with amplification factor: 2.3125
+2024-09-13 13:00:59,879 INFO: IP 94.77.249.119 is vulnerable with amplification factor: 5.0
+2024-09-13 13:00:59,882 INFO: Added 254 neighboring IPs to test from IP 94.127.63.11
+2024-09-13 13:00:59,897 INFO: IP 94.253.12.232 is vulnerable with amplification factor: 4.125
+2024-09-13 13:00:59,898 INFO: IP 94.127.63.9 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:59,902 INFO: IP 94.79.33.27 is vulnerable with amplification factor: 11.5
+2024-09-13 13:00:59,905 ERROR: Error testing IP 94.232.217.1: timed out
+2024-09-13 13:00:59,929 INFO: IP 94.127.63.11 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:59,941 INFO: IP 94.253.12.85 is vulnerable with amplification factor: 4.5
+2024-09-13 13:00:59,948 INFO: Added 254 neighboring IPs to test from IP 94.127.63.6
+2024-09-13 13:00:59,954 INFO: Added 254 neighboring IPs to test from IP 94.72.27.82
+2024-09-13 13:00:59,971 INFO: IP 94.97.248.221 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:59,971 INFO: IP 94.127.63.6 is vulnerable with amplification factor: 1.875
+2024-09-13 13:00:59,978 INFO: IP 94.72.27.82 is vulnerable with amplification factor: 1.875
+2024-09-13 13:01:00,010 INFO: Added 254 neighboring IPs to test from IP 94.76.219.33
+2024-09-13 13:01:00,022 ERROR: Error testing IP 94.231.164.10: timed out
+2024-09-13 13:01:00,049 INFO: Added 254 neighboring IPs to test from IP 94.75.71.1
+2024-09-13 13:01:00,055 INFO: IP 94.76.219.33 is vulnerable with amplification factor: 9.625
+2024-09-13 13:01:00,067 INFO: Added 254 neighboring IPs to test from IP 95.0.124.163
+2024-09-13 13:01:00,077 INFO: IP 94.75.71.1 is vulnerable with amplification factor: 8.875
+2024-09-13 13:01:00,116 INFO: Added 254 neighboring IPs to test from IP 95.165.255.106
+2024-09-13 13:01:00,142 INFO: IP 95.0.124.163 is vulnerable with amplification factor: 1.875
+2024-09-13 13:01:00,161 INFO: Added 254 neighboring IPs to test from IP 94.70.174.128
+2024-09-13 13:01:00,167 INFO: IP 95.165.255.106 is vulnerable with amplification factor: 13.375
+2024-09-13 13:01:00,200 INFO: Added 254 neighboring IPs to test from IP 94.73.241.165
+2024-09-13 13:01:00,235 INFO: IP 94.70.174.128 is vulnerable with amplification factor: 15.375
+2024-09-13 13:01:00,245 INFO: IP 94.73.241.165 is vulnerable with amplification factor: 8.75
+2024-09-13 13:01:00,250 ERROR: Error testing IP 94.229.82.156: timed out
+2024-09-13 13:01:00,251 ERROR: Error testing IP 94.229.82.193: timed out
+2024-09-13 13:01:00,285 INFO: Added 254 neighboring IPs to test from IP 94.232.62.190
+2024-09-13 13:01:00,312 INFO: Added 254 neighboring IPs to test from IP 94.70.248.217
+2024-09-13 13:01:00,331 ERROR: Error testing IP 94.228.207.102: timed out
+2024-09-13 13:01:00,336 ERROR: Error testing IP 94.228.198.137: timed out
+2024-09-13 13:01:00,337 INFO: Added 254 neighboring IPs to test from IP 94.232.62.253
+2024-09-13 13:01:00,339 INFO: IP 94.232.62.190 is vulnerable with amplification factor: 11.5
+2024-09-13 13:01:00,412 INFO: Added 254 neighboring IPs to test from IP 94.73.166.124
+2024-09-13 13:01:00,434 INFO: IP 94.232.62.253 is vulnerable with amplification factor: 6.75
+2024-09-13 13:01:00,434 ERROR: Error testing IP 94.206.42.74: timed out
+2024-09-13 13:01:00,437 INFO: Added 254 neighboring IPs to test from IP 94.21.243.250
+2024-09-13 13:01:00,441 INFO: Added 254 neighboring IPs to test from IP 94.30.9.110
+2024-09-13 13:01:00,450 INFO: Added 254 neighboring IPs to test from IP 94.21.91.189
+2024-09-13 13:01:00,465 INFO: IP 94.70.248.217 is vulnerable with amplification factor: 1.875
+2024-09-13 13:01:00,465 INFO: IP 94.21.243.250 is vulnerable with amplification factor: 1.875
+2024-09-13 13:01:00,465 ERROR: Error testing IP 94.205.51.210: timed out
+2024-09-13 13:01:00,487 INFO: Added 254 neighboring IPs to test from IP 94.70.224.14
+2024-09-13 13:01:00,488 INFO: Added 254 neighboring IPs to test from IP 94.45.223.62
+2024-09-13 13:01:00,491 INFO: Added 254 neighboring IPs to test from IP 94.21.243.35
+2024-09-13 13:01:00,492 INFO: Added 254 neighboring IPs to test from IP 94.45.4.130
+2024-09-13 13:01:00,497 INFO: IP 94.30.9.110 is vulnerable with amplification factor: 1.875
+2024-09-13 13:01:00,517 INFO: IP 94.45.223.62 is vulnerable with amplification factor: 6.125
+2024-09-13 13:01:00,523 INFO: IP 94.21.243.35 is vulnerable with amplification factor: 1.875
+2024-09-13 13:01:00,524 INFO: IP 94.45.4.130 is vulnerable with amplification factor: 6.125
+2024-09-13 13:01:00,530 INFO: IP 94.73.166.124 is vulnerable with amplification factor: 1.875
+2024-09-13 13:01:00,531 INFO: Added 254 neighboring IPs to test from IP 94.139.221.136
+2024-09-13 13:01:00,539 INFO: Added 254 neighboring IPs to test from IP 94.29.75.49
+2024-09-13 13:01:00,540 INFO: IP 94.21.91.189 is vulnerable with amplification factor: 6.125
+2024-09-13 13:01:00,548 INFO: IP 94.70.224.14 is vulnerable with amplification factor: 2.3125
+2024-09-13 13:01:00,555 INFO: Added 254 neighboring IPs to test from IP 95.110.132.25
+2024-09-13 13:01:00,558 INFO: Added 254 neighboring IPs to test from IP 93.87.43.226
+2024-09-13 13:01:00,560 INFO: IP 94.139.221.136 is vulnerable with amplification factor: 1.875
+2024-09-13 13:01:00,560 INFO: Added 254 neighboring IPs to test from IP 93.87.43.248
+2024-09-13 13:01:00,567 INFO: IP 94.29.75.49 is vulnerable with amplification factor: 1.875
+2024-09-13 13:01:00,574 INFO: Added 254 neighboring IPs to test from IP 94.46.21.66
+2024-09-13 13:01:00,577 INFO: Added 254 neighboring IPs to test from IP 94.139.221.231
+2024-09-13 13:01:00,580 INFO: IP 95.110.132.25 is vulnerable with amplification factor: 1.875
+2024-09-13 13:01:00,586 INFO: Added 254 neighboring IPs to test from IP 94.45.222.178
+2024-09-13 13:01:00,591 ERROR: Error testing IP 94.200.80.94: timed out
+2024-09-13 13:01:00,602 INFO: IP 94.139.221.231 is vulnerable with amplification factor: 1.875
+2024-09-13 13:01:00,608 INFO: Added 254 neighboring IPs to test from IP 95.105.45.195
+2024-09-13 13:01:00,609 INFO: IP 93.87.43.226 is vulnerable with amplification factor: 5.0
+2024-09-13 13:01:00,613 INFO: Added 254 neighboring IPs to test from IP 93.87.43.227
+2024-09-13 13:01:00,626 INFO: IP 94.46.21.66 is vulnerable with amplification factor: 1.875
+2024-09-13 13:01:00,638 INFO: IP 93.87.43.248 is vulnerable with amplification factor: 4.125
+2024-09-13 13:01:00,641 INFO: IP 93.87.43.227 is vulnerable with amplification factor: 5.0
+2024-09-13 13:01:00,642 ERROR: Error testing IP 94.200.113.238: timed out
+2024-09-13 13:01:00,647 INFO: Added 254 neighboring IPs to test from IP 94.72.61.194
+2024-09-13 13:01:00,649 INFO: Added 254 neighboring IPs to test from IP 94.21.91.28
+2024-09-13 13:01:00,675 INFO: IP 94.21.91.28 is vulnerable with amplification factor: 8.875
+2024-09-13 13:01:00,676 INFO: Added 254 neighboring IPs to test from IP 94.75.72.66
+2024-09-13 13:01:00,687 INFO: Added 254 neighboring IPs to test from IP 94.205.48.254
+2024-09-13 13:01:00,692 INFO: Added 254 neighboring IPs to test from IP 94.205.48.98
+2024-09-13 13:01:00,700 INFO: IP 94.75.72.66 is vulnerable with amplification factor: 13.875
+2024-09-13 13:01:00,706 ERROR: Error testing IP 94.199.73.114: timed out
+2024-09-13 13:01:00,708 INFO: Added 254 neighboring IPs to test from IP 94.70.197.123
+2024-09-13 13:01:00,712 INFO: IP 94.205.48.254 is vulnerable with amplification factor: 1.875
+2024-09-13 13:01:00,715 INFO: Added 254 neighboring IPs to test from IP 94.73.216.61
+2024-09-13 13:01:00,717 INFO: IP 94.45.222.178 is vulnerable with amplification factor: 6.125
+2024-09-13 13:01:00,723 INFO: Added 254 neighboring IPs to test from IP 94.30.107.40
+2024-09-13 13:01:00,724 INFO: IP 94.72.61.194 is vulnerable with amplification factor: 1.875
+2024-09-13 13:01:00,733 INFO: IP 94.70.197.123 is vulnerable with amplification factor: 1.875
+2024-09-13 13:01:00,738 INFO: IP 95.105.45.195 is vulnerable with amplification factor: 4.125
+2024-09-13 13:01:00,741 INFO: IP 94.205.48.98 is vulnerable with amplification factor: 1.875
+2024-09-13 13:01:00,756 ERROR: Error testing IP 94.198.210.88: timed out
+2024-09-13 13:01:00,767 INFO: Added 254 neighboring IPs to test from IP 94.65.208.118
+2024-09-13 13:01:00,768 INFO: Added 254 neighboring IPs to test from IP 93.92.196.164
+2024-09-13 13:01:00,787 INFO: Added 254 neighboring IPs to test from IP 93.92.196.102
+2024-09-13 13:01:00,792 INFO: IP 94.30.107.40 is vulnerable with amplification factor: 9.625
+2024-09-13 13:01:00,796 INFO: Added 254 neighboring IPs to test from IP 94.41.86.120
+2024-09-13 13:01:00,806 INFO: Added 254 neighboring IPs to test from IP 94.26.216.143
+2024-09-13 13:01:00,807 INFO: IP 94.73.216.61 is vulnerable with amplification factor: 8.75
+2024-09-13 13:01:00,811 INFO: IP 93.92.196.102 is vulnerable with amplification factor: 8.75
+2024-09-13 13:01:00,830 INFO: IP 94.26.216.143 is vulnerable with amplification factor: 2.4375
+2024-09-13 13:01:00,837 INFO: IP 94.65.208.118 is vulnerable with amplification factor: 1.875
+2024-09-13 13:01:00,859 INFO: IP 93.92.196.164 is vulnerable with amplification factor: 13.5
+2024-09-13 13:01:00,881 INFO: Added 254 neighboring IPs to test from IP 94.181.179.166
+2024-09-13 13:01:00,888 INFO: IP 94.41.86.120 is vulnerable with amplification factor: 1.875
+2024-09-13 13:01:00,899 INFO: Added 254 neighboring IPs to test from IP 94.181.179.145
+2024-09-13 13:01:00,908 INFO: IP 94.181.179.166 is vulnerable with amplification factor: 6.75
+2024-09-13 13:01:00,914 INFO: Uploading files to GitHub...
+2024-09-13 13:01:00,930 INFO: IP 94.181.179.145 is vulnerable with amplification factor: 8.25
+2024-09-13 13:01:00,933 INFO: Added 254 neighboring IPs to test from IP 94.102.156.252
+2024-09-13 13:01:00,947 INFO: Added 254 neighboring IPs to test from IP 94.102.156.250
+2024-09-13 13:01:00,958 ERROR: Error testing IP 94.179.147.10: timed out
+2024-09-13 13:01:00,973 INFO: Added 254 neighboring IPs to test from IP 94.43.233.190
+2024-09-13 13:01:00,996 INFO: Added 254 neighboring IPs to test from IP 93.158.35.174
+2024-09-13 13:01:01,002 INFO: Added 254 neighboring IPs to test from IP 93.158.35.192
+2024-09-13 13:01:01,002 INFO: Added 254 neighboring IPs to test from IP 93.89.111.13
+2024-09-13 13:01:01,008 INFO: Added 254 neighboring IPs to test from IP 93.158.35.220
+2024-09-13 13:01:01,016 INFO: Added 254 neighboring IPs to test from IP 93.158.35.34
+2024-09-13 13:01:01,020 INFO: Added 254 neighboring IPs to test from IP 93.158.35.221
+2024-09-13 13:01:01,021 INFO: Added 254 neighboring IPs to test from IP 94.76.147.129
+2024-09-13 13:01:01,023 INFO: Added 254 neighboring IPs to test from IP 94.247.210.12
+2024-09-13 13:01:01,024 INFO: Added 254 neighboring IPs to test from IP 94.73.231.219
+2024-09-13 13:01:01,028 INFO: IP 94.102.156.250 is vulnerable with amplification factor: 1.875
+2024-09-13 13:01:01,031 INFO: IP 93.158.35.220 is vulnerable with amplification factor: 1.875
+2024-09-13 13:01:01,040 INFO: IP 94.102.156.252 is vulnerable with amplification factor: 1.875
+2024-09-13 13:01:01,045 INFO: IP 93.158.35.174 is vulnerable with amplification factor: 1.875
+2024-09-13 13:01:01,047 INFO: IP 94.247.210.12 is vulnerable with amplification factor: 8.25
+2024-09-13 13:01:01,050 INFO: IP 93.89.111.13 is vulnerable with amplification factor: 6.125
+2024-09-13 13:01:01,050 INFO: IP 94.43.233.190 is vulnerable with amplification factor: 1.875
+2024-09-13 13:01:01,067 INFO: Added 254 neighboring IPs to test from IP 94.233.73.10
+2024-09-13 13:01:01,068 INFO: IP 93.158.35.221 is vulnerable with amplification factor: 1.875
+2024-09-13 13:01:01,069 INFO: IP 94.76.147.129 is vulnerable with amplification factor: 4.125
+2024-09-13 13:01:01,072 INFO: Added 254 neighboring IPs to test from IP 93.158.35.43
+2024-09-13 13:01:01,075 INFO: IP 93.158.35.192 is vulnerable with amplification factor: 1.875
+2024-09-13 13:01:01,088 INFO: IP 93.158.35.34 is vulnerable with amplification factor: 1.875
+2024-09-13 13:01:01,093 INFO: Added 254 neighboring IPs to test from IP 93.158.35.189
+2024-09-13 13:01:01,095 INFO: Added 254 neighboring IPs to test from IP 93.158.35.188
+2024-09-13 13:01:01,098 INFO: Added 254 neighboring IPs to test from IP 93.89.111.12
+2024-09-13 13:01:01,116 INFO: IP 94.233.73.10 is vulnerable with amplification factor: 6.75
+2024-09-13 13:01:01,119 INFO: IP 93.158.35.43 is vulnerable with amplification factor: 1.875
+2024-09-13 13:01:01,119 INFO: IP 93.158.35.188 is vulnerable with amplification factor: 1.875
+2024-09-13 13:01:01,124 INFO: Added 254 neighboring IPs to test from IP 94.31.166.113
+2024-09-13 13:01:01,141 INFO: IP 93.158.35.189 is vulnerable with amplification factor: 1.875
+2024-09-13 13:01:01,147 INFO: IP 93.89.111.12 is vulnerable with amplification factor: 6.125
+2024-09-13 13:01:01,150 INFO: Added 254 neighboring IPs to test from IP 94.43.92.30
+2024-09-13 13:01:01,151 INFO: IP 94.31.166.113 is vulnerable with amplification factor: 7.25
+2024-09-13 13:01:01,182 INFO: Added 254 neighboring IPs to test from IP 94.20.142.202
+2024-09-13 13:01:01,187 INFO: Added 254 neighboring IPs to test from IP 94.43.11.23
+2024-09-13 13:01:01,193 INFO: Added 254 neighboring IPs to test from IP 94.247.62.77
+2024-09-13 13:01:01,198 INFO: IP 94.43.92.30 is vulnerable with amplification factor: 4.125
+2024-09-13 13:01:01,210 ERROR: Error testing IP 94.141.62.85: timed out
+2024-09-13 13:01:01,213 INFO: Added 254 neighboring IPs to test from IP 94.73.223.67
+2024-09-13 13:01:01,216 INFO: IP 94.73.231.219 is vulnerable with amplification factor: 8.75
+2024-09-13 13:01:01,222 INFO: Added 254 neighboring IPs to test from IP 94.232.57.6
+2024-09-13 13:01:01,228 INFO: Added 254 neighboring IPs to test from IP 94.230.36.188
+2024-09-13 13:01:01,235 INFO: Added 254 neighboring IPs to test from IP 94.237.80.141
+2024-09-13 13:01:01,238 INFO: IP 94.247.62.77 is vulnerable with amplification factor: 5.25
+2024-09-13 13:01:01,257 INFO: IP 94.237.80.141 is vulnerable with amplification factor: 1.875
+2024-09-13 13:01:01,260 INFO: IP 94.73.223.67 is vulnerable with amplification factor: 8.75
+2024-09-13 13:01:01,262 INFO: Added 254 neighboring IPs to test from IP 94.231.251.5
+2024-09-13 13:01:01,268 INFO: Added 254 neighboring IPs to test from IP 94.243.61.94
+2024-09-13 13:01:01,268 INFO: Added 254 neighboring IPs to test from IP 94.32.106.53
+2024-09-13 13:01:01,269 INFO: IP 94.232.57.6 is vulnerable with amplification factor: 4.5
+2024-09-13 13:01:01,274 INFO: Added 254 neighboring IPs to test from IP 94.70.86.230
+2024-09-13 13:01:01,275 INFO: Added 254 neighboring IPs to test from IP 94.181.181.166
+2024-09-13 13:01:01,277 INFO: IP 94.230.36.188 is vulnerable with amplification factor: 4.125
+2024-09-13 13:01:01,294 INFO: IP 94.243.61.94 is vulnerable with amplification factor: 4.5
+2024-09-13 13:01:01,294 INFO: Added 254 neighboring IPs to test from IP 94.181.181.139
+2024-09-13 13:01:01,295 INFO: IP 94.32.106.53 is vulnerable with amplification factor: 9.625
+2024-09-13 13:01:01,302 INFO: IP 94.181.181.166 is vulnerable with amplification factor: 4.5
+2024-09-13 13:01:01,312 INFO: Added 254 neighboring IPs to test from IP 94.240.25.143
+2024-09-13 13:01:01,314 INFO: IP 94.231.251.5 is vulnerable with amplification factor: 1.875
+2024-09-13 13:01:01,321 INFO: IP 94.181.181.139 is vulnerable with amplification factor: 6.75
+2024-09-13 13:01:01,326 INFO: IP 94.70.86.230 is vulnerable with amplification factor: 14.375
+2024-09-13 13:01:01,328 INFO: IP 94.20.142.202 is vulnerable with amplification factor: 1.875
+2024-09-13 13:01:01,347 INFO: Added 254 neighboring IPs to test from IP 94.100.6.98
+2024-09-13 13:01:01,357 INFO: Added 254 neighboring IPs to test from IP 94.100.6.99
+2024-09-13 13:01:01,359 INFO: Added 254 neighboring IPs to test from IP 94.154.19.108
+2024-09-13 13:01:01,361 INFO: IP 94.43.11.23 is vulnerable with amplification factor: 9.625
+2024-09-13 13:01:01,373 INFO: Added 254 neighboring IPs to test from IP 94.243.137.170
+2024-09-13 13:01:01,374 ERROR: Error testing IP 94.131.104.76: timed out
+2024-09-13 13:01:01,385 INFO: IP 94.154.19.108 is vulnerable with amplification factor: 1.875
+2024-09-13 13:01:01,387 INFO: Added 254 neighboring IPs to test from IP 94.26.57.108
+2024-09-13 13:01:01,391 INFO: Added 254 neighboring IPs to test from IP 94.29.72.176
+2024-09-13 13:01:01,392 INFO: IP 94.240.25.143 is vulnerable with amplification factor: 1.875
+2024-09-13 13:01:01,400 INFO: IP 94.100.6.98 is vulnerable with amplification factor: 1.875
+2024-09-13 13:01:01,400 INFO: IP 94.243.137.170 is vulnerable with amplification factor: 9.625
+2024-09-13 13:01:01,410 INFO: IP 94.100.6.99 is vulnerable with amplification factor: 1.875
+2024-09-13 13:01:01,415 INFO: IP 94.26.57.108 is vulnerable with amplification factor: 1.875
+2024-09-13 13:01:01,418 INFO: IP 94.29.72.176 is vulnerable with amplification factor: 11.5
+2024-09-13 13:01:01,427 INFO: Added 254 neighboring IPs to test from IP 94.233.106.90
+2024-09-13 13:01:01,428 INFO: Added 254 neighboring IPs to test from IP 93.95.98.79
+2024-09-13 13:01:01,434 INFO: Added 254 neighboring IPs to test from IP 94.253.15.114
+2024-09-13 13:01:01,436 INFO: Added 254 neighboring IPs to test from IP 94.241.90.71
+2024-09-13 13:01:01,439 ERROR: Error testing IP 94.127.107.3: timed out
+2024-09-13 13:01:01,439 INFO: Added 254 neighboring IPs to test from IP 94.230.140.123
+2024-09-13 13:01:01,440 INFO: Added 254 neighboring IPs to test from IP 93.92.202.187
+2024-09-13 13:01:01,447 ERROR: Error testing IP 94.126.9.75: timed out
+2024-09-13 13:01:01,451 INFO: IP 94.233.106.90 is vulnerable with amplification factor: 12.25
+2024-09-13 13:01:01,451 ERROR: Error testing IP 94.126.25.130: timed out
+2024-09-13 13:01:01,453 INFO: IP 93.95.98.79 is vulnerable with amplification factor: 12.25
+2024-09-13 13:01:01,454 INFO: Added 254 neighboring IPs to test from IP 94.66.237.222
+2024-09-13 13:01:01,461 INFO: IP 94.253.15.114 is vulnerable with amplification factor: 6.75
+2024-09-13 13:01:01,462 INFO: Added 254 neighboring IPs to test from IP 93.92.202.178
+2024-09-13 13:01:01,463 INFO: Added 254 neighboring IPs to test from IP 94.101.55.216
+2024-09-13 13:01:01,467 INFO: Added 254 neighboring IPs to test from IP 94.24.235.114
+2024-09-13 13:01:01,467 INFO: Added 254 neighboring IPs to test from IP 94.101.55.219
+2024-09-13 13:01:01,479 INFO: IP 94.66.237.222 is vulnerable with amplification factor: 14.875
+2024-09-13 13:01:01,487 INFO: IP 93.92.202.178 is vulnerable with amplification factor: 12.25
+2024-09-13 13:01:01,489 INFO: IP 94.241.90.71 is vulnerable with amplification factor: 12.875
+2024-09-13 13:01:01,492 INFO: IP 93.92.202.187 is vulnerable with amplification factor: 8.75
+2024-09-13 13:01:01,493 INFO: IP 94.101.55.219 is vulnerable with amplification factor: 8.46875
+2024-09-13 13:01:01,501 INFO: Added 254 neighboring IPs to test from IP 93.95.98.172
+2024-09-13 13:01:01,509 INFO: Added 254 neighboring IPs to test from IP 94.42.123.189
+2024-09-13 13:01:01,517 INFO: IP 94.24.235.114 is vulnerable with amplification factor: 4.125
+2024-09-13 13:01:01,519 INFO: Added 254 neighboring IPs to test from IP 94.231.212.65
+2024-09-13 13:01:01,520 INFO: Added 254 neighboring IPs to test from IP 94.243.220.6
+2024-09-13 13:01:01,524 INFO: IP 93.95.98.172 is vulnerable with amplification factor: 12.25
+2024-09-13 13:01:01,532 INFO: IP 94.42.123.189 is vulnerable with amplification factor: 1.875
+2024-09-13 13:01:01,538 INFO: Added 254 neighboring IPs to test from IP 94.232.217.81
+2024-09-13 13:01:01,540 INFO: IP 94.230.140.123 is vulnerable with amplification factor: 4.5
+2024-09-13 13:01:01,542 INFO: IP 94.231.212.65 is vulnerable with amplification factor: 1.875
+2024-09-13 13:01:01,549 INFO: Added 254 neighboring IPs to test from IP 94.72.28.16
+2024-09-13 13:01:01,550 INFO: Added 254 neighboring IPs to test from IP 94.30.76.241
+2024-09-13 13:01:01,553 INFO: Added 254 neighboring IPs to test from IP 93.62.185.101
+2024-09-13 13:01:01,556 INFO: Added 254 neighboring IPs to test from IP 93.62.185.99
+2024-09-13 13:01:01,562 INFO: Added 254 neighboring IPs to test from IP 94.61.250.150
+2024-09-13 13:01:01,565 INFO: IP 94.243.220.6 is vulnerable with amplification factor: 15.75
+2024-09-13 13:01:01,570 INFO: Added 254 neighboring IPs to test from IP 94.155.153.60
+2024-09-13 13:01:01,578 INFO: IP 93.62.185.99 is vulnerable with amplification factor: 1.875
+2024-09-13 13:01:01,579 ERROR: Error testing IP 93.99.54.195: timed out
+2024-09-13 13:01:01,582 INFO: Added 254 neighboring IPs to test from IP 93.62.185.102
+2024-09-13 13:01:01,586 INFO: Successfully uploaded good_dns_amplifiers_20240913_130047.txt to GitHub.
