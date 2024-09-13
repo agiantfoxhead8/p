@@ -1,0 +1,43 @@
+2024-09-13 02:11:53,515 INFO: Fetched 25684 IPs from https://raw.githubusercontent.com/trickest/resolvers/main/resolvers.txt
+2024-09-13 02:11:53,667 INFO: Fetched 13898 IPs from https://raw.githubusercontent.com/proabiral/Fresh-Resolvers/master/resolvers.txt
+2024-09-13 02:11:53,877 INFO: Fetched 13309 IPs from https://raw.githubusercontent.com/BBerastegui/fresh-dns-servers/master/resolvers.txt
+2024-09-13 02:11:53,963 INFO: Cleaned list to 27646 valid IPs
+2024-09-13 02:11:54,093 INFO: Added 99.83.147.72 to spoofed IP pool
+2024-09-13 02:11:59,178 ERROR: Error testing IP 98.191.57.131: timed out
+2024-09-13 02:11:59,225 ERROR: Error testing IP 98.164.41.54: timed out
+2024-09-13 02:11:59,273 ERROR: Error testing IP 98.152.244.34: timed out
+2024-09-13 02:11:59,276 ERROR: Error testing IP 98.102.44.48: timed out
+2024-09-13 02:11:59,279 ERROR: Error testing IP 98.102.44.156: timed out
+2024-09-13 02:11:59,719 ERROR: Error testing IP 96.42.243.194: timed out
+2024-09-13 02:11:59,729 ERROR: Error testing IP 96.36.238.246: timed out
+2024-09-13 02:11:59,858 ERROR: Error testing IP 95.84.198.236: timed out
+2024-09-13 02:11:59,879 ERROR: Error testing IP 95.79.41.169: timed out
+2024-09-13 02:11:59,882 ERROR: Error testing IP 95.79.30.44: timed out
+2024-09-13 02:11:59,888 ERROR: Error testing IP 95.79.128.174: timed out
+2024-09-13 02:11:59,915 ERROR: Error testing IP 95.71.2.54: timed out
+2024-09-13 02:11:59,918 ERROR: Error testing IP 95.68.245.145: timed out
+2024-09-13 02:11:59,939 ERROR: Error testing IP 95.66.142.11: timed out
+2024-09-13 02:11:59,945 ERROR: Error testing IP 95.66.141.20: timed out
+2024-09-13 02:11:59,950 ERROR: Error testing IP 95.66.132.26: timed out
+2024-09-13 02:11:59,969 ERROR: Error testing IP 95.64.204.142: timed out
+2024-09-13 02:11:59,972 ERROR: Error testing IP 95.64.202.178: timed out
+2024-09-13 02:11:59,977 ERROR: Error testing IP 95.64.190.122: timed out
+2024-09-13 02:11:59,982 ERROR: Error testing IP 95.64.180.2: timed out
+2024-09-13 02:11:59,995 ERROR: Error testing IP 95.64.146.206: timed out
+2024-09-13 02:12:00,041 ERROR: Error testing IP 95.52.240.151: timed out
+2024-09-13 02:12:00,049 ERROR: Error testing IP 95.47.59.113: timed out
+2024-09-13 02:12:00,065 ERROR: Error testing IP 95.47.146.28: timed out
+2024-09-13 02:12:00,079 ERROR: Error testing IP 95.46.6.76: timed out
+2024-09-13 02:12:00,082 ERROR: Error testing IP 95.46.6.43: timed out
+2024-09-13 02:12:00,083 ERROR: Error testing IP 95.46.6.37: timed out
+2024-09-13 02:12:00,090 ERROR: Error testing IP 95.46.201.206: timed out
+2024-09-13 02:12:00,153 ERROR: Error testing IP 95.31.32.102: timed out
+2024-09-13 02:12:00,171 ERROR: Error testing IP 95.31.208.124: timed out
+2024-09-13 02:12:00,269 ERROR: Error testing IP 95.189.99.226: timed out
+2024-09-13 02:12:00,290 ERROR: Error testing IP 95.182.107.243: timed out
+2024-09-13 02:12:00,309 ERROR: Error testing IP 95.180.218.10: timed out
+2024-09-13 02:12:00,347 ERROR: Error testing IP 95.174.102.131: timed out
+2024-09-13 02:12:00,354 ERROR: Error testing IP 95.173.184.115: timed out
+2024-09-13 02:12:00,387 ERROR: Error testing IP 95.171.122.83: timed out
+2024-09-13 02:12:00,397 ERROR: Error testing IP 95.170.207.4: timed out
+2024-09-13 02:12:00,400 ERROR: Error testing IP 95.170.192.41: timed out
