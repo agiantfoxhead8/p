@@ -1,0 +1,5 @@
+2024-09-13 05:41:09,401 INFO: Fetched 25684 IPs from https://raw.githubusercontent.com/trickest/resolvers/main/resolvers.txt
+2024-09-13 05:41:09,449 INFO: Fetched 14055 IPs from https://raw.githubusercontent.com/proabiral/Fresh-Resolvers/master/resolvers.txt
+2024-09-13 05:41:09,499 INFO: Fetched 13309 IPs from https://raw.githubusercontent.com/BBerastegui/fresh-dns-servers/master/resolvers.txt
+2024-09-13 05:41:09,578 INFO: Cleaned list to 27763 valid IPs
+2024-09-13 05:41:09,703 INFO: Added 99.83.147.72 to spoofed IP pool
