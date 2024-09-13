@@ -1,0 +1,8 @@
+2024-09-13 02:27:27,711 INFO: Fetched 25684 IPs from https://raw.githubusercontent.com/trickest/resolvers/main/resolvers.txt
+2024-09-13 02:27:27,859 INFO: Fetched 13898 IPs from https://raw.githubusercontent.com/proabiral/Fresh-Resolvers/master/resolvers.txt
+2024-09-13 02:27:28,065 INFO: Fetched 13309 IPs from https://raw.githubusercontent.com/BBerastegui/fresh-dns-servers/master/resolvers.txt
+2024-09-13 02:27:28,154 INFO: Cleaned list to 27646 valid IPs
+2024-09-13 02:27:28,268 INFO: Added 99.83.147.72 to spoofed IP pool
+2024-09-13 02:27:33,350 ERROR: Error testing IP 98.191.57.131: timed out
+2024-09-13 02:27:33,445 ERROR: Error testing IP 98.13.82.63: timed out
+2024-09-13 02:27:33,446 ERROR: Error testing IP 98.102.44.156: timed out
