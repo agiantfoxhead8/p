@@ -1,0 +1,5 @@
+2024-09-13 23:54:22,907 INFO: Testing 27627 IPs for DNS amplification vulnerability...
+2024-09-13 23:54:22,916 ERROR: Error for IP https://raw.githubusercontent.com/trickest/resolvers/main/resolvers.txt: [Errno -2] Name or service not known
+2024-09-13 23:54:22,918 ERROR: Error for IP https://raw.githubusercontent.com/proabiral/Fresh-Resolvers/master/resolvers.txt: [Errno -2] Name or service not known
+2024-09-13 23:54:22,918 ERROR: Error for IP https://raw.githubusercontent.com/BBerastegui/fresh-dns-servers/master/resolvers.txt: [Errno -2] Name or service not known
+2024-09-13 23:54:22,923 ERROR: File good_dns_amplifiers_20240913_235422.txt does not exist or is empty.
